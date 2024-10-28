@@ -79,7 +79,7 @@ XYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 | QYLD | <span style="color: tomato">7.7<small>%</small></span> | 14.6<small>%</small> | 0.53 | -24.8<small>%</small> | -4.1<small>%</small> |
 | XYLD | <span style="color: tomato">5.3<small>%</small></span> | 14.0<small>%</small> | 0.38 | -34.7<small>%</small> | -4.7<small>%</small> |
 | XYLD<sub>STD</sub> <small>(105%)</small> | <span style="color: tomato">5.5<small>%</small></span> | 14.6<small>%</small> | 0.37 | -36.1<small>%</small> | -5.0<small>%</small> |
-| XYLD<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">3.9<small>%</small></span> | 10.0<small>%</small> | 0.40 | -25.5<small>%</small> | -3.3<small>%</small> |
+| XYLD<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">4.0<small>%</small></span> | 10.0<small>%</small> | 0.40 | -25.5<small>%</small> | -3.3<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ XYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 
 **위험도 지표 (표준편차):** 105% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 5.5%로 QYLD의 7.7%보다 -2.2% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 71% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 3.9%로 QYLD의 7.7%보다 -3.7% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 71% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 4.0%로 QYLD의 7.7%보다 -3.7% 낮았습니다. (낮은 수익률)
 
 
 
