@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [우리금융지주](/316140/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241025800344){:target="_blank"} |
-| [에코프로](/086520/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241025000364){:target="_blank"} |
-| [종근당](/185750/#dart) | | [영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241025800339){:target="_blank"} |
-| [HL만도](/204320/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241025800337){:target="_blank"} |
-| [대우건설](/047040/#dart) | | [결산실적공시예고(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241025800349){:target="_blank"} |
+| [한화생명](/088350/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241028800416){:target="_blank"} |
+| [LS](/006260/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241028800404){:target="_blank"} |
+| [아모레퍼시픽그룹](/002790/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241028000225){:target="_blank"} |
+| [아이티엠반도체](/084850/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241028000222){:target="_blank"} |
+| [DGB금융지주](/139130/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241028800385){:target="_blank"} |
