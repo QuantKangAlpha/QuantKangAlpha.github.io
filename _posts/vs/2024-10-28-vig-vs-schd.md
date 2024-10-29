@@ -32,7 +32,7 @@ VIG의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | VIG | <span style="color: tomato">13.0<small>%</small></span> | 15.1<small>%</small> | 0.86 | -31.7<small>%</small> | -3.2<small>%</small> |
-| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.06 | -33.4<small>%</small> | -2.7<small>%</small> |
+| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.8<small>%</small> |
 
 <!-- more -->
 
@@ -75,9 +75,9 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | VIG | <span style="color: tomato">13.0<small>%</small></span> | 15.1<small>%</small> | 0.86 | -31.7<small>%</small> | -3.2<small>%</small> |
-| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.06 | -33.4<small>%</small> | -2.7<small>%</small> |
-| SCHD<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">16.1<small>%</small></span> | 15.1<small>%</small> | 1.06 | -32.4<small>%</small> | -2.6<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">15.8<small>%</small></span> | 14.9<small>%</small> | 1.06 | -31.9<small>%</small> | -2.5<small>%</small> |
+| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.8<small>%</small> |
+| SCHD<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">16.1<small>%</small></span> | 15.1<small>%</small> | 1.07 | -32.5<small>%</small> | -2.7<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">15.8<small>%</small></span> | 14.8<small>%</small> | 1.07 | -31.9<small>%</small> | -2.6<small>%</small> |
 
 
 
