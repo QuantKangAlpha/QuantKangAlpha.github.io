@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [YMAX](/ymax-vs-jepi/) | <span style="color: tomato">24.1<small>%</small></span> | 17.9<small>%</small> | 1.35 | -12.8<small>%</small> | -2.8<small>%</small> |
-| JEPI | <span style="color: tomato">18.2<small>%</small></span> | 7.3<small>%</small> | 2.49 | -3.9<small>%</small> | -0.7<small>%</small> |
+| [YMAX](/ymax-vs-jepi/) | <span style="color: tomato">24.9<small>%</small></span> | 17.8<small>%</small> | 1.40 | -12.8<small>%</small> | -2.8<small>%</small> |
+| JEPI | <span style="color: tomato">17.8<small>%</small></span> | 7.3<small>%</small> | 2.44 | -3.9<small>%</small> | -0.7<small>%</small> |
