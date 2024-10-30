@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국테크TOP10타겟커버드콜](/474220-vs-461900/) | <span style="color: tomato">53.7<small>%</small></span> | 23.4<small>%</small> | 2.30 | -20.1<small>%</small> | -3.4<small>%</small> |
-| PLUS 미국테크TOP10 | <span style="color: tomato">59.4<small>%</small></span> | 24.4<small>%</small> | 2.44 | -20.5<small>%</small> | -4.2<small>%</small> |
+| [TIGER 미국테크TOP10타겟커버드콜](/474220-vs-461900/) | <span style="color: tomato">54.9<small>%</small></span> | 23.3<small>%</small> | 2.36 | -20.1<small>%</small> | -3.4<small>%</small> |
+| PLUS 미국테크TOP10 | <span style="color: tomato">61.5<small>%</small></span> | 24.3<small>%</small> | 2.53 | -20.5<small>%</small> | -4.2<small>%</small> |
