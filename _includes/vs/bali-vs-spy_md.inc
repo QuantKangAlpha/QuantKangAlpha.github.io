@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [BALI](/bali-vs-spy/) | <span style="color: tomato">29.7<small>%</small></span> | 10.1<small>%</small> | 2.94 | -7.7<small>%</small> | -1.0<small>%</small> |
-| SPY | <span style="color: tomato">33.7<small>%</small></span> | 12.1<small>%</small> | 2.77 | -8.4<small>%</small> | -1.1<small>%</small> |
+| [BALI](/bali-vs-spy/) | <span style="color: tomato">27.6<small>%</small></span> | 10.2<small>%</small> | 2.70 | -7.7<small>%</small> | -1.0<small>%</small> |
+| SPY | <span style="color: tomato">31.2<small>%</small></span> | 12.3<small>%</small> | 2.54 | -8.4<small>%</small> | -1.1<small>%</small> |
