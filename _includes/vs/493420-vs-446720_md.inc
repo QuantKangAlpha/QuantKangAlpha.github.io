@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SOL 미국배당다우존스TR](/493420-vs-446720/) | - | 13.4<small>%</small> | nan | -1.9<small>%</small> | -0.6<small>%</small> |
-| SOL 미국배당다우존스 | - | 12.5<small>%</small> | nan | -2.0<small>%</small> | -0.6<small>%</small> |
+| [SOL 미국배당다우존스TR](/493420-vs-446720/) | - | 13.1<small>%</small> | nan | -2.3<small>%</small> | -0.7<small>%</small> |
+| SOL 미국배당다우존스 | - | 12.1<small>%</small> | nan | -2.1<small>%</small> | -0.7<small>%</small> |

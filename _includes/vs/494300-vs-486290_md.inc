@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국나스닥100데일리커버드콜OTM](/494300-vs-486290/) | - | 12.8<small>%</small> | nan | -1.0<small>%</small> | -0.2<small>%</small> |
-| TIGER 미국나스닥100타겟데일리커버드콜 | - | 11.4<small>%</small> | nan | -0.9<small>%</small> | -0.2<small>%</small> |
+| [KODEX 미국나스닥100데일리커버드콜OTM](/494300-vs-486290/) | - | 17.7<small>%</small> | nan | -1.9<small>%</small> | -0.4<small>%</small> |
+| TIGER 미국나스닥100타겟데일리커버드콜 | - | 16.3<small>%</small> | nan | -1.8<small>%</small> | -0.4<small>%</small> |
