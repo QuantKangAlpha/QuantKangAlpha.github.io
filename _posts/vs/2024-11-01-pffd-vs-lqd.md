@@ -34,7 +34,7 @@ PFFD의 수익률이 LQD보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.8<small>%</small></span> | 13.4<small>%</small> | 0.21 | -30.9<small>%</small> | -6.6<small>%</small> |
-| LQD | <span style="color: tomato">1.7<small>%</small></span> | 9.6<small>%</small> | 0.18 | -25.0<small>%</small> | -7.2<small>%</small> |
+| LQD | <span style="color: tomato">1.7<small>%</small></span> | 9.5<small>%</small> | 0.18 | -25.0<small>%</small> | -7.2<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ PFFD의 수익률이 LQD보다 지속적으로 우세하면 상승하고, 반대
 
 **수익률 지표 (CAGR):** PFFD의 CAGR은 2.8%로 LQD의 1.7%보다 1.0% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** PFFD의 표준편차는 13.4%로 LQD의 9.6%보다 3.9% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** PFFD의 표준편차는 13.4%로 LQD의 9.5%보다 3.9% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** PFFD의 30.9%의 MDD는 LQD의 25.0%보다 6.0% 높았습니다. (높은 위험도)
 
@@ -54,7 +54,7 @@ PFFD의 수익률이 LQD보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 LQD의 투자 비중[^fn_vs_weight]을 조절하여 PFFD의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 9.6% / 13.4% = 141% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 9.5% / 13.4% = 141% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 25.0% / 30.9% = 124% 비중으로 투자하면 됩니다.
 
@@ -77,8 +77,8 @@ LQD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, LQD<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.8<small>%</small></span> | 13.4<small>%</small> | 0.21 | -30.9<small>%</small> | -6.6<small>%</small> |
-| LQD | <span style="color: tomato">1.7<small>%</small></span> | 9.6<small>%</small> | 0.18 | -25.0<small>%</small> | -7.2<small>%</small> |
-| LQD<sub>STD</sub> <small>(141%)</small> | <span style="color: tomato">2.2<small>%</small></span> | 13.4<small>%</small> | 0.16 | -33.5<small>%</small> | -10.0<small>%</small> |
+| LQD | <span style="color: tomato">1.7<small>%</small></span> | 9.5<small>%</small> | 0.18 | -25.0<small>%</small> | -7.2<small>%</small> |
+| LQD<sub>STD</sub> <small>(141%)</small> | <span style="color: tomato">2.2<small>%</small></span> | 13.4<small>%</small> | 0.16 | -33.5<small>%</small> | -10.1<small>%</small> |
 | LQD<sub>MDD</sub> <small>(124%)</small> | <span style="color: tomato">2.0<small>%</small></span> | 11.8<small>%</small> | 0.17 | -30.1<small>%</small> | -8.9<small>%</small> |
 
 

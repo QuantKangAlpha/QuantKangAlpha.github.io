@@ -54,7 +54,7 @@ BNDI의 수익률이 BND보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 BND의 투자 비중[^fn_vs_weight]을 조절하여 BNDI의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 6.9% / 7.0% = 101% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 6.9% / 7.0% = 102% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 7.2% / 7.0% = 97% 비중으로 투자하면 됩니다.
 
@@ -78,14 +78,14 @@ BND<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BND<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BNDI | <span style="color: tomato">2.5<small>%</small></span> | 7.0<small>%</small> | 0.35 | -7.0<small>%</small> | -2.1<small>%</small> |
 | BND | <span style="color: tomato">1.7<small>%</small></span> | 6.9<small>%</small> | 0.25 | -7.2<small>%</small> | -2.2<small>%</small> |
-| BND<sub>STD</sub> <small>(101%)</small> | <span style="color: tomato">1.8<small>%</small></span> | 7.0<small>%</small> | 0.25 | -7.3<small>%</small> | -2.2<small>%</small> |
+| BND<sub>STD</sub> <small>(102%)</small> | <span style="color: tomato">1.8<small>%</small></span> | 7.0<small>%</small> | 0.25 | -7.3<small>%</small> | -2.2<small>%</small> |
 | BND<sub>MDD</sub> <small>(97%)</small> | <span style="color: tomato">1.7<small>%</small></span> | 6.7<small>%</small> | 0.25 | -7.0<small>%</small> | -2.1<small>%</small> |
 
 
 
 각각의 경우를 BNDI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 101% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 1.8%로 BNDI의 2.5%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 102% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 1.8%로 BNDI의 2.5%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 97% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1.7%로 BNDI의 2.5%와 비슷했습니다. (비슷한 수익률)
 
