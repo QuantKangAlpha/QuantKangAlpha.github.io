@@ -54,7 +54,7 @@ GPIX의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 SPY의 투자 비중[^fn_vs_weight]을 조절하여 GPIX의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 12.1% / 10.5% = 87% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 12.1% / 10.5% = 86% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 8.4% / 7.0% = 83% 비중으로 투자하면 됩니다.
 
@@ -78,14 +78,14 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | GPIX | <span style="color: tomato">32.6<small>%</small></span> | 10.5<small>%</small> | 3.12 | -7.0<small>%</small> | -0.8<small>%</small> |
 | SPY | <span style="color: tomato">39.5<small>%</small></span> | 12.1<small>%</small> | 3.27 | -8.4<small>%</small> | -1.0<small>%</small> |
-| SPY<sub>STD</sub> <small>(87%)</small> | <span style="color: tomato">33.5<small>%</small></span> | 10.5<small>%</small> | 3.20 | -7.3<small>%</small> | -0.9<small>%</small> |
+| SPY<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">33.4<small>%</small></span> | 10.5<small>%</small> | 3.20 | -7.3<small>%</small> | -0.9<small>%</small> |
 | SPY<sub>MDD</sub> <small>(83%)</small> | <span style="color: tomato">32.0<small>%</small></span> | 10.0<small>%</small> | 3.18 | -7.0<small>%</small> | -0.8<small>%</small> |
 
 
 
 각각의 경우를 GPIX의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 87% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 33.5%로 GPIX의 32.6%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 86% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 33.4%로 GPIX의 32.6%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 83% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 32.0%로 GPIX의 32.6%와 비슷했습니다. (비슷한 수익률)
 

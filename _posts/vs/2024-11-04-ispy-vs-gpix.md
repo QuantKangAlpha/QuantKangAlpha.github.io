@@ -78,14 +78,14 @@ GPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GPI
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">22.4<small>%</small></span> | 11.4<small>%</small> | 1.97 | -7.9<small>%</small> | -1.1<small>%</small> |
 | GPIX | <span style="color: tomato">21.2<small>%</small></span> | 10.6<small>%</small> | 2.00 | -7.0<small>%</small> | -0.9<small>%</small> |
-| GPIX<sub>STD</sub> <small>(107%)</small> | <span style="color: tomato">22.8<small>%</small></span> | 11.4<small>%</small> | 2.01 | -7.5<small>%</small> | -0.9<small>%</small> |
+| GPIX<sub>STD</sub> <small>(107%)</small> | <span style="color: tomato">22.9<small>%</small></span> | 11.4<small>%</small> | 2.01 | -7.5<small>%</small> | -0.9<small>%</small> |
 | GPIX<sub>MDD</sub> <small>(113%)</small> | <span style="color: tomato">24.2<small>%</small></span> | 12.0<small>%</small> | 2.02 | -7.9<small>%</small> | -1.0<small>%</small> |
 
 
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 107% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 22.8%로 ISPY의 22.4%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 107% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 22.9%로 ISPY의 22.4%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 113% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 24.2%로 ISPY의 22.4%보다 1.8% 높았습니다. (높은 수익률)
 
