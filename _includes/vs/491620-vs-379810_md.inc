@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 미국테크100데일리고정커버드콜](/491620-vs-379810/) | - | 17.4<small>%</small> | nan | -3.5<small>%</small> | -0.7<small>%</small> |
-| KODEX 미국나스닥100TR | - | 16.8<small>%</small> | nan | -3.3<small>%</small> | -0.7<small>%</small> |
+| [RISE 미국테크100데일리고정커버드콜](/491620-vs-379810/) | - | 19.2<small>%</small> | nan | -3.5<small>%</small> | -0.7<small>%</small> |
+| KODEX 미국나스닥100TR | - | 20.2<small>%</small> | nan | -3.3<small>%</small> | -0.6<small>%</small> |
