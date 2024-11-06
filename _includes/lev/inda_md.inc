@@ -1,4 +1,4 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| INDA | | <span style="color: tomato">23.9<small>%</small></span> | - | - | - |
-| [INDL](/indl/) | 2<small>x</small> | <span style="color: tomato">40.1<small>%</small></span> | 2.0<small>%</small> | 6.9<small>%</small> | 8.8<small>%</small> |
+| INDA | | <span style="color: tomato">24.7<small>%</small></span> | - | - | - |
+| [INDL](/indl/) | 2<small>x</small> | <span style="color: tomato">42.1<small>%</small></span> | 2.0<small>%</small> | 6.8<small>%</small> | 8.7<small>%</small> |
