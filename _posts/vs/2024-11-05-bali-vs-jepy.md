@@ -79,7 +79,7 @@ JEPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | BALI | <span style="color: tomato">28.0<small>%</small></span> | 10.3<small>%</small> | 2.72 | -7.7<small>%</small> | -1.0<small>%</small> |
 | JEPY | <span style="color: tomato">542.3<small>%</small></span> | 192.2<small>%</small> | 2.82 | -4.3<small>%</small> | -0.6<small>%</small> |
 | JEPY<sub>STD</sub> <small>(5%)</small> | <span style="color: tomato">15.1<small>%</small></span> | 10.3<small>%</small> | 1.47 | -0.2<small>%</small> | -0.0<small>%</small> |
-| JEPY<sub>MDD</sub> <small>(180%)</small> | <span style="color: tomato">1708.6<small>%</small></span> | 346.7<small>%</small> | 4.93 | -7.7<small>%</small> | -1.1<small>%</small> |
+| JEPY<sub>MDD</sub> <small>(180%)</small> | <span style="color: tomato">1708.5<small>%</small></span> | 346.7<small>%</small> | 4.93 | -7.7<small>%</small> | -1.1<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ JEPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 **위험도 지표 (표준편차):** 5% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.1%로 BALI의 28.0%보다 -12.9% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 180% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1708.6%로 BALI의 28.0%보다 1680.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 180% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1708.5%로 BALI의 28.0%보다 1680.5% 높았습니다. (높은 수익률)
 
 
 
