@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | [SPY](/spy-vs-divo/) | <span style="color: tomato">15.0<small>%</small></span> | 18.3<small>%</small> | 0.82 | -33.7<small>%</small> | -4.9<small>%</small> |
-| DIVO | <span style="color: tomato">12.4<small>%</small></span> | 15.2<small>%</small> | 0.81 | -30.0<small>%</small> | -2.8<small>%</small> |
+| DIVO | <span style="color: tomato">12.5<small>%</small></span> | 15.2<small>%</small> | 0.82 | -30.0<small>%</small> | -2.8<small>%</small> |
