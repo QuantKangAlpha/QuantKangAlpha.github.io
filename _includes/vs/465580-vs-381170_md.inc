@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 미국빅테크TOP7 Plus](/465580-vs-381170/) | <span style="color: tomato">55.2<small>%</small></span> | 25.8<small>%</small> | 2.14 | -23.2<small>%</small> | -3.8<small>%</small> |
-| TIGER 미국테크TOP10 INDXX | <span style="color: tomato">49.8<small>%</small></span> | 24.3<small>%</small> | 2.05 | -22.6<small>%</small> | -3.5<small>%</small> |
+| [ACE 미국빅테크TOP7 Plus](/465580-vs-381170/) | <span style="color: tomato">55.6<small>%</small></span> | 25.7<small>%</small> | 2.16 | -23.2<small>%</small> | -3.8<small>%</small> |
+| TIGER 미국테크TOP10 INDXX | <span style="color: tomato">50.5<small>%</small></span> | 24.3<small>%</small> | 2.08 | -22.6<small>%</small> | -3.5<small>%</small> |
