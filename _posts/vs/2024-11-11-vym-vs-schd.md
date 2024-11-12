@@ -78,8 +78,8 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | VYM | <span style="color: tomato">12.5<small>%</small></span> | 15.3<small>%</small> | 0.81 | -35.2<small>%</small> | -3.1<small>%</small> |
 | SCHD | <span style="color: tomato">17.0<small>%</small></span> | 15.6<small>%</small> | 1.09 | -33.4<small>%</small> | -2.8<small>%</small> |
-| SCHD<sub>STD</sub> <small>(98%)</small> | <span style="color: tomato">16.7<small>%</small></span> | 15.3<small>%</small> | 1.09 | -32.8<small>%</small> | -2.8<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">17.9<small>%</small></span> | 16.4<small>%</small> | 1.09 | -35.0<small>%</small> | -3.0<small>%</small> |
+| SCHD<sub>STD</sub> <small>(98%)</small> | <span style="color: tomato">16.7<small>%</small></span> | 15.3<small>%</small> | 1.09 | -32.8<small>%</small> | -2.7<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">18.0<small>%</small></span> | 16.5<small>%</small> | 1.09 | -35.0<small>%</small> | -2.9<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 **위험도 지표 (표준편차):** 98% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.7%로 VYM의 12.5%보다 4.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 17.9%로 VYM의 12.5%보다 5.4% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.0%로 VYM의 12.5%보다 5.5% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 지난 13년간 거치식으로 투자했다고 가정합니다.
 
 SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 VYM의 12.5%보다 4.8% 높았습니다.
+이 포트폴리오는 VYM의 12.5%보다 4.9% 높았습니다.
 
 ### VYM	&lt; SCHD
 {: .text-center}

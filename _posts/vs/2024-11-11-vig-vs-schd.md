@@ -77,7 +77,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | VIG | <span style="color: tomato">13.2<small>%</small></span> | 15.1<small>%</small> | 0.87 | -31.7<small>%</small> | -3.2<small>%</small> |
 | SCHD | <span style="color: tomato">17.0<small>%</small></span> | 15.6<small>%</small> | 1.09 | -33.4<small>%</small> | -2.8<small>%</small> |
 | SCHD<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 15.1<small>%</small> | 1.09 | -32.5<small>%</small> | -2.7<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">16.1<small>%</small></span> | 14.8<small>%</small> | 1.09 | -31.9<small>%</small> | -2.7<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">16.2<small>%</small></span> | 14.8<small>%</small> | 1.09 | -31.9<small>%</small> | -2.6<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 **위험도 지표 (표준편차):** 97% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.5%로 VIG의 13.2%보다 3.3% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.1%로 VIG의 13.2%보다 2.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.2%로 VIG의 13.2%보다 3.0% 높았습니다. (높은 수익률)
 
 
 

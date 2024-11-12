@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SPY vs SCHD
-excerpt: SPY의 최근 13년 CAGR은 15.1%로 SCHD의 17.0%보다 -1.9% 낮았습니다.
+excerpt: SPY의 최근 13년 CAGR은 15.1%로 SCHD의 17.0%보다 -2.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,9 +41,9 @@ SPY의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SPY의 CAGR은 15.1%로 SCHD의 17.0%보다 -1.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SPY의 CAGR은 15.1%로 SCHD의 17.0%보다 -2.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** SPY의 표준편차는 16.6%로 SCHD의 15.6%보다 1.0% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** SPY의 표준편차는 16.6%로 SCHD의 15.6%와 비슷했습니다. (비슷한 위험도)
 
 **위험도 지표 (MDD):** SPY의 33.7%의 MDD는 SCHD의 33.4%와 비슷했습니다. (비슷한 위험도)
 
@@ -79,7 +79,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | SPY | <span style="color: tomato">15.1<small>%</small></span> | 16.6<small>%</small> | 0.91 | -33.7<small>%</small> | -3.7<small>%</small> |
 | SCHD | <span style="color: tomato">17.0<small>%</small></span> | 15.6<small>%</small> | 1.09 | -33.4<small>%</small> | -2.8<small>%</small> |
 | SCHD<sub>STD</sub> <small>(106%)</small> | <span style="color: tomato">18.1<small>%</small></span> | 16.6<small>%</small> | 1.09 | -35.2<small>%</small> | -3.0<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(101%)</small> | <span style="color: tomato">17.2<small>%</small></span> | 15.7<small>%</small> | 1.09 | -33.7<small>%</small> | -2.8<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(101%)</small> | <span style="color: tomato">17.2<small>%</small></span> | 15.8<small>%</small> | 1.09 | -33.7<small>%</small> | -2.8<small>%</small> |
 
 
 

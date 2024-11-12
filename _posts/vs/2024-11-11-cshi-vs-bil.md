@@ -34,7 +34,7 @@ CSHI의 수익률이 BIL보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | CSHI | <span style="color: tomato">5.5<small>%</small></span> | 1.0<small>%</small> | 5.35 | -0.4<small>%</small> | -0.0<small>%</small> |
-| BIL | <span style="color: tomato">4.6<small>%</small></span> | 0.4<small>%</small> | 11.96 | -0.4<small>%</small> | -0.0<small>%</small> |
+| BIL | <span style="color: tomato">4.6<small>%</small></span> | 0.4<small>%</small> | 11.95 | -0.4<small>%</small> | -0.0<small>%</small> |
 
 <!-- more -->
 
@@ -77,7 +77,7 @@ BIL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BIL<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | CSHI | <span style="color: tomato">5.5<small>%</small></span> | 1.0<small>%</small> | 5.35 | -0.4<small>%</small> | -0.0<small>%</small> |
-| BIL | <span style="color: tomato">4.6<small>%</small></span> | 0.4<small>%</small> | 11.96 | -0.4<small>%</small> | -0.0<small>%</small> |
+| BIL | <span style="color: tomato">4.6<small>%</small></span> | 0.4<small>%</small> | 11.95 | -0.4<small>%</small> | -0.0<small>%</small> |
 | BIL<sub>STD</sub> <small>(268%)</small> | <span style="color: tomato">12.9<small>%</small></span> | 1.0<small>%</small> | 12.42 | -1.0<small>%</small> | -0.0<small>%</small> |
 | BIL<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">4.9<small>%</small></span> | 0.4<small>%</small> | 11.97 | -0.4<small>%</small> | -0.0<small>%</small> |
 
