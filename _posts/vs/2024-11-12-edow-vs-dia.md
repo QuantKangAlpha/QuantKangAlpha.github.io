@@ -32,7 +32,7 @@ EDOW의 수익률이 DIA보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | EDOW | <span style="color: tomato">10.9<small>%</small></span> | 18.3<small>%</small> | 0.59 | -33.7<small>%</small> | -4.4<small>%</small> |
-| DIA | <span style="color: tomato">12.2<small>%</small></span> | 18.9<small>%</small> | 0.65 | -36.7<small>%</small> | -4.6<small>%</small> |
+| DIA | <span style="color: tomato">12.2<small>%</small></span> | 18.9<small>%</small> | 0.64 | -36.7<small>%</small> | -4.6<small>%</small> |
 
 <!-- more -->
 
@@ -75,15 +75,15 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | EDOW | <span style="color: tomato">10.9<small>%</small></span> | 18.3<small>%</small> | 0.59 | -33.7<small>%</small> | -4.4<small>%</small> |
-| DIA | <span style="color: tomato">12.2<small>%</small></span> | 18.9<small>%</small> | 0.65 | -36.7<small>%</small> | -4.6<small>%</small> |
-| DIA<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">11.9<small>%</small></span> | 18.3<small>%</small> | 0.65 | -35.7<small>%</small> | -4.4<small>%</small> |
+| DIA | <span style="color: tomato">12.2<small>%</small></span> | 18.9<small>%</small> | 0.64 | -36.7<small>%</small> | -4.6<small>%</small> |
+| DIA<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">11.8<small>%</small></span> | 18.3<small>%</small> | 0.65 | -35.7<small>%</small> | -4.4<small>%</small> |
 | DIA<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">11.3<small>%</small></span> | 17.4<small>%</small> | 0.65 | -34.1<small>%</small> | -4.2<small>%</small> |
 
 
 
 각각의 경우를 EDOW의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 97% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.9%로 EDOW의 10.9%보다 1.0% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 97% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.8%로 EDOW의 10.9%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.3%로 EDOW의 10.9%와 비슷했습니다. (비슷한 수익률)
 
