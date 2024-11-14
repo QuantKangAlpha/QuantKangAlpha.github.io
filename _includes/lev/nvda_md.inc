@@ -4,5 +4,5 @@
 | [NVDL](/nvdl/) | 2<small>x</small> | <span style="color: tomato">452.8<small>%</small></span> | 23.2<small>%</small> | 20.2<small>%</small> | 38.7<small>%</small> |
 | [3LNV.L](/3lnv/) | 3<small>x</small> | <span style="color: tomato">1160.4<small>%</small></span> | 54.4<small>%</small> | -2.0<small>%</small> | 53.5<small>%</small> |
 | [NVDD](/nvdd/) | -1<small>x</small> | <span style="color: cornflowerblue">-72.4<small>%</small></span> | 24.0<small>%</small> | -8.8<small>%</small> | 17.3<small>%</small> |
-| [NVD](/nvd/) | -2<small>x</small> | <span style="color: cornflowerblue">-95.0<small>%</small></span> | 56.9<small>%</small> | -5.4<small>%</small> | 54.6<small>%</small> |
-| [3SNV.L](/3snv/) | -3<small>x</small> | <span style="color: cornflowerblue">-99.3<small>%</small></span> | 82.3<small>%</small> | -13.6<small>%</small> | 79.9<small>%</small> |
+| [NVD](/nvd/) | -2<small>x</small> | <span style="color: cornflowerblue">-94.2<small>%</small></span> | 56.9<small>%</small> | -21.3<small>%</small> | 47.8<small>%</small> |
+| [3SNV.L](/3snv/) | -3<small>x</small> | <span style="color: cornflowerblue">-99.3<small>%</small></span> | 82.3<small>%</small> | -14.4<small>%</small> | 79.8<small>%</small> |

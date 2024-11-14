@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SOL 200 Top10](/411540-vs-292150/) | <span style="color: cornflowerblue">-7.3<small>%</small></span> | 21.4<small>%</small> | -0.34 | -29.1<small>%</small> | -15.6<small>%</small> |
-| TIGER TOP10 | <span style="color: cornflowerblue">-7.6<small>%</small></span> | 21.8<small>%</small> | -0.35 | -32.3<small>%</small> | -16.3<small>%</small> |
+| [SOL 200 Top10](/411540-vs-292150/) | <span style="color: cornflowerblue">-7.0<small>%</small></span> | 21.3<small>%</small> | -0.33 | -29.1<small>%</small> | -15.6<small>%</small> |
+| TIGER TOP10 | <span style="color: cornflowerblue">-7.9<small>%</small></span> | 21.8<small>%</small> | -0.36 | -32.3<small>%</small> | -16.3<small>%</small> |

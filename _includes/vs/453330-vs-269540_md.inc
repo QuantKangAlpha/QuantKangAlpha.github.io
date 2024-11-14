@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 미국S&P500(H)](/453330-vs-269540/) | <span style="color: tomato">26.7<small>%</small></span> | 12.5<small>%</small> | 2.14 | -10.4<small>%</small> | -1.7<small>%</small> |
-| PLUS 미국S&P500(H) | <span style="color: tomato">26.7<small>%</small></span> | 12.3<small>%</small> | 2.17 | -9.7<small>%</small> | -1.5<small>%</small> |
+| [RISE 미국S&P500(H)](/453330-vs-269540/) | <span style="color: tomato">26.8<small>%</small></span> | 12.5<small>%</small> | 2.15 | -10.4<small>%</small> | -1.6<small>%</small> |
+| PLUS 미국S&P500(H) | <span style="color: tomato">26.8<small>%</small></span> | 12.3<small>%</small> | 2.18 | -9.7<small>%</small> | -1.5<small>%</small> |

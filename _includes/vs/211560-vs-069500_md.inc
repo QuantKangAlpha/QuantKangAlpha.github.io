@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 배당성장](/211560-vs-069500/) | <span style="color: tomato">6.0<small>%</small></span> | 17.0<small>%</small> | 0.35 | -50.4<small>%</small> | -11.0<small>%</small> |
-| KODEX 200 | <span style="color: tomato">4.9<small>%</small></span> | 17.2<small>%</small> | 0.28 | -38.1<small>%</small> | -11.4<small>%</small> |
+| [TIGER 배당성장](/211560-vs-069500/) | <span style="color: tomato">5.8<small>%</small></span> | 17.0<small>%</small> | 0.34 | -50.4<small>%</small> | -11.0<small>%</small> |
+| KODEX 200 | <span style="color: tomato">4.8<small>%</small></span> | 17.2<small>%</small> | 0.28 | -38.1<small>%</small> | -11.4<small>%</small> |
