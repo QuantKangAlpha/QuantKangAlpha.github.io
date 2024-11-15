@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 미국나스닥100](/367380-vs-379810/) | <span style="color: tomato">20.3<small>%</small></span> | 20.1<small>%</small> | 1.01 | -30.9<small>%</small> | -7.9<small>%</small> |
-| KODEX 미국나스닥100TR | <span style="color: tomato">20.2<small>%</small></span> | 20.2<small>%</small> | 1.00 | -31.0<small>%</small> | -8.0<small>%</small> |
+| [ACE 미국나스닥100](/367380-vs-379810/) | <span style="color: tomato">19.6<small>%</small></span> | 20.2<small>%</small> | 0.97 | -30.9<small>%</small> | -7.9<small>%</small> |
+| KODEX 미국나스닥100TR | <span style="color: tomato">19.7<small>%</small></span> | 20.2<small>%</small> | 0.98 | -31.0<small>%</small> | -7.9<small>%</small> |
