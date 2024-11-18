@@ -2,4 +2,4 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | EWJ | | <span style="color: tomato">12.7<small>%</small></span> | - | - | - |
 | [EZJ](/ezj/) | 2<small>x</small> | <span style="color: tomato">14.2<small>%</small></span> | 3.0<small>%</small> | 7.3<small>%</small> | 10.1<small>%</small> |
-| [EWV](/ewv/) | -2<small>x</small> | <span style="color: cornflowerblue">-20.5<small>%</small></span> | 8.5<small>%</small> | -10.3<small>%</small> | -0.9<small>%</small> |
+| [EWV](/ewv/) | -2<small>x</small> | <span style="color: cornflowerblue">-17.5<small>%</small></span> | 8.4<small>%</small> | -11.5<small>%</small> | -2.0<small>%</small> |
