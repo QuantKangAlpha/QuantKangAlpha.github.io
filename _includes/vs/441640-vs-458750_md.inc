@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국배당커버드콜액티브](/441640-vs-458750/) | <span style="color: tomato">23.3<small>%</small></span> | 10.3<small>%</small> | 2.26 | -6.2<small>%</small> | -1.4<small>%</small> |
-| TIGER 미국배당다우존스타겟커버드콜1호 | <span style="color: tomato">21.2<small>%</small></span> | 11.2<small>%</small> | 1.90 | -7.9<small>%</small> | -1.8<small>%</small> |
+| [KODEX 미국배당커버드콜액티브](/441640-vs-458750/) | <span style="color: tomato">23.2<small>%</small></span> | 10.3<small>%</small> | 2.25 | -6.2<small>%</small> | -1.4<small>%</small> |
+| TIGER 미국배당다우존스타겟커버드콜1호 | <span style="color: tomato">20.8<small>%</small></span> | 11.2<small>%</small> | 1.86 | -7.9<small>%</small> | -1.8<small>%</small> |
