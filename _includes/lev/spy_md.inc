@@ -4,6 +4,6 @@
 | [SSO](/sso/) | 2<small>x</small> | <span style="color: tomato">58.9<small>%</small></span> | 1.5<small>%</small> | 6.5<small>%</small> | 7.8<small>%</small> |
 | [SPXL](/spxl/) | 3<small>x</small> | <span style="color: tomato">91.2<small>%</small></span> | 4.4<small>%</small> | 11.7<small>%</small> | 15.6<small>%</small> |
 | [SPYU](/spyu/) | 4<small>x</small> | <span style="color: tomato">103.0<small>%</small></span><sup><small>11개월</small></sup> | 8.5<small>%</small> | 25.9<small>%</small> | 32.3<small>%</small> |
-| [SH](/sh/) | -1<small>x</small> | <span style="color: cornflowerblue">-18.3<small>%</small></span> | 1.5<small>%</small> | -8.9<small>%</small> | -7.3<small>%</small> |
+| [SH](/sh/) | -1<small>x</small> | <span style="color: cornflowerblue">-20.2<small>%</small></span> | 1.5<small>%</small> | -6.4<small>%</small> | -4.8<small>%</small> |
 | [SDS](/sds/) | -2<small>x</small> | <span style="color: cornflowerblue">-36.0<small>%</small></span> | 4.4<small>%</small> | -15.5<small>%</small> | -10.4<small>%</small> |
 | [SPXU](/spxu/) | -3<small>x</small> | <span style="color: cornflowerblue">-51.0<small>%</small></span> | 8.6<small>%</small> | -21.4<small>%</small> | -11.0<small>%</small> |

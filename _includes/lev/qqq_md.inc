@@ -6,4 +6,4 @@
 | [QQQ5.L](/qqq5/) | 5<small>x</small> | <span style="color: tomato">98.2<small>%</small></span> | 26.3<small>%</small> | 24.4<small>%</small> | 44.3<small>%</small> |
 | [PSQ](/psq/) | -1<small>x</small> | <span style="color: cornflowerblue">-17.6<small>%</small></span> | 3.0<small>%</small> | -9.5<small>%</small> | -6.2<small>%</small> |
 | [QID](/qid/) | -2<small>x</small> | <span style="color: cornflowerblue">-37.0<small>%</small></span> | 8.7<small>%</small> | -14.7<small>%</small> | -4.7<small>%</small> |
-| [SQQQ](/sqqq/) | -3<small>x</small> | <span style="color: cornflowerblue">-55.0<small>%</small></span> | 16.7<small>%</small> | -15.8<small>%</small> | 3.5<small>%</small> |
+| [SQQQ](/sqqq/) | -3<small>x</small> | <span style="color: cornflowerblue">-53.7<small>%</small></span> | 16.7<small>%</small> | -19.1<small>%</small> | 0.8<small>%</small> |
