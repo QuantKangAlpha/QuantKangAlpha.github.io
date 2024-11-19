@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [코스맥스](/192820/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241118800402){:target="_blank"} |
-| [삼양식품](/003230/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241118800435){:target="_blank"} |
-| [금호타이어](/073240/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241118800434){:target="_blank"} |
-| [LG화학](/051910/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241118800420){:target="_blank"} |
-| [알테오젠](/196170/#dart) | | [주주총회소집결의              (임시주주총회)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241118900404){:target="_blank"} |
+| [HD현대중공업](/329180/#dart) | | [영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241119800286){:target="_blank"} |
+| [네오위즈](/095660/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241119000167){:target="_blank"} |
+| [케이티](/030200/#dart) | | [주식등의대량보유상황보고서(약식)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241119000145){:target="_blank"} |
+| [현대모비스](/012330/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241119800243){:target="_blank"} |
+| [대한전선](/001440/#dart) | | [유형자산취득결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241119800227){:target="_blank"} |
