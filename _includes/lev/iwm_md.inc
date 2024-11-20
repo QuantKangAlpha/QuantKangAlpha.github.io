@@ -4,5 +4,5 @@
 | [UWM](/uwm/) | 2<small>x</small> | <span style="color: tomato">52.3<small>%</small></span> | 4.3<small>%</small> | 6.2<small>%</small> | 10.2<small>%</small> |
 | [TNA](/tna/) | 3<small>x</small> | <span style="color: tomato">71.4<small>%</small></span> | 12.3<small>%</small> | 11.6<small>%</small> | 22.4<small>%</small> |
 | [RWM](/rwm/) | -1<small>x</small> | <span style="color: cornflowerblue">-19.6<small>%</small></span> | 4.3<small>%</small> | -9.4<small>%</small> | -4.7<small>%</small> |
-| [TWM](/twm/) | -2<small>x</small> | <span style="color: cornflowerblue">-41.3<small>%</small></span> | 12.5<small>%</small> | -13.8<small>%</small> | 0.4<small>%</small> |
+| [TWM](/twm/) | -2<small>x</small> | <span style="color: cornflowerblue">-42.5<small>%</small></span> | 12.5<small>%</small> | -11.3<small>%</small> | 2.5<small>%</small> |
 | [TZA](/tza/) | -3<small>x</small> | <span style="color: cornflowerblue">-58.0<small>%</small></span> | 23.5<small>%</small> | -21.3<small>%</small> | 7.2<small>%</small> |

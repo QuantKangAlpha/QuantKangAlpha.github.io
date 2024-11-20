@@ -79,7 +79,7 @@ MSTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MST
 | MSTY | <span style="color: tomato">536.1<small>%</small></span> | 77.4<small>%</small> | 6.93 | -33.2<small>%</small> | -10.7<small>%</small> |
 | MSTR | <span style="color: tomato">1028.2<small>%</small></span> | 111.4<small>%</small> | 9.23 | -46.4<small>%</small> | -18.5<small>%</small> |
 | MSTR<sub>STD</sub> <small>(69%)</small> | <span style="color: tomato">512.7<small>%</small></span> | 77.4<small>%</small> | 6.63 | -34.3<small>%</small> | -11.9<small>%</small> |
-| MSTR<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">539.2<small>%</small></span> | 79.6<small>%</small> | 6.78 | -35.2<small>%</small> | -12.3<small>%</small> |
+| MSTR<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">539.2<small>%</small></span> | 79.5<small>%</small> | 6.78 | -35.2<small>%</small> | -12.3<small>%</small> |
 
 
 

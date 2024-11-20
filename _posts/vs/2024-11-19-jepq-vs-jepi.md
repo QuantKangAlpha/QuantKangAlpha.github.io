@@ -79,7 +79,7 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | JEPQ | <span style="color: tomato">15.5<small>%</small></span> | 16.2<small>%</small> | 0.95 | -16.8<small>%</small> | -3.8<small>%</small> |
 | JEPI | <span style="color: tomato">9.3<small>%</small></span> | 10.5<small>%</small> | 0.88 | -10.5<small>%</small> | -1.7<small>%</small> |
 | JEPI<sub>STD</sub> <small>(154%)</small> | <span style="color: tomato">14.1<small>%</small></span> | 16.2<small>%</small> | 0.87 | -15.8<small>%</small> | -2.7<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(160%)</small> | <span style="color: tomato">14.7<small>%</small></span> | 16.9<small>%</small> | 0.87 | -16.4<small>%</small> | -2.8<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(160%)</small> | <span style="color: tomato">14.7<small>%</small></span> | 16.8<small>%</small> | 0.87 | -16.4<small>%</small> | -2.8<small>%</small> |
 
 
 
