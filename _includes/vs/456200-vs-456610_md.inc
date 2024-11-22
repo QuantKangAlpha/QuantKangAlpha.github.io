@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLUS 미국달러SOFR금리액티브(합성)](/456200-vs-456610/) | <span style="color: tomato">9.1<small>%</small></span> | 8.2<small>%</small> | 1.11 | -5.0<small>%</small> | -1.5<small>%</small> |
-| TIGER 미국달러SOFR금리액티브(합성) | <span style="color: tomato">9.0<small>%</small></span> | 8.3<small>%</small> | 1.08 | -5.0<small>%</small> | -1.5<small>%</small> |
+| [PLUS 미국달러SOFR금리액티브(합성)](/456200-vs-456610/) | <span style="color: tomato">9.2<small>%</small></span> | 8.2<small>%</small> | 1.13 | -5.0<small>%</small> | -1.5<small>%</small> |
+| TIGER 미국달러SOFR금리액티브(합성) | <span style="color: tomato">9.1<small>%</small></span> | 8.3<small>%</small> | 1.09 | -5.0<small>%</small> | -1.5<small>%</small> |
