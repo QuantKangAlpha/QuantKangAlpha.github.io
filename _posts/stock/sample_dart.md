@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [엠로](/058970/#dart) | | [[기재정정]주식매수선택권부여에관한신고](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241120000227){:target="_blank"} |
-| [삼성증권](/016360/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241120000213){:target="_blank"} |
-| [박셀바이오](/323990/#dart) | | [기타경영사항(자율공시)              (소규모합병 승인 이사회 결의(주주총회 갈음) 결과보고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241120900262){:target="_blank"} |
-| [KB금융](/105560/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241120800261){:target="_blank"} |
-| [NH투자증권](/005940/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241120000177){:target="_blank"} |
+| [한미사이언스](/008930/#dart) | | [소송등의판결ㆍ결정(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241121800330){:target="_blank"} |
+| [한화](/000880/#dart) | | [[기재정정]특수관계인에대한영업양도](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241121000357){:target="_blank"} |
+| [휴젤](/145020/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241121000356){:target="_blank"} |
+| [한미약품](/128940/#dart) | | [소송등의판결ㆍ결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241121800289){:target="_blank"} |
+| [펩트론](/087010/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241121000354){:target="_blank"} |
