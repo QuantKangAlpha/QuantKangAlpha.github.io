@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [JEPI](/jepi-vs-idvo/) | <span style="color: tomato">12.5<small>%</small></span> | 9.5<small>%</small> | 1.32 | -9.2<small>%</small> | -1.3<small>%</small> |
-| IDVO | <span style="color: tomato">16.0<small>%</small></span> | 15.3<small>%</small> | 1.05 | -11.0<small>%</small> | -2.6<small>%</small> |
+| [JEPI](/jepi-vs-idvo/) | <span style="color: tomato">12.7<small>%</small></span> | 9.5<small>%</small> | 1.34 | -9.2<small>%</small> | -1.3<small>%</small> |
+| IDVO | <span style="color: tomato">16.3<small>%</small></span> | 15.3<small>%</small> | 1.06 | -11.0<small>%</small> | -2.6<small>%</small> |
