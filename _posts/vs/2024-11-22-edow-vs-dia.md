@@ -76,14 +76,14 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | EDOW | <span style="color: tomato">11.1<small>%</small></span> | 18.3<small>%</small> | 0.61 | -33.7<small>%</small> | -4.4<small>%</small> |
 | DIA | <span style="color: tomato">12.3<small>%</small></span> | 18.9<small>%</small> | 0.65 | -36.7<small>%</small> | -4.6<small>%</small> |
-| DIA<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">11.9<small>%</small></span> | 18.3<small>%</small> | 0.65 | -35.7<small>%</small> | -4.4<small>%</small> |
+| DIA<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">12.0<small>%</small></span> | 18.3<small>%</small> | 0.65 | -35.7<small>%</small> | -4.4<small>%</small> |
 | DIA<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">11.4<small>%</small></span> | 17.3<small>%</small> | 0.66 | -34.1<small>%</small> | -4.2<small>%</small> |
 
 
 
 각각의 경우를 EDOW의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 97% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.9%로 EDOW의 11.1%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 97% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.0%로 EDOW의 11.1%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.4%로 EDOW의 11.1%와 비슷했습니다. (비슷한 수익률)
 
@@ -97,7 +97,7 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 
 지난 7년 3개월간 거치식으로 투자했다고 가정합니다.
 
-DIA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 11.6%인 포트폴리오를 만들 수 있습니다.
+DIA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 11.7%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 EDOW의 11.1%와 비슷했습니다.
 
 ### EDOW ≒ DIA

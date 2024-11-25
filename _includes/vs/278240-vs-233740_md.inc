@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 코스닥150선물레버리지](/278240-vs-233740/) | <span style="color: cornflowerblue">-3.5<small>%</small></span> | 64.4<small>%</small> | -0.05 | -85.9<small>%</small> | -53.2<small>%</small> |
-| KODEX 코스닥150레버리지 | <span style="color: cornflowerblue">-5.6<small>%</small></span> | 57.2<small>%</small> | -0.10 | -86.0<small>%</small> | -55.2<small>%</small> |
+| [RISE 코스닥150선물레버리지](/278240-vs-233740/) | <span style="color: cornflowerblue">-2.3<small>%</small></span> | 64.5<small>%</small> | -0.04 | -85.9<small>%</small> | -53.2<small>%</small> |
+| KODEX 코스닥150레버리지 | <span style="color: cornflowerblue">-4.6<small>%</small></span> | 57.3<small>%</small> | -0.08 | -86.0<small>%</small> | -55.2<small>%</small> |
