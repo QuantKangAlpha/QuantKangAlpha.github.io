@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [위메이드](/112040/#dart) | | [기업설명회(IR)개최              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241122900364){:target="_blank"} |
-| [종근당](/185750/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241122800360){:target="_blank"} |
-| [LG화학](/051910/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241122800359){:target="_blank"} |
-| [하나금융지주](/086790/#dart) | | [일괄신고추가서류](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241122000400){:target="_blank"} |
-| [키움증권](/039490/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241122000399){:target="_blank"} |
+| [JB금융지주](/175330/#dart) | | [주식등의대량보유상황보고서(약식)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125000248){:target="_blank"} |
+| [동화기업](/025900/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125000234){:target="_blank"} |
+| [고려아연](/010130/#dart) | | [[기재정정]소송등의제기ㆍ신청(경영권분쟁소송)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125800241){:target="_blank"} |
+| [삼성전자](/005930/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125000224){:target="_blank"} |
+| [한전KPS](/051600/#dart) | | [주주총회소집결의              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125800239){:target="_blank"} |
