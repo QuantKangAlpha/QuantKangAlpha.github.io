@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [JB금융지주](/175330/#dart) | | [주식등의대량보유상황보고서(약식)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125000248){:target="_blank"} |
-| [동화기업](/025900/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125000234){:target="_blank"} |
-| [고려아연](/010130/#dart) | | [[기재정정]소송등의제기ㆍ신청(경영권분쟁소송)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125800241){:target="_blank"} |
-| [삼성전자](/005930/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125000224){:target="_blank"} |
-| [한전KPS](/051600/#dart) | | [주주총회소집결의              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241125800239){:target="_blank"} |
+| [네패스](/033640/#dart) | | [[기재정정]금전대여결정              (기존 대여금의 기간 연장)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241126900349){:target="_blank"} |
+| [HD현대미포](/010620/#dart) | | [주식등의대량보유상황보고서(약식)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241126000549){:target="_blank"} |
+| [금양](/001570/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241126000548){:target="_blank"} |
+| [SK네트웍스](/001740/#dart) | | [[기재정정]주요사항보고서(회사분할결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241126000540){:target="_blank"} |
+| [하나투어](/039130/#dart) | | [풍문또는보도에대한해명(미확정)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241126800343){:target="_blank"} |
