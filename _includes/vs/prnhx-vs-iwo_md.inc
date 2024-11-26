@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PRNHX](/prnhx-vs-iwo/) | <span style="color: tomato">10.4<small>%</small></span> | 22.6<small>%</small> | 0.46 | -55.8<small>%</small> | -13.5<small>%</small> |
+| [PRNHX](/prnhx-vs-iwo/) | <span style="color: tomato">10.5<small>%</small></span> | 22.6<small>%</small> | 0.46 | -55.8<small>%</small> | -13.5<small>%</small> |
 | IWO | <span style="color: tomato">6.7<small>%</small></span> | 25.1<small>%</small> | 0.27 | -60.1<small>%</small> | -17.2<small>%</small> |
