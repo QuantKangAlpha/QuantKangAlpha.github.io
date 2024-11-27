@@ -79,7 +79,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | JEPI | <span style="color: tomato">13.8<small>%</small></span> | 10.3<small>%</small> | 1.34 | -13.7<small>%</small> | -2.1<small>%</small> |
 | SCHD | <span style="color: tomato">20.7<small>%</small></span> | 15.5<small>%</small> | 1.34 | -16.8<small>%</small> | -3.4<small>%</small> |
 | SCHD<sub>STD</sub> <small>(66%)</small> | <span style="color: tomato">13.6<small>%</small></span> | 10.3<small>%</small> | 1.32 | -11.3<small>%</small> | -2.2<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(81%)</small> | <span style="color: tomato">16.8<small>%</small></span> | 12.6<small>%</small> | 1.33 | -13.8<small>%</small> | -2.7<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(81%)</small> | <span style="color: tomato">16.8<small>%</small></span> | 12.6<small>%</small> | 1.33 | -13.8<small>%</small> | -2.8<small>%</small> |
 
 
 

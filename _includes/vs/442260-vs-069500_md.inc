@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [마이티 다이나믹퀀트액티브](/442260-vs-069500/) | <span style="color: tomato">10.5<small>%</small></span> | 17.8<small>%</small> | 0.59 | -21.0<small>%</small> | -4.2<small>%</small> |
-| KODEX 200 | <span style="color: tomato">9.3<small>%</small></span> | 18.2<small>%</small> | 0.51 | -19.7<small>%</small> | -4.4<small>%</small> |
+| [마이티 다이나믹퀀트액티브](/442260-vs-069500/) | <span style="color: tomato">10.0<small>%</small></span> | 17.8<small>%</small> | 0.56 | -21.0<small>%</small> | -4.2<small>%</small> |
+| KODEX 200 | <span style="color: tomato">8.8<small>%</small></span> | 18.2<small>%</small> | 0.49 | -19.7<small>%</small> | -4.4<small>%</small> |
