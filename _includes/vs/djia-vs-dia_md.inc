@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | [DJIA](/djia-vs-dia/) | <span style="color: tomato">7.4<small>%</small></span> | 10.7<small>%</small> | 0.69 | -16.9<small>%</small> | -4.3<small>%</small> |
-| DIA | <span style="color: tomato">13.6<small>%</small></span> | 14.7<small>%</small> | 0.93 | -17.8<small>%</small> | -3.7<small>%</small> |
+| DIA | <span style="color: tomato">13.5<small>%</small></span> | 14.7<small>%</small> | 0.92 | -17.8<small>%</small> | -3.7<small>%</small> |

@@ -4,4 +4,4 @@
 | [ROM](/rom/) | 2<small>x</small> | <span style="color: tomato">42.6<small>%</small></span> | 4.7<small>%</small> | 6.5<small>%</small> | 10.9<small>%</small> |
 | [TECL](/tecl/) | 3<small>x</small> | <span style="color: tomato">54.2<small>%</small></span> | 13.4<small>%</small> | 12.0<small>%</small> | 23.8<small>%</small> |
 | [REW](/rew/) | -2<small>x</small> | <span style="color: cornflowerblue">-38.4<small>%</small></span> | 13.2<small>%</small> | -13.6<small>%</small> | 1.5<small>%</small> |
-| [TECS](/tecs/) | -3<small>x</small> | <span style="color: cornflowerblue">-55.7<small>%</small></span> | 24.7<small>%</small> | -19.0<small>%</small> | 10.4<small>%</small> |
+| [TECS](/tecs/) | -3<small>x</small> | <span style="color: cornflowerblue">-55.5<small>%</small></span> | 24.7<small>%</small> | -19.4<small>%</small> | 10.1<small>%</small> |

@@ -79,7 +79,7 @@ AOM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOM<
 | PFFD | <span style="color: tomato">2.8<small>%</small></span> | 13.4<small>%</small> | 0.21 | -30.9<small>%</small> | -6.6<small>%</small> |
 | AOM | <span style="color: tomato">4.9<small>%</small></span> | 8.3<small>%</small> | 0.59 | -20.0<small>%</small> | -4.3<small>%</small> |
 | AOM<sub>STD</sub> <small>(161%)</small> | <span style="color: tomato">7.6<small>%</small></span> | 13.4<small>%</small> | 0.57 | -30.5<small>%</small> | -6.9<small>%</small> |
-| AOM<sub>MDD</sub> <small>(155%)</small> | <span style="color: tomato">7.4<small>%</small></span> | 12.9<small>%</small> | 0.57 | -29.5<small>%</small> | -6.7<small>%</small> |
+| AOM<sub>MDD</sub> <small>(155%)</small> | <span style="color: tomato">7.3<small>%</small></span> | 12.9<small>%</small> | 0.57 | -29.5<small>%</small> | -6.7<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ AOM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOM<
 
 **위험도 지표 (표준편차):** 161% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 7.6%로 PFFD의 2.8%보다 4.8% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 155% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 7.4%로 PFFD의 2.8%보다 4.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 155% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 7.3%로 PFFD의 2.8%보다 4.5% 높았습니다. (높은 수익률)
 
 
 
