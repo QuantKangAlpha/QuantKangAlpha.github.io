@@ -34,7 +34,7 @@ SDY의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SDY | <span style="color: tomato">11.9<small>%</small></span> | 16.0<small>%</small> | 0.74 | -36.7<small>%</small> | -3.3<small>%</small> |
-| SCHD | <span style="color: tomato">16.4<small>%</small></span> | 15.6<small>%</small> | 1.05 | -33.4<small>%</small> | -2.9<small>%</small> |
+| SCHD | <span style="color: tomato">16.4<small>%</small></span> | 15.6<small>%</small> | 1.05 | -33.4<small>%</small> | -2.7<small>%</small> |
 
 <!-- more -->
 
@@ -54,7 +54,7 @@ SDY의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 SCHD의 투자 비중[^fn_vs_weight]을 조절하여 SDY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.6% / 16.0% = 102% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.6% / 16.0% = 103% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 33.4% / 36.7% = 110% 비중으로 투자하면 됩니다.
 
@@ -77,15 +77,15 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SDY | <span style="color: tomato">11.9<small>%</small></span> | 16.0<small>%</small> | 0.74 | -36.7<small>%</small> | -3.3<small>%</small> |
-| SCHD | <span style="color: tomato">16.4<small>%</small></span> | 15.6<small>%</small> | 1.05 | -33.4<small>%</small> | -2.9<small>%</small> |
-| SCHD<sub>STD</sub> <small>(102%)</small> | <span style="color: tomato">16.7<small>%</small></span> | 16.0<small>%</small> | 1.05 | -34.1<small>%</small> | -3.0<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(110%)</small> | <span style="color: tomato">18.0<small>%</small></span> | 17.2<small>%</small> | 1.05 | -36.2<small>%</small> | -3.3<small>%</small> |
+| SCHD | <span style="color: tomato">16.4<small>%</small></span> | 15.6<small>%</small> | 1.05 | -33.4<small>%</small> | -2.7<small>%</small> |
+| SCHD<sub>STD</sub> <small>(103%)</small> | <span style="color: tomato">16.8<small>%</small></span> | 16.0<small>%</small> | 1.05 | -34.1<small>%</small> | -2.8<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(110%)</small> | <span style="color: tomato">18.0<small>%</small></span> | 17.1<small>%</small> | 1.05 | -36.2<small>%</small> | -3.0<small>%</small> |
 
 
 
 각각의 경우를 SDY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 102% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.7%로 SDY의 11.9%보다 4.9% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 103% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.8%로 SDY의 11.9%보다 4.9% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 110% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.0%로 SDY의 11.9%보다 6.1% 높았습니다. (높은 수익률)
 

@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국나스닥100데일리커버드콜OTM](/494300-vs-379810/) | - | 17.2<small>%</small> | nan | -3.1<small>%</small> | -1.1<small>%</small> |
-| KODEX 미국나스닥100TR | - | 18.2<small>%</small> | nan | -3.3<small>%</small> | -1.2<small>%</small> |
+| [KODEX 미국나스닥100데일리커버드콜OTM](/494300-vs-379810/) | - | 16.9<small>%</small> | nan | -3.1<small>%</small> | -1.1<small>%</small> |
+| KODEX 미국나스닥100TR | - | 18.0<small>%</small> | nan | -3.3<small>%</small> | -1.3<small>%</small> |
