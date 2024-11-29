@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLUS 미국배당증가성장주데일리커버드콜](/494420-vs-360750/) | - | 14.8<small>%</small> | nan | -3.2<small>%</small> | -1.1<small>%</small> |
-| TIGER 미국S&P500 | - | 16.1<small>%</small> | nan | -2.6<small>%</small> | -0.8<small>%</small> |
+| [PLUS 미국배당증가성장주데일리커버드콜](/494420-vs-360750/) | - | 14.6<small>%</small> | nan | -3.2<small>%</small> | -1.1<small>%</small> |
+| TIGER 미국S&P500 | - | 15.8<small>%</small> | nan | -2.6<small>%</small> | -0.8<small>%</small> |
