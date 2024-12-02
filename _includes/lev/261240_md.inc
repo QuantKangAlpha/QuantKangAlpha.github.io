@@ -1,6 +1,6 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX 미국달러선물 | | <span style="color: tomato">13.4<small>%</small></span> | - | - | - |
-| [KODEX 미국달러선물레버리지](/261250/) | 2<small>x</small> | <span style="color: tomato">23.8<small>%</small></span> | 0.6<small>%</small> | 3.2<small>%</small> | 3.8<small>%</small> |
-| [KODEX 미국달러선물인버스](/261270/) | -1<small>x</small> | <span style="color: cornflowerblue">-7.7<small>%</small></span> | 0.6<small>%</small> | -5.4<small>%</small> | -4.8<small>%</small> |
-| [KODEX 미국달러선물인버스2X](/261260/) | -2<small>x</small> | <span style="color: cornflowerblue">-17.5<small>%</small></span> | 1.8<small>%</small> | -8.1<small>%</small> | -6.2<small>%</small> |
+| KODEX 미국달러선물 | | <span style="color: tomato">12.9<small>%</small></span> | - | - | - |
+| [KODEX 미국달러선물레버리지](/261250/) | 2<small>x</small> | <span style="color: tomato">22.5<small>%</small></span> | 0.6<small>%</small> | 3.4<small>%</small> | 3.9<small>%</small> |
+| [KODEX 미국달러선물인버스](/261270/) | -1<small>x</small> | <span style="color: cornflowerblue">-7.2<small>%</small></span> | 0.6<small>%</small> | -5.4<small>%</small> | -4.8<small>%</small> |
+| [KODEX 미국달러선물인버스2X](/261260/) | -2<small>x</small> | <span style="color: cornflowerblue">-16.8<small>%</small></span> | 1.8<small>%</small> | -8.0<small>%</small> | -6.1<small>%</small> |
