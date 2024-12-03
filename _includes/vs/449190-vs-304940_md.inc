@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국나스닥100(H)](/449190-vs-304940/) | <span style="color: tomato">29.3<small>%</small></span> | 19.2<small>%</small> | 1.52 | -15.9<small>%</small> | -2.9<small>%</small> |
-| KODEX 미국나스닥100선물(H) | <span style="color: tomato">27.8<small>%</small></span> | 18.9<small>%</small> | 1.47 | -15.9<small>%</small> | -2.9<small>%</small> |
+| [KODEX 미국나스닥100(H)](/449190-vs-304940/) | <span style="color: tomato">30.1<small>%</small></span> | 19.2<small>%</small> | 1.57 | -15.9<small>%</small> | -2.8<small>%</small> |
+| KODEX 미국나스닥100선물(H) | <span style="color: tomato">28.6<small>%</small></span> | 18.9<small>%</small> | 1.51 | -15.9<small>%</small> | -2.9<small>%</small> |

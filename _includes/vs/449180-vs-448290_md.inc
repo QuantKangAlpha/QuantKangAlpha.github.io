@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국S&P500(H)](/449180-vs-448290/) | <span style="color: tomato">20.0<small>%</small></span> | 15.0<small>%</small> | 1.34 | -10.8<small>%</small> | -2.2<small>%</small> |
-| TIGER 미국S&P500TR(H) | <span style="color: tomato">20.2<small>%</small></span> | 13.5<small>%</small> | 1.50 | -10.1<small>%</small> | -1.9<small>%</small> |
+| [KODEX 미국S&P500(H)](/449180-vs-448290/) | <span style="color: tomato">20.3<small>%</small></span> | 15.0<small>%</small> | 1.35 | -10.8<small>%</small> | -2.2<small>%</small> |
+| TIGER 미국S&P500TR(H) | <span style="color: tomato">20.5<small>%</small></span> | 13.5<small>%</small> | 1.52 | -10.1<small>%</small> | -1.9<small>%</small> |
