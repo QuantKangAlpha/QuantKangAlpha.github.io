@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국배당다우존스타겟커버드콜](/483290-vs-360750/) | <span style="color: tomato">32.8<small>%</small></span> | 12.7<small>%</small> | 2.59 | -4.7<small>%</small> | -1.6<small>%</small> |
-| TIGER 미국S&P500 | <span style="color: tomato">38.0<small>%</small></span> | 14.7<small>%</small> | 2.59 | -9.1<small>%</small> | -1.9<small>%</small> |
+| [KODEX 미국배당다우존스타겟커버드콜](/483290-vs-360750/) | <span style="color: tomato">33.0<small>%</small></span> | 12.6<small>%</small> | 2.61 | -4.7<small>%</small> | -1.5<small>%</small> |
+| TIGER 미국S&P500 | <span style="color: tomato">39.5<small>%</small></span> | 14.7<small>%</small> | 2.69 | -9.1<small>%</small> | -1.9<small>%</small> |
