@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [히어로즈 미국달러SOFR금리액티브(합성)](/460270-vs-456200/) | <span style="color: tomato">12.5<small>%</small></span> | 8.8<small>%</small> | 1.42 | -5.1<small>%</small> | -1.3<small>%</small> |
-| PLUS 미국달러SOFR금리액티브(합성) | <span style="color: tomato">12.3<small>%</small></span> | 8.3<small>%</small> | 1.49 | -4.8<small>%</small> | -1.4<small>%</small> |
+| [히어로즈 미국달러SOFR금리액티브(합성)](/460270-vs-456200/) | <span style="color: tomato">12.6<small>%</small></span> | 8.8<small>%</small> | 1.44 | -5.1<small>%</small> | -1.3<small>%</small> |
+| PLUS 미국달러SOFR금리액티브(합성) | <span style="color: tomato">12.5<small>%</small></span> | 8.3<small>%</small> | 1.52 | -4.8<small>%</small> | -1.4<small>%</small> |

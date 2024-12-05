@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 코스피](/226490-vs-069500/) | <span style="color: tomato">5.3<small>%</small></span> | 16.6<small>%</small> | 0.32 | -41.3<small>%</small> | -11.1<small>%</small> |
-| KODEX 200 | <span style="color: tomato">6.4<small>%</small></span> | 17.6<small>%</small> | 0.36 | -38.1<small>%</small> | -11.1<small>%</small> |
+| [KODEX 코스피](/226490-vs-069500/) | <span style="color: tomato">5.2<small>%</small></span> | 16.6<small>%</small> | 0.31 | -41.3<small>%</small> | -11.1<small>%</small> |
+| KODEX 200 | <span style="color: tomato">6.3<small>%</small></span> | 17.6<small>%</small> | 0.36 | -38.1<small>%</small> | -11.1<small>%</small> |
