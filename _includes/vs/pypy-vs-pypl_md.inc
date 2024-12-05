@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PYPY](/pypy-vs-pypl/) | <span style="color: tomato">42.1<small>%</small></span> | 26.2<small>%</small> | 1.61 | -14.7<small>%</small> | -3.5<small>%</small> |
-| PYPL | <span style="color: tomato">36.3<small>%</small></span> | 33.6<small>%</small> | 1.08 | -15.8<small>%</small> | -4.9<small>%</small> |
+| [PYPY](/pypy-vs-pypl/) | <span style="color: tomato">46.7<small>%</small></span> | 26.4<small>%</small> | 1.77 | -14.7<small>%</small> | -3.5<small>%</small> |
+| PYPL | <span style="color: tomato">41.8<small>%</small></span> | 33.8<small>%</small> | 1.24 | -15.8<small>%</small> | -4.9<small>%</small> |
