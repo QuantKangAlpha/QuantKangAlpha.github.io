@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [한국타이어앤테크놀로지](/161390/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241205000393){:target="_blank"} |
-| [SK](/034730/#dart) | | [투자판단관련주요경영사항(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241205800261){:target="_blank"} |
-| [BGF리테일](/282330/#dart) | | [기타경영사항(자율공시)              (배당기준일 변경 안내)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241205800258){:target="_blank"} |
-| [삼성SDI](/006400/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241205000358){:target="_blank"} |
-| [엠로](/058970/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241205000348){:target="_blank"} |
+| [고영](/098460/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241206000363){:target="_blank"} |
+| [에코프로머티](/450080/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241206000357){:target="_blank"} |
+| [하나기술](/299030/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241206000338){:target="_blank"} |
+| [카카오뱅크](/323410/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241206800320){:target="_blank"} |
+| [미래에셋증권](/006800/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241206000327){:target="_blank"} |
