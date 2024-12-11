@@ -1,8 +1,8 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| AAPL | | <span style="color: tomato">28.5<small>%</small></span> | - | - | - |
-| [AAP2.L](/aap2/) | 2<small>x</small> | <span style="color: tomato">46.8<small>%</small></span> | 4.9<small>%</small> | 6.5<small>%</small> | 11.0<small>%</small> |
-| [AAPU](/aapu/) | 2<small>x</small> | <span style="color: tomato">154.7<small>%</small></span><sup><small>8개월</small></sup> | 3.7<small>%</small> | 6.7<small>%</small> | 10.1<small>%</small> |
-| [AAP3.L](/aap3/) | 3<small>x</small> | <span style="color: tomato">59.9<small>%</small></span> | 13.8<small>%</small> | 12.4<small>%</small> | 24.5<small>%</small> |
-| [AAPD](/aapd/) | -1<small>x</small> | <span style="color: cornflowerblue">-19.8<small>%</small></span> | 4.9<small>%</small> | -8.3<small>%</small> | -3.0<small>%</small> |
-| [AAPS.L](/aaps/) | -3<small>x</small> | <span style="color: cornflowerblue">-61.7<small>%</small></span> | 26.6<small>%</small> | -10.6<small>%</small> | 18.8<small>%</small> |
+| AAPL | | <span style="color: tomato">28.9<small>%</small></span> | - | - | - |
+| [AAP2.L](/aap2/) | 2<small>x</small> | <span style="color: tomato">45.5<small>%</small></span> | 4.9<small>%</small> | 8.0<small>%</small> | 12.5<small>%</small> |
+| [AAPU](/aapu/) | 2<small>x</small> | <span style="color: tomato">156.4<small>%</small></span><sup><small>8개월</small></sup> | 3.7<small>%</small> | 6.8<small>%</small> | 10.2<small>%</small> |
+| [AAP3.L](/aap3/) | 3<small>x</small> | <span style="color: tomato">57.9<small>%</small></span> | 13.8<small>%</small> | 14.4<small>%</small> | 26.3<small>%</small> |
+| [AAPD](/aapd/) | -1<small>x</small> | <span style="color: cornflowerblue">-20.1<small>%</small></span> | 4.9<small>%</small> | -8.4<small>%</small> | -3.1<small>%</small> |
+| [AAPS.L](/aaps/) | -3<small>x</small> | <span style="color: cornflowerblue">-61.2<small>%</small></span> | 26.6<small>%</small> | -13.2<small>%</small> | 16.9<small>%</small> |
