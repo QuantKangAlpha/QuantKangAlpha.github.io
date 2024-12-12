@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [BGF리테일](/282330/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241211000344){:target="_blank"} |
-| [한미사이언스](/008930/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241211800504){:target="_blank"} |
-| [파트론](/091700/#dart) | | [현금ㆍ현물배당결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241211900466){:target="_blank"} |
-| [LG](/003550/#dart) | | [기타경영사항(자율공시)              (배당기준일 변경 안내)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241211800493){:target="_blank"} |
-| [SK](/034730/#dart) | | [특수관계인으로부터부동산임차](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241211000335){:target="_blank"} |
+| [한화](/000880/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212000426){:target="_blank"} |
+| [미래에셋증권](/006800/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212000420){:target="_blank"} |
+| [한화생명](/088350/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212000417){:target="_blank"} |
+| [코스맥스](/192820/#dart) | | [투자판단관련주요경영사항              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212800548){:target="_blank"} |
+| [SK바이오사이언스](/302440/#dart) | | [주주명부폐쇄기간또는기준일설정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212800558){:target="_blank"} |
