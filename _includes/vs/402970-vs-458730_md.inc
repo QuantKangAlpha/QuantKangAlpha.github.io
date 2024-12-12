@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 미국배당다우존스](/402970-vs-458730/) | <span style="color: tomato">24.7<small>%</small></span> | 11.5<small>%</small> | 2.14 | -7.8<small>%</small> | -1.7<small>%</small> |
-| TIGER 미국배당다우존스 | <span style="color: tomato">24.4<small>%</small></span> | 11.8<small>%</small> | 2.07 | -7.6<small>%</small> | -1.7<small>%</small> |
+| [ACE 미국배당다우존스](/402970-vs-458730/) | <span style="color: tomato">24.0<small>%</small></span> | 11.5<small>%</small> | 2.08 | -7.8<small>%</small> | -1.7<small>%</small> |
+| TIGER 미국배당다우존스 | <span style="color: tomato">23.9<small>%</small></span> | 11.8<small>%</small> | 2.02 | -7.6<small>%</small> | -1.7<small>%</small> |
