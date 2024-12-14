@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [마이다스 코스피액티브](/403790-vs-069500/) | <span style="color: cornflowerblue">-1.1<small>%</small></span> | 17.1<small>%</small> | -0.06 | -25.0<small>%</small> | -9.6<small>%</small> |
-| KODEX 200 | <span style="color: cornflowerblue">-2.8<small>%</small></span> | 18.3<small>%</small> | -0.15 | -28.4<small>%</small> | -12.1<small>%</small> |
+| [마이다스 코스피액티브](/403790-vs-069500/) | <span style="color: cornflowerblue">-0.9<small>%</small></span> | 17.0<small>%</small> | -0.05 | -25.0<small>%</small> | -9.6<small>%</small> |
+| KODEX 200 | <span style="color: cornflowerblue">-2.6<small>%</small></span> | 18.2<small>%</small> | -0.14 | -28.4<small>%</small> | -12.1<small>%</small> |

@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLUS 미국배당증가성장주데일리커버드콜](/494420-vs-483290/) | - | 13.8<small>%</small> | nan | -3.2<small>%</small> | -1.0<small>%</small> |
-| KODEX 미국배당다우존스타겟커버드콜 | - | 12.7<small>%</small> | nan | -1.8<small>%</small> | -0.7<small>%</small> |
+| [PLUS 미국배당증가성장주데일리커버드콜](/494420-vs-483290/) | - | 13.6<small>%</small> | nan | -3.2<small>%</small> | -1.0<small>%</small> |
+| KODEX 미국배당다우존스타겟커버드콜 | - | 12.5<small>%</small> | nan | -1.8<small>%</small> | -0.7<small>%</small> |
