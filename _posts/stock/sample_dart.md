@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [한화](/000880/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212000426){:target="_blank"} |
-| [미래에셋증권](/006800/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212000420){:target="_blank"} |
-| [한화생명](/088350/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212000417){:target="_blank"} |
-| [코스맥스](/192820/#dart) | | [투자판단관련주요경영사항              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212800548){:target="_blank"} |
-| [SK바이오사이언스](/302440/#dart) | | [주주명부폐쇄기간또는기준일설정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241212800558){:target="_blank"} |
+| [CJ](/001040/#dart) | | [[기재정정]타인에대한담보제공결정(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241213801994){:target="_blank"} |
+| [금양](/001570/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241213000654){:target="_blank"} |
+| [HD현대인프라코어](/042670/#dart) | | [기타경영사항(자율공시)              (배당기준일 변경 안내)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241213801963){:target="_blank"} |
+| [시노펙스](/025320/#dart) | | [[기재정정]수시공시의무관련사항(공정공시)              (울산미포국가산단 맞춤형 공업용수 통합공급 위탁운영 계약 해지통보)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241213901960){:target="_blank"} |
+| [동국제약](/086450/#dart) | | [현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241213901957){:target="_blank"} |
