@@ -5,7 +5,7 @@ excerpt: KOSPI 섬유의복 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-07-30
+last_modified_at: 2025-07-31
 ---
 
 
@@ -19,27 +19,27 @@ last_modified_at: 2025-07-30
 | [F&F](/383220/) | 7.3 | 1.7 | 2.4<small>%</small> | 38.4<small>%</small> |
 | [한세실업](/105630/) | 7.1 | 0.6 | 4.8<small>%</small> | 14.4<small>%</small> |
 | LF | 7.4 | 0.3 | 3.5<small>%</small> | 8.0<small>%</small> |
-| 한섬 | 7.8 | 0.2 | 4.6<small>%</small> | 8.0<small>%</small> |
-| BYC | 17.7 | 0.6 | 0.9<small>%</small> | 4.0<small>%</small> |
+| 한섬 | 7.9 | 0.2 | 4.6<small>%</small> | 8.0<small>%</small> |
+| BYC | 17.9 | 0.6 | 0.9<small>%</small> | 4.0<small>%</small> |
 | 일신방직 | 7.8 | 0.2 | 1.9<small>%</small> | 3.7<small>%</small> |
-| 한세예스24홀딩스 | 37.0 | 0.3 | 5.8<small>%</small> | 3.5<small>%</small> |
-| 신원 | 19.3 | 0.5 | 4.3<small>%</small> | 2.5<small>%</small> |
-| 방림 | 199.6 | 0.8 | 1.4<small>%</small> | 2.1<small>%</small> |
-| 대현 | 5.4 | 0.3 | 4.7<small>%</small> | 1.6<small>%</small> |
+| 한세예스24홀딩스 | 37.2 | 0.3 | 5.8<small>%</small> | 3.5<small>%</small> |
+| 신원 | 20.9 | 0.6 | 4.0<small>%</small> | 2.5<small>%</small> |
+| 방림 | 202.3 | 0.8 | 1.4<small>%</small> | 2.1<small>%</small> |
+| 대현 | 5.3 | 0.3 | 4.7<small>%</small> | 1.6<small>%</small> |
 | 신영와코루 | 30.6 | 0.3 | 1.1<small>%</small> | 1.6<small>%</small> |
 | 쌍방울 | - | 0.7 | - | 1.5<small>%</small> |
-| TP | 3.2 | 0.3 | 3.4<small>%</small> | 1.5<small>%</small> |
-| 성안머티리얼스 | - | 1.5 | - | 1.4<small>%</small> |
+| TP | 3.3 | 0.3 | 3.4<small>%</small> | 1.5<small>%</small> |
+| 성안머티리얼스 | - | 1.4 | - | 1.4<small>%</small> |
 | 호전실업 | 3.2 | 0.4 | 4.8<small>%</small> | 1.3<small>%</small> |
-| 인디에프 | - | 2.5 | - | 1.0<small>%</small> |
-| 메타랩스 | 170.6 | 0.4 | - | 0.9<small>%</small> |
+| 인디에프 | - | 2.8 | - | 1.0<small>%</small> |
+| 메타랩스 | 169.2 | 0.4 | - | 0.9<small>%</small> |
 | 원림 | 7.9 | 0.3 | 2.6<small>%</small> | 0.7<small>%</small> |
-| 전방 | 4.3 | 0.2 | 3.0<small>%</small> | 0.7<small>%</small> |
-| 형지엘리트 | 13.4 | 1.1 | - | 0.6<small>%</small> |
-| 대한방직 | 21.6 | 0.2 | - | 0.6<small>%</small> |
+| 전방 | 4.4 | 0.2 | 2.9<small>%</small> | 0.7<small>%</small> |
+| 형지엘리트 | 14.8 | 1.2 | - | 0.6<small>%</small> |
+| 대한방직 | 21.3 | 0.2 | - | 0.6<small>%</small> |
 | BYC우 | - | - | 1.4<small>%</small> | 0.6<small>%</small> |
 | TBH글로벌 | - | 0.5 | 2.9<small>%</small> | 0.5<small>%</small> |
-| 비비안 | - | 0.2 | - | 0.5<small>%</small> |
+| 비비안 | - | 0.3 | - | 0.5<small>%</small> |
 | 일정실업 | 3.9 | 2.2 | - | 0.3<small>%</small> |
 
 {% include commons/footnotes.md %}
