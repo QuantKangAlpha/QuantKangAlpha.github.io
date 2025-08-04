@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XDTE vs ISPY
-excerpt: XDTE의 최근 1년 4개월 CAGR은 13.2%로 ISPY의 13.2%와 비슷했습니다.
+excerpt: XDTE의 최근 1년 4개월 CAGR은 13.2%로 ISPY의 13.3%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ XDTE의 수익률이 ISPY보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XDTE | <span style="color: tomato">13.2<small>%</small></span> | 15.1<small>%</small> | 0.88 | -19.1<small>%</small> | -3.1<small>%</small> |
-| ISPY | <span style="color: tomato">13.2<small>%</small></span> | 14.9<small>%</small> | 0.88 | -16.9<small>%</small> | -2.8<small>%</small> |
+| ISPY | <span style="color: tomato">13.3<small>%</small></span> | 14.9<small>%</small> | 0.89 | -16.9<small>%</small> | -2.8<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XDTE의 CAGR은 13.2%로 ISPY의 13.2%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XDTE의 CAGR은 13.2%로 ISPY의 13.3%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XDTE의 표준편차는 15.1%로 ISPY의 14.9%와 비슷했습니다. (비슷한 위험도)
 
@@ -77,17 +77,17 @@ ISPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, ISP
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XDTE | <span style="color: tomato">13.2<small>%</small></span> | 15.1<small>%</small> | 0.88 | -19.1<small>%</small> | -3.1<small>%</small> |
-| ISPY | <span style="color: tomato">13.2<small>%</small></span> | 14.9<small>%</small> | 0.88 | -16.9<small>%</small> | -2.8<small>%</small> |
-| ISPY<sub>STD</sub> <small>(101%)</small> | <span style="color: tomato">13.3<small>%</small></span> | 15.1<small>%</small> | 0.88 | -17.0<small>%</small> | -2.8<small>%</small> |
-| ISPY<sub>MDD</sub> <small>(113%)</small> | <span style="color: tomato">14.8<small>%</small></span> | 16.9<small>%</small> | 0.88 | -18.9<small>%</small> | -3.1<small>%</small> |
+| ISPY | <span style="color: tomato">13.3<small>%</small></span> | 14.9<small>%</small> | 0.89 | -16.9<small>%</small> | -2.8<small>%</small> |
+| ISPY<sub>STD</sub> <small>(101%)</small> | <span style="color: tomato">13.4<small>%</small></span> | 15.1<small>%</small> | 0.89 | -17.0<small>%</small> | -2.8<small>%</small> |
+| ISPY<sub>MDD</sub> <small>(113%)</small> | <span style="color: tomato">14.9<small>%</small></span> | 16.9<small>%</small> | 0.89 | -18.9<small>%</small> | -3.1<small>%</small> |
 
 
 
 각각의 경우를 XDTE의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 101% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.3%로 XDTE의 13.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 101% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.4%로 XDTE의 13.2%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 113% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.8%로 XDTE의 13.2%보다 1.6% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 113% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.9%로 XDTE의 13.2%보다 1.7% 높았습니다. (높은 수익률)
 
 
 
@@ -99,7 +99,7 @@ ISPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, ISP
 
 지난 1년 4개월간 거치식으로 투자했다고 가정합니다.
 
-ISPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 14.1%인 포트폴리오를 만들 수 있습니다.
+ISPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 14.2%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 XDTE의 13.2%와 비슷했습니다.
 
 ### XDTE ≒ ISPY

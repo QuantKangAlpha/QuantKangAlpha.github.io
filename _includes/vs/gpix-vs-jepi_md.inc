@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [GPIX](/gpix-vs-jepi/) | <span style="color: tomato">23.9<small>%</small></span> | 15.1<small>%</small> | 1.59 | -17.5<small>%</small> | -1.8<small>%</small> |
-| JEPI | <span style="color: tomato">13.0<small>%</small></span> | 11.3<small>%</small> | 1.15 | -13.3<small>%</small> | -1.6<small>%</small> |
+| [GPIX](/gpix-vs-jepi/) | <span style="color: tomato">24.4<small>%</small></span> | 15.0<small>%</small> | 1.63 | -17.5<small>%</small> | -1.7<small>%</small> |
+| JEPI | <span style="color: tomato">13.4<small>%</small></span> | 11.2<small>%</small> | 1.19 | -13.3<small>%</small> | -1.6<small>%</small> |
