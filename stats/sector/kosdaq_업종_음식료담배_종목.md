@@ -5,7 +5,7 @@ excerpt: KOSDAQ 음식료담배 업종 종목별 시가총액 비중입니다. �
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-08-05
+last_modified_at: 2025-08-06
 ---
 
 
@@ -21,43 +21,43 @@ last_modified_at: 2025-08-05
 | 아미코젠 | - | 1.8 | - | 5.7<small>%</small> |
 | 우리바이오 | 22.8 | 0.5 | - | 5.0<small>%</small> |
 | 현대사료 | 6.6 | 2.1 | - | 4.4<small>%</small> |
-| 노바렉스 | 14.9 | 1.6 | 1.0<small>%</small> | 4.1<small>%</small> |
-| 한일사료 | 39.2 | 0.9 | 1.4<small>%</small> | 4.0<small>%</small> |
-| 이지홀딩스 | 14.3 | 0.4 | 6.7<small>%</small> | 3.9<small>%</small> |
-| 팜스토리 | 34.5 | 0.5 | 2.1<small>%</small> | 3.4<small>%</small> |
+| 노바렉스 | 15.1 | 1.6 | 1.0<small>%</small> | 4.1<small>%</small> |
+| 한일사료 | 39.1 | 0.9 | 1.4<small>%</small> | 4.0<small>%</small> |
+| 이지홀딩스 | 14.6 | 0.4 | 6.5<small>%</small> | 3.9<small>%</small> |
+| 팜스토리 | 34.9 | 0.5 | 2.0<small>%</small> | 3.4<small>%</small> |
 | 이지바이오 | 9.8 | 2.2 | 3.5<small>%</small> | 3.2<small>%</small> |
-| 풍국주정 | 14.7 | 0.7 | 1.7<small>%</small> | 3.1<small>%</small> |
-| 에이치피오 | 16.0 | 0.7 | 1.4<small>%</small> | 2.8<small>%</small> |
-| 매일홀딩스 | 5.5 | 0.3 | 2.3<small>%</small> | 2.6<small>%</small> |
-| 진로발효 | 12.6 | 1.5 | 5.7<small>%</small> | 2.4<small>%</small> |
+| 풍국주정 | 14.6 | 0.7 | 1.7<small>%</small> | 3.1<small>%</small> |
+| 에이치피오 | 15.9 | 0.7 | 1.4<small>%</small> | 2.8<small>%</small> |
+| 매일홀딩스 | 5.7 | 0.3 | 2.3<small>%</small> | 2.6<small>%</small> |
+| 진로발효 | 12.5 | 1.5 | 5.7<small>%</small> | 2.4<small>%</small> |
 | 미래생명자원 | - | 1.6 | - | 2.2<small>%</small> |
-| 국순당 | 52.6 | 0.3 | 1.5<small>%</small> | 2.2<small>%</small> |
-| 에스앤디 | 21.5 | 4.8 | 0.7<small>%</small> | 2.2<small>%</small> |
+| 국순당 | 53.2 | 0.3 | 1.5<small>%</small> | 2.2<small>%</small> |
+| 에스앤디 | 22.1 | 4.9 | 0.7<small>%</small> | 2.2<small>%</small> |
 | 엠에스씨 | 6.5 | 0.8 | 1.4<small>%</small> | 2.0<small>%</small> |
-| 우리손에프앤지 | 6.8 | 0.3 | 4.7<small>%</small> | 1.9<small>%</small> |
+| 우리손에프앤지 | 7.0 | 0.3 | 4.6<small>%</small> | 1.9<small>%</small> |
 | 우양 | - | 1.6 | - | 1.9<small>%</small> |
-| 우듬지팜 | 27.3 | 2.0 | - | 1.9<small>%</small> |
-| 정다운 | 7.3 | 0.7 | 9.3<small>%</small> | 1.9<small>%</small> |
-| 창해에탄올 | 6.3 | 0.6 | 5.8<small>%</small> | 1.9<small>%</small> |
-| 흥국에프엔비 | 13.3 | 0.7 | 4.0<small>%</small> | 1.7<small>%</small> |
-| 뉴트리 | 10.9 | 0.5 | - | 1.6<small>%</small> |
-| 코스맥스엔비티 | - | 1.4 | - | 1.6<small>%</small> |
-| 네오크레마 | 113.1 | 1.1 | - | 1.5<small>%</small> |
+| 우듬지팜 | 27.1 | 1.9 | - | 1.9<small>%</small> |
+| 정다운 | 7.4 | 0.7 | 9.3<small>%</small> | 1.9<small>%</small> |
+| 창해에탄올 | 6.4 | 0.6 | 5.7<small>%</small> | 1.9<small>%</small> |
+| 흥국에프엔비 | 13.5 | 0.7 | 3.9<small>%</small> | 1.7<small>%</small> |
+| 뉴트리 | 11.1 | 0.5 | - | 1.6<small>%</small> |
+| 코스맥스엔비티 | - | 1.5 | - | 1.6<small>%</small> |
+| 네오크레마 | 109.8 | 1.1 | - | 1.5<small>%</small> |
 | 에이치엘사이언스 | - | 0.6 | - | 1.5<small>%</small> |
-| 제주맥주 | - | 3.6 | - | 1.4<small>%</small> |
-| 인산가 | 57.3 | 0.8 | 1.5<small>%</small> | 1.3<small>%</small> |
+| 제주맥주 | - | 3.7 | - | 1.4<small>%</small> |
+| 인산가 | 58.2 | 0.8 | 1.5<small>%</small> | 1.3<small>%</small> |
 | 동우팜투테이블 | - | 0.2 | - | 1.2<small>%</small> |
-| 푸드웰 | 7.8 | 0.6 | 2.1<small>%</small> | 1.2<small>%</small> |
-| 대주산업 | 7.2 | 0.7 | 2.4<small>%</small> | 1.1<small>%</small> |
-| 마니커에프앤지 | 15.3 | 0.6 | - | 1.1<small>%</small> |
-| 팜스빌 | 20.4 | 0.5 | 2.4<small>%</small> | 1.1<small>%</small> |
+| 푸드웰 | 7.9 | 0.6 | 2.0<small>%</small> | 1.2<small>%</small> |
+| 대주산업 | 7.3 | 0.7 | 2.3<small>%</small> | 1.1<small>%</small> |
+| 마니커에프앤지 | 15.4 | 0.6 | - | 1.1<small>%</small> |
+| 팜스빌 | 20.6 | 0.5 | 2.4<small>%</small> | 1.1<small>%</small> |
 | 프롬바이오 | - | 1.1 | - | 1.0<small>%</small> |
 | 체리부로 | - | 0.5 | - | 1.0<small>%</small> |
-| 케이씨피드 | 6.2 | 0.6 | 3.7<small>%</small> | 0.9<small>%</small> |
-| 한국맥널티 | 555.0 | 1.2 | - | 0.9<small>%</small> |
+| 케이씨피드 | 6.3 | 0.6 | 3.7<small>%</small> | 0.9<small>%</small> |
+| 한국맥널티 | 551.4 | 1.2 | - | 0.9<small>%</small> |
 | 휴럼 | 15.8 | 0.7 | - | 0.9<small>%</small> |
 | 비피도 | - | 0.6 | - | 0.9<small>%</small> |
-| 오에스피 | 10.4 | 0.7 | - | 0.8<small>%</small> |
+| 오에스피 | 10.3 | 0.7 | - | 0.8<small>%</small> |
 | 한탑 | - | 0.5 | - | 0.6<small>%</small> |
 
 {% include commons/footnotes.md %}

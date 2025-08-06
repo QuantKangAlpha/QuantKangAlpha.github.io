@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [삼양식품](/003230/#dart) | | [합병등종료보고서(합병)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250805000274){:target="_blank"} |
-| [펩트론](/087010/#dart) | | [증권발행결과(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250805900421){:target="_blank"} |
-| [LS](/006260/#dart) | | [[기재정정]타법인주식및출자증권취득결정(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250805800409){:target="_blank"} |
-| [롯데웰푸드](/280360/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250805800400){:target="_blank"} |
-| [GS](/078930/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250805800392){:target="_blank"} |
+| [아모레퍼시픽](/090430/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250806000349){:target="_blank"} |
+| [삼성생명](/032830/#dart) | | [[기재정정]기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250806800546){:target="_blank"} |
+| [한화에어로스페이스](/012450/#dart) | | [동일인등출자계열회사와의상품ㆍ용역거래변경](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250806000343){:target="_blank"} |
+| [GS건설](/006360/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250806800521){:target="_blank"} |
+| [엔켐](/348370/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250806000341){:target="_blank"} |
