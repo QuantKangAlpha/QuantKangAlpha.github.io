@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 코스피대형주](/337140-vs-226490/) | <span style="color: tomato">10.0<small>%</small></span> | 20.0<small>%</small> | 0.50 | -34.6<small>%</small> | -12.8<small>%</small> |
-| KODEX 코스피 | <span style="color: tomato">9.8<small>%</small></span> | 19.5<small>%</small> | 0.50 | -35.4<small>%</small> | -13.0<small>%</small> |
+| [KODEX 코스피대형주](/337140-vs-226490/) | <span style="color: tomato">10.1<small>%</small></span> | 20.0<small>%</small> | 0.50 | -34.6<small>%</small> | -12.8<small>%</small> |
+| KODEX 코스피 | <span style="color: tomato">9.9<small>%</small></span> | 19.5<small>%</small> | 0.51 | -35.4<small>%</small> | -13.0<small>%</small> |
