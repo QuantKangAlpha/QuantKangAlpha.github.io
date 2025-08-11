@@ -5,7 +5,7 @@ excerpt: KOSPI 운수장비 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-08-08
+last_modified_at: 2025-08-11
 ---
 
 
@@ -18,37 +18,37 @@ last_modified_at: 2025-08-08
 | :------- | ------: | ------: | ------: | -------: |
 | [현대차](/005380/) | 4.5 | 0.5 | 5.7<small>%</small> | 25.1<small>%</small> |
 | [기아](/000270/) | 4.1 | 0.7 | 6.4<small>%</small> | 20.6<small>%</small> |
-| [현대모비스](/012330/) | 6.6 | 0.6 | 2.0<small>%</small> | 10.2<small>%</small> |
-| [HD현대중공업](/329180/) | 66.6 | 7.3 | 0.5<small>%</small> | 8.8<small>%</small> |
+| [현대모비스](/012330/) | 6.5 | 0.6 | 2.0<small>%</small> | 10.2<small>%</small> |
+| [HD현대중공업](/329180/) | 66.3 | 7.2 | 0.5<small>%</small> | 8.8<small>%</small> |
 | [한화에어로스페이스](/012450/) | 19.1 | 8.1 | 0.4<small>%</small> | 7.2<small>%</small> |
-| [삼성중공업](/010140/) | 257.6 | 4.3 | - | 4.7<small>%</small> |
-| [한화오션](/042660/) | 71.4 | 7.4 | - | 4.4<small>%</small> |
+| [삼성중공업](/010140/) | 254.9 | 4.3 | - | 4.7<small>%</small> |
+| [한화오션](/042660/) | 64.9 | 6.8 | - | 4.4<small>%</small> |
 | 현대차2우B | - | - | 7.2<small>%</small> | 2.9<small>%</small> |
-| [한국항공우주](/047810/) | 51.4 | 5.2 | 0.6<small>%</small> | 2.6<small>%</small> |
-| [현대로템](/064350/) | 49.2 | 9.8 | 0.1<small>%</small> | 2.6<small>%</small> |
-| [HD현대미포](/010620/) | 72.7 | 3.7 | 0.4<small>%</small> | 2.2<small>%</small> |
+| [한국항공우주](/047810/) | 51.1 | 5.2 | 0.6<small>%</small> | 2.6<small>%</small> |
+| [현대로템](/064350/) | 48.6 | 9.7 | 0.1<small>%</small> | 2.6<small>%</small> |
+| [HD현대미포](/010620/) | 71.8 | 3.7 | 0.4<small>%</small> | 2.2<small>%</small> |
 | 현대차우 | - | - | 7.4<small>%</small> | 1.9<small>%</small> |
-| [HL만도](/204320/) | 12.5 | 0.6 | 2.0<small>%</small> | 0.8<small>%</small> |
-| [에스엘](/005850/) | 4.2 | 0.7 | 3.6<small>%</small> | 0.8<small>%</small> |
-| [현대위아](/011210/) | 10.9 | 0.4 | 2.2<small>%</small> | 0.7<small>%</small> |
-| [KG모빌리티](/003620/) | 19.5 | 0.5 | - | 0.6<small>%</small> |
-| [일진하이솔루스](/271940/) | 345.2 | 2.0 | - | 0.4<small>%</small> |
-| SNT다이내믹스 | 12.2 | 1.5 | 2.5<small>%</small> | 0.4<small>%</small> |
+| [HL만도](/204320/) | 12.5 | 0.7 | 2.0<small>%</small> | 0.8<small>%</small> |
+| [에스엘](/005850/) | 4.1 | 0.7 | 3.6<small>%</small> | 0.8<small>%</small> |
+| [현대위아](/011210/) | 10.8 | 0.4 | 2.2<small>%</small> | 0.7<small>%</small> |
+| [KG모빌리티](/003620/) | 19.4 | 0.5 | - | 0.6<small>%</small> |
+| [일진하이솔루스](/271940/) | 343.8 | 2.0 | - | 0.4<small>%</small> |
+| SNT다이내믹스 | 12.4 | 1.5 | 2.5<small>%</small> | 0.4<small>%</small> |
 | SNT모티브 | 7.6 | 0.7 | 2.9<small>%</small> | 0.3<small>%</small> |
-| [명신산업](/009900/) | 3.5 | 0.6 | 1.8<small>%</small> | 0.3<small>%</small> |
-| 세진중공업 | 70.8 | 4.3 | 1.4<small>%</small> | 0.2<small>%</small> |
+| [명신산업](/009900/) | 3.5 | 0.7 | 1.7<small>%</small> | 0.3<small>%</small> |
+| 세진중공업 | 67.3 | 4.1 | 1.5<small>%</small> | 0.2<small>%</small> |
 | 서연이화 | 2.2 | 0.3 | 2.0<small>%</small> | 0.2<small>%</small> |
 | 현대차3우B | - | - | 7.4<small>%</small> | 0.2<small>%</small> |
-| 화신 | 5.6 | 0.6 | 1.7<small>%</small> | 0.2<small>%</small> |
-| 모토닉 | 7.0 | 0.5 | 5.8<small>%</small> | 0.1<small>%</small> |
+| 화신 | 5.5 | 0.6 | 1.8<small>%</small> | 0.2<small>%</small> |
+| 모토닉 | 6.9 | 0.5 | 5.8<small>%</small> | 0.1<small>%</small> |
 | 대원강업 | 9.4 | 0.4 | 3.1<small>%</small> | 0.1<small>%</small> |
-| 디아이씨 | 11.5 | 1.1 | - | 0.1<small>%</small> |
-| 에스엠벡셀 | 154.7 | 2.5 | - | 0.1<small>%</small> |
-| 대창단조 | 4.8 | 0.5 | 2.5<small>%</small> | 0.1<small>%</small> |
+| 디아이씨 | 11.6 | 1.1 | - | 0.1<small>%</small> |
+| 에스엠벡셀 | 152.0 | 2.5 | - | 0.1<small>%</small> |
+| 대창단조 | 4.8 | 0.5 | 2.6<small>%</small> | 0.1<small>%</small> |
 | 에스제이지세종 | 3.5 | 0.3 | 3.4<small>%</small> | 0.1<small>%</small> |
-| SG글로벌 | 12.1 | 0.5 | - | 0.1<small>%</small> |
+| SG글로벌 | 11.8 | 0.5 | - | 0.1<small>%</small> |
 | 금호에이치티 | - | 0.4 | - | 0.1<small>%</small> |
-| 태양금속 | 35.0 | 0.8 | 0.4<small>%</small> | 0.1<small>%</small> |
+| 태양금속 | 34.8 | 0.8 | 0.4<small>%</small> | 0.1<small>%</small> |
 | 한국무브넥스 | 2.8 | 0.3 | 2.4<small>%</small> | 0.1<small>%</small> |
 | 덕양산업 | 4.8 | 0.8 | 2.0<small>%</small> | 0.1<small>%</small> |
 | 삼원강재 | 7.7 | 0.4 | 4.3<small>%</small> | 0.1<small>%</small> |
@@ -58,26 +58,26 @@ last_modified_at: 2025-08-08
 | 삼성공조 | 7.6 | 0.4 | 0.6<small>%</small> | 0.0<small>%</small> |
 | 세원정공 | 2.0 | 0.2 | 1.4<small>%</small> | 0.0<small>%</small> |
 | 지엠비코리아 | 5.0 | 0.3 | 6.2<small>%</small> | 0.0<small>%</small> |
-| 새론오토모티브 | 6.9 | 0.3 | 4.0<small>%</small> | 0.0<small>%</small> |
+| 새론오토모티브 | 6.8 | 0.3 | 4.1<small>%</small> | 0.0<small>%</small> |
 | 상신브레이크 | 3.5 | 0.2 | 3.4<small>%</small> | 0.0<small>%</small> |
 | 화승알앤에이 | 1.9 | 0.4 | 2.3<small>%</small> | 0.0<small>%</small> |
-| 인팩 | 26.7 | 0.5 | 2.9<small>%</small> | 0.0<small>%</small> |
-| 동양피스톤 | 6.3 | 0.4 | 1.9<small>%</small> | 0.0<small>%</small> |
-| 케이비아이동국실업 | 2.1 | 0.2 | - | 0.0<small>%</small> |
-| 동원금속 | 3.6 | 0.6 | 3.5<small>%</small> | 0.0<small>%</small> |
+| 인팩 | 26.9 | 0.5 | 2.9<small>%</small> | 0.0<small>%</small> |
+| 동양피스톤 | 6.2 | 0.4 | 1.9<small>%</small> | 0.0<small>%</small> |
+| 케이비아이동국실업 | 2.2 | 0.2 | - | 0.0<small>%</small> |
+| 동원금속 | 3.6 | 0.6 | 3.6<small>%</small> | 0.0<small>%</small> |
 | 유성기업 | - | 0.2 | 1.7<small>%</small> | 0.0<small>%</small> |
-| 대우부품 | 54.0 | 1.8 | - | 0.0<small>%</small> |
+| 대우부품 | 53.1 | 1.7 | - | 0.0<small>%</small> |
 | 씨티알모빌리티 | - | 0.6 | - | 0.0<small>%</small> |
-| 평화산업 | 15.3 | 1.3 | - | 0.0<small>%</small> |
+| 평화산업 | 15.1 | 1.3 | - | 0.0<small>%</small> |
 | 대유에이텍 | 10.0 | 1.2 | - | 0.0<small>%</small> |
 | SJM | 2.6 | 0.2 | 5.0<small>%</small> | 0.0<small>%</small> |
 | 핸즈코퍼레이션 | - | 0.2 | - | 0.0<small>%</small> |
 | 영화금속 | 5.2 | 0.6 | 3.4<small>%</small> | 0.0<small>%</small> |
 | 부산주공 | - | 1.8 | - | 0.0<small>%</small> |
-| 평화홀딩스 | 46.2 | 0.8 | 3.0<small>%</small> | 0.0<small>%</small> |
-| 체시스 | 6.1 | 1.0 | - | 0.0<small>%</small> |
-| KR모터스 | - | 1.1 | - | 0.0<small>%</small> |
-| 태원물산 | 1.6 | 0.6 | 5.4<small>%</small> | 0.0<small>%</small> |
+| 평화홀딩스 | 44.5 | 0.7 | 3.1<small>%</small> | 0.0<small>%</small> |
+| 체시스 | 6.1 | 0.9 | - | 0.0<small>%</small> |
+| KR모터스 | - | 1.0 | - | 0.0<small>%</small> |
+| 태원물산 | 1.5 | 0.6 | 5.5<small>%</small> | 0.0<small>%</small> |
 | 태양금속우 | - | - | 0.5<small>%</small> | 0.0<small>%</small> |
 
 {% include commons/footnotes.md %}
