@@ -118,6 +118,7 @@ SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [JEPI는 SPY보다 더 좋은 ETF인가? (현금 흐름 창출과 배당 재투자 시)](https://kongdori.tistory.com/183)
 - [커버드 콜 전략은 유용한가? (커버드 콜 전략을 쓰는 주요 ETF의 지금까지 수익률과 분석)](https://kongdori.tistory.com/155)
 - [JEPI는 매달 현금 흐름이 필요한 경우 현명한 선택이었을까? (SCHD와 비교)](https://kongdori.tistory.com/49)
+- [[동영상] SCHD + SPY [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://www.youtube.com/watch?v=zrGjuwcduKA)
 - [SCHD + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223922251398)
 - [SCHD + SPY + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223922065290)
 - [[자산 배분] QQQ + IEF(미국 중기 국채 ETF) + 환율 (평균-분산 그래프 분석) (feat. QQQ + SCHD + 환율)](https://kongdori.tistory.com/416)

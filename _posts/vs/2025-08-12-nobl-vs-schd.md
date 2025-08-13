@@ -109,6 +109,7 @@ SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 ## 관련 정보
 
 - [KODEX 미국S&P500배당귀족커버드콜(합성 H) (장기 수익률에 안 좋은 건 다 넣었어요. 맛있게 드세요.)](https://kongdori.tistory.com/258)
+- [[동영상] SCHD + SPY [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://www.youtube.com/watch?v=zrGjuwcduKA)
 - [SCHD + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223922251398)
 - [SCHD + SPY + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223922065290)
 - [[자산 배분] QQQ + IEF(미국 중기 국채 ETF) + 환율 (평균-분산 그래프 분석) (feat. QQQ + SCHD + 환율)](https://kongdori.tistory.com/416)

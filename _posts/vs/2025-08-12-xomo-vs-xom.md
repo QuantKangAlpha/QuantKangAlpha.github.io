@@ -33,7 +33,7 @@ XOMO의 수익률이 XOM보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| XOMO | <span style="color: cornflowerblue">-3.6<small>%</small></span> | 18.3<small>%</small> | -0.20 | -18.9<small>%</small> | -7.3<small>%</small> |
+| XOMO | <span style="color: cornflowerblue">-3.6<small>%</small></span> | 18.3<small>%</small> | -0.19 | -18.9<small>%</small> | -7.3<small>%</small> |
 | XOM | <span style="color: tomato">0.7<small>%</small></span> | 22.2<small>%</small> | 0.03 | -18.9<small>%</small> | -8.5<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ XOM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XOM<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| XOMO | <span style="color: cornflowerblue">-3.6<small>%</small></span> | 18.3<small>%</small> | -0.20 | -18.9<small>%</small> | -7.3<small>%</small> |
+| XOMO | <span style="color: cornflowerblue">-3.6<small>%</small></span> | 18.3<small>%</small> | -0.19 | -18.9<small>%</small> | -7.3<small>%</small> |
 | XOM | <span style="color: tomato">0.7<small>%</small></span> | 22.2<small>%</small> | 0.03 | -18.9<small>%</small> | -8.5<small>%</small> |
 | XOM<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">1.0<small>%</small></span> | 18.3<small>%</small> | 0.05 | -15.6<small>%</small> | -7.0<small>%</small> |
 | XOM<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">0.7<small>%</small></span> | 22.2<small>%</small> | 0.03 | -18.9<small>%</small> | -8.5<small>%</small> |

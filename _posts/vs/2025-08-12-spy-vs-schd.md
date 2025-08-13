@@ -112,6 +112,7 @@ SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [S&P 500 국내 ETF는 무엇을 좋을까? (국내 상장 ETF 9종 비교와 분석)](https://kongdori.tistory.com/309)
 - [주식 수익률은 어떤 분포일까? (KODEX 200, SPY 환헤지/환노출, 그리고 정규분포, 갑돌이의 은퇴 자금 마련 #1)](https://kongdori.tistory.com/220)
 - [VOO나 IVV는 SPY에 비해 수익률이 얼마나 높은 걸까?](https://kongdori.tistory.com/53)
+- [[동영상] SCHD + SPY [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://www.youtube.com/watch?v=zrGjuwcduKA)
 - [SCHD + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223922251398)
 - [SCHD + SPY + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223922065290)
 - [[자산 배분] QQQ + IEF(미국 중기 국채 ETF) + 환율 (평균-분산 그래프 분석) (feat. QQQ + SCHD + 환율)](https://kongdori.tistory.com/416)

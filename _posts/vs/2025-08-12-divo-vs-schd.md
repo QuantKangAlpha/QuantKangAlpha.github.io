@@ -110,6 +110,7 @@ SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 - [DIVO (선별한 우량 대형주 + 액티브 커버드콜) + SPY/VIG + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223931263706)
 - [KODEX 미국배당프리미엄액티브 (왜 날 몰라줄까? 부분적 커버드콜 전략을 국장에 도입한 건 난데, 한국판 DIVO)](https://kongdori.tistory.com/257)
+- [[동영상] SCHD + SPY [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://www.youtube.com/watch?v=zrGjuwcduKA)
 - [SCHD + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223922251398)
 - [SCHD + SPY + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223922065290)
 - [[자산 배분] QQQ + IEF(미국 중기 국채 ETF) + 환율 (평균-분산 그래프 분석) (feat. QQQ + SCHD + 환율)](https://kongdori.tistory.com/416)
