@@ -108,6 +108,7 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [[동영상] QDTE + QQQ [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/oqfwKswmblE)
 - [QDTE (나스닥 100 기반 최초의 주배당 커버드콜 ETF) + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223939515321)
 - [XDTE와 QDTE (주배당을 하는 데일리 OTM 옵션 전략의 커버드콜 ETF) - 넌 왜 이렇게 잘하니?](https://kongdori.tistory.com/336)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
