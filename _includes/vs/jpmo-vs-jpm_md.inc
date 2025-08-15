@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [JPMO](/jpmo-vs-jpm/) | <span style="color: tomato">16.8<small>%</small></span> | 18.8<small>%</small> | 0.89 | -24.8<small>%</small> | -4.4<small>%</small> |
-| JPM | <span style="color: tomato">46.5<small>%</small></span> | 23.6<small>%</small> | 1.97 | -24.4<small>%</small> | -3.5<small>%</small> |
+| [JPMO](/jpmo-vs-jpm/) | <span style="color: tomato">16.0<small>%</small></span> | 18.8<small>%</small> | 0.85 | -24.8<small>%</small> | -4.4<small>%</small> |
+| JPM | <span style="color: tomato">47.4<small>%</small></span> | 23.6<small>%</small> | 2.01 | -24.4<small>%</small> | -3.5<small>%</small> |
