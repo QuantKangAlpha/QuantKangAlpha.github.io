@@ -108,6 +108,7 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [[동영상] BTC (비트코인) + QQQ / TQQQ (나스닥 3배 레버리지 ETF) [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/CL27G6ub6DE)
 - [합성 ETF란 무엇일까? (외주로 맡겨야겠다! 수익률은?)](https://kongdori.tistory.com/255)
 - [QQQ가 100% 오르면 TQQQ는 얼마까지 오를 수 있을까?](https://kongdori.tistory.com/188)
 - [레버리지 ETF는 위험하다? 위험하지 않다? (위험도와 수익률을 바라보는 관점의 차이)](https://kongdori.tistory.com/182)
