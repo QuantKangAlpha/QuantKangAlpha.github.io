@@ -106,6 +106,7 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [[동영상] XYLD (S&P 500 월만기 커버드콜) + SPY [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/2K29k1fN9FE)
 - [XYLD(S&P 500 월만기 커버드콜 ETF) + SPY + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223927414239)
 - [커버드콜 ETF 대신 기초 자산으로 현금 흐름을 만들면? (시장 대표 지수편)](https://kongdori.tistory.com/285)
 - [ISPY - ProShares의 초단기 콜옵션 전략 기반 인컴 ETF (넌 누굴 닮았니?)](https://kongdori.tistory.com/267)
