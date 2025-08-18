@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XOMO vs Exxon Mobil Corp (XOM)
-excerpt: XOMO의 최근 1년 11개월 CAGR은 -3.0%로 Exxon Mobil Corp (XOM)의 0.9%보다 -3.9% 낮았습니다.
+excerpt: XOMO의 최근 1년 11개월 CAGR은 -3.0%로 Exxon Mobil Corp (XOM)의 1.4%보다 -4.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ XOMO의 수익률이 XOM보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XOMO | <span style="color: cornflowerblue">-3.0<small>%</small></span> | 18.2<small>%</small> | -0.17 | -18.9<small>%</small> | -7.4<small>%</small> |
-| XOM | <span style="color: tomato">0.9<small>%</small></span> | 22.2<small>%</small> | 0.04 | -18.9<small>%</small> | -8.5<small>%</small> |
+| XOM | <span style="color: tomato">1.4<small>%</small></span> | 22.2<small>%</small> | 0.06 | -18.9<small>%</small> | -8.5<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XOMO의 CAGR은 -3.0%로 XOM의 0.9%보다 -3.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XOMO의 CAGR은 -3.0%로 XOM의 1.4%보다 -4.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XOMO의 표준편차는 18.2%로 XOM의 22.2%보다 -4.0% 낮았습니다. (낮은 위험도)
 
@@ -77,17 +77,17 @@ XOM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XOM<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XOMO | <span style="color: cornflowerblue">-3.0<small>%</small></span> | 18.2<small>%</small> | -0.17 | -18.9<small>%</small> | -7.4<small>%</small> |
-| XOM | <span style="color: tomato">0.9<small>%</small></span> | 22.2<small>%</small> | 0.04 | -18.9<small>%</small> | -8.5<small>%</small> |
-| XOM<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">1.1<small>%</small></span> | 18.2<small>%</small> | 0.06 | -15.6<small>%</small> | -7.0<small>%</small> |
-| XOM<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">0.9<small>%</small></span> | 22.2<small>%</small> | 0.04 | -18.9<small>%</small> | -8.5<small>%</small> |
+| XOM | <span style="color: tomato">1.4<small>%</small></span> | 22.2<small>%</small> | 0.06 | -18.9<small>%</small> | -8.5<small>%</small> |
+| XOM<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">1.5<small>%</small></span> | 18.2<small>%</small> | 0.08 | -15.6<small>%</small> | -7.0<small>%</small> |
+| XOM<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">1.4<small>%</small></span> | 22.2<small>%</small> | 0.06 | -18.9<small>%</small> | -8.5<small>%</small> |
 
 
 
 각각의 경우를 XOMO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 82% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 1.1%로 XOMO의 -3.0%보다 4.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 82% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 1.5%로 XOMO의 -3.0%보다 4.5% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 0.9%로 XOMO의 -3.0%보다 3.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1.4%로 XOMO의 -3.0%보다 4.4% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ XOM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XOM<
 
 지난 1년 11개월간 거치식으로 투자했다고 가정합니다.
 
-XOM의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 1.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 XOMO의 -3.0%보다 4.0% 높았습니다.
+XOM의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 1.4%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 XOMO의 -3.0%보다 4.5% 높았습니다.
 
 ### XOMO &lt; XOM
 {: .text-center}
