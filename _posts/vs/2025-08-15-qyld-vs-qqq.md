@@ -106,6 +106,7 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [[동영상] QYLD (나스닥 100 월만기 커버드콜 = TIGER 미국나스닥100커버드콜(합성)) + QQQ [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/QPbmZsOUoaI)
 - [QYLD(나스닥 100 월만기 커버드콜 ETF) + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223927553247)
 - [JEPI - CALL = ? (JEPI/JEPQ의 내부는 어떤 액티브 ETF일까?)](https://kongdori.tistory.com/256)
 - [커버드콜 ETF는 왜 장기 투자에 적합하지 않은가? (효율적 투자선과 50% 오렌지 주스)](https://kongdori.tistory.com/244)

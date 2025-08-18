@@ -115,7 +115,7 @@ XYLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [JEPI - CALL = ? (JEPI/JEPQ의 내부는 어떤 액티브 ETF일까?)](https://kongdori.tistory.com/256)
 - [데일리 커버드콜은 효과적일까? (Defiance의 JEPY, QQQY, IWMY - 분배율 높은 인컴 ETF)](https://kongdori.tistory.com/235)
 - [원금 찾는데 세금을 내라고? (해외 상장 고배당 인컴 ETF)](https://kongdori.tistory.com/206)
-- [[동영상] XYLD (S&P 500 월만기 커버드콜) + SPY [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/2K29k1fN9FE)
+- [[동영상] XYLD (S&P 500 월만기 커버드콜) + SPY [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](ttps://youtu.be/2K29k1fN9FE)
 - [XYLD(S&P 500 월만기 커버드콜 ETF) + SPY + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223927414239)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
