@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLTW](/pltw-vs-pltr/) | <span style="color: tomato">177.2<small>%</small></span> | 86.5<small>%</small> | 2.05 | -40.0<small>%</small> | -11.1<small>%</small> |
-| PLTR | <span style="color: tomato">157.3<small>%</small></span> | 71.3<small>%</small> | 2.21 | -34.0<small>%</small> | -9.1<small>%</small> |
+| [PLTW](/pltw-vs-pltr/) | <span style="color: tomato">142.3<small>%</small></span> | 86.6<small>%</small> | 1.64 | -40.0<small>%</small> | -11.1<small>%</small> |
+| PLTR | <span style="color: tomato">144.3<small>%</small></span> | 71.1<small>%</small> | 2.03 | -34.0<small>%</small> | -9.1<small>%</small> |
