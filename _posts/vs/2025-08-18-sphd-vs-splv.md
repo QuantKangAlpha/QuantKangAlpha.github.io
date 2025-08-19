@@ -77,7 +77,7 @@ SPLV<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPL
 | SPHD | <span style="color: tomato">9.4<small>%</small></span> | 16.5<small>%</small> | 0.57 | -41.4<small>%</small> | -4.8<small>%</small> |
 | SPLV | <span style="color: tomato">10.2<small>%</small></span> | 14.7<small>%</small> | 0.69 | -36.3<small>%</small> | -3.8<small>%</small> |
 | SPLV<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">11.3<small>%</small></span> | 16.5<small>%</small> | 0.69 | -39.8<small>%</small> | -4.3<small>%</small> |
-| SPLV<sub>MDD</sub> <small>(114%)</small> | <span style="color: tomato">11.5<small>%</small></span> | 16.8<small>%</small> | 0.68 | -40.5<small>%</small> | -4.4<small>%</small> |
+| SPLV<sub>MDD</sub> <small>(114%)</small> | <span style="color: tomato">11.5<small>%</small></span> | 16.8<small>%</small> | 0.69 | -40.5<small>%</small> | -4.4<small>%</small> |
 
 
 
