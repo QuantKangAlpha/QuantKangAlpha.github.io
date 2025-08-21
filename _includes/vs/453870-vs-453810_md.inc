@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 인도니프티50](/453870-vs-453810/) | <span style="color: tomato">15.6<small>%</small></span> | 14.5<small>%</small> | 1.08 | -12.0<small>%</small> | -2.7<small>%</small> |
-| KODEX 인도Nifty50 | <span style="color: tomato">15.6<small>%</small></span> | 14.5<small>%</small> | 1.07 | -12.0<small>%</small> | -2.8<small>%</small> |
+| [TIGER 인도니프티50](/453870-vs-453810/) | <span style="color: tomato">16.0<small>%</small></span> | 14.5<small>%</small> | 1.10 | -12.0<small>%</small> | -2.7<small>%</small> |
+| KODEX 인도Nifty50 | <span style="color: tomato">15.9<small>%</small></span> | 14.5<small>%</small> | 1.10 | -12.0<small>%</small> | -2.8<small>%</small> |
