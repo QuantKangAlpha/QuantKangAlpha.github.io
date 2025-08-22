@@ -1,7 +1,7 @@
 ---
 layout: single
 title: IQQQ vs QQQ
-excerpt: IQQQ의 최근 1년 5개월 CAGR은 14.5%로 QQQ의 18.9%보다 -4.4% 낮았습니다.
+excerpt: IQQQ의 최근 1년 5개월 CAGR은 14.5%로 QQQ의 18.9%보다 -4.3% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ IQQQ의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** IQQQ의 CAGR은 14.5%로 QQQ의 18.9%보다 -4.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** IQQQ의 CAGR은 14.5%로 QQQ의 18.9%보다 -4.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** IQQQ의 표준편차는 19.6%로 QQQ의 22.6%보다 -3.0% 낮았습니다. (낮은 위험도)
 

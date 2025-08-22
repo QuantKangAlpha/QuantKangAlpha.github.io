@@ -1,7 +1,7 @@
 ---
 layout: single
 title: YMAX vs QQQ
-excerpt: YMAX의 최근 1년 7개월 CAGR은 20.5%로 QQQ의 23.2%보다 -2.7% 낮았습니다.
+excerpt: YMAX의 최근 1년 7개월 CAGR은 21.5%로 QQQ의 23.2%보다 -1.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ YMAX의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAX | <span style="color: tomato">20.5<small>%</small></span> | 22.8<small>%</small> | 0.90 | -25.6<small>%</small> | -4.3<small>%</small> |
+| YMAX | <span style="color: tomato">21.5<small>%</small></span> | 22.8<small>%</small> | 0.94 | -25.6<small>%</small> | -4.3<small>%</small> |
 | QQQ | <span style="color: tomato">23.2<small>%</small></span> | 22.0<small>%</small> | 1.06 | -22.8<small>%</small> | -3.6<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ YMAX의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** YMAX의 CAGR은 20.5%로 QQQ의 23.2%보다 -2.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** YMAX의 CAGR은 21.5%로 QQQ의 23.2%보다 -1.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** YMAX의 표준편차는 22.8%로 QQQ의 22.0%와 비슷했습니다. (비슷한 위험도)
 
@@ -54,7 +54,7 @@ YMAX의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 QQQ의 투자 비중[^fn_vs_weight]을 조절하여 YMAX의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 22.0% / 22.8% = 104% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 22.0% / 22.8% = 103% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 22.8% / 25.6% = 112% 비중으로 투자하면 됩니다.
 
@@ -76,18 +76,18 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAX | <span style="color: tomato">20.5<small>%</small></span> | 22.8<small>%</small> | 0.90 | -25.6<small>%</small> | -4.3<small>%</small> |
+| YMAX | <span style="color: tomato">21.5<small>%</small></span> | 22.8<small>%</small> | 0.94 | -25.6<small>%</small> | -4.3<small>%</small> |
 | QQQ | <span style="color: tomato">23.2<small>%</small></span> | 22.0<small>%</small> | 1.06 | -22.8<small>%</small> | -3.6<small>%</small> |
-| QQQ<sub>STD</sub> <small>(104%)</small> | <span style="color: tomato">24.1<small>%</small></span> | 22.8<small>%</small> | 1.06 | -23.5<small>%</small> | -3.8<small>%</small> |
+| QQQ<sub>STD</sub> <small>(103%)</small> | <span style="color: tomato">24.0<small>%</small></span> | 22.8<small>%</small> | 1.06 | -23.5<small>%</small> | -3.8<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(112%)</small> | <span style="color: tomato">26.0<small>%</small></span> | 24.7<small>%</small> | 1.05 | -25.3<small>%</small> | -4.1<small>%</small> |
 
 
 
 각각의 경우를 YMAX의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 104% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 24.1%로 YMAX의 20.5%보다 3.6% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 103% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 24.0%로 YMAX의 21.5%보다 2.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 112% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 26.0%로 YMAX의 20.5%보다 5.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 112% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 26.0%로 YMAX의 21.5%보다 4.5% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 지난 1년 7개월간 거치식으로 투자했다고 가정합니다.
 
 QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 25.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 YMAX의 20.5%보다 4.5% 높았습니다.
+이 포트폴리오는 YMAX의 21.5%보다 3.5% 높았습니다.
 
 ### YMAX &lt; QQQ
 {: .text-center}
