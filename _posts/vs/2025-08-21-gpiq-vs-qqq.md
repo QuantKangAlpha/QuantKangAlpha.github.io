@@ -108,6 +108,7 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [[동영상] GPIQ (골드만삭스 나스닥 100 기반 커버드콜) + QQQ [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/jSvRkINPP9s)
 - [GPIQ (골드만삭스의 나스닥 100 기반 커버드콜 ETF) + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223938449509)
 - [커버드콜 ETF 대신 기초 자산으로 현금 흐름을 만들면? (시장 대표 지수편)](https://kongdori.tistory.com/285)
 - [GPIX와 GPIQ (JEPI, JEPQ보다 분배율이 높은 골드만삭스의 커버드콜 ETF)](https://kongdori.tistory.com/251)
