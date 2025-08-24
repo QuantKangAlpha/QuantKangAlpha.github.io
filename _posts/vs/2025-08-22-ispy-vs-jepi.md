@@ -110,6 +110,7 @@ JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 - [커버드콜 ETF 대신 기초 자산으로 현금 흐름을 만들면? (시장 대표 지수편)](https://kongdori.tistory.com/285)
 - [ISPY - ProShares의 초단기 콜옵션 전략 기반 인컴 ETF (넌 누굴 닮았니?)](https://kongdori.tistory.com/267)
+- [[동영상] JEPI/JEPIX (가장 성공한 액티브 커버드콜) + SPY/VIG, DIVO [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/PRgY9SvTbCM)
 - [JEPI (가장 성공한 액티브 커버드콜) + SPY/VIG + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223932048484)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 

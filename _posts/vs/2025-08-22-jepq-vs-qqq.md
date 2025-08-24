@@ -108,6 +108,7 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [[동영상] JEPQ (JEPI의 나스닥 100 버전) + QQQ - JEPQ는 SPY를 대체할 수 있을까? [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/K7d5xCDrURo)
 - [JEPQ (나스닥 100 기반 액티브 커버드콜) + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223933176683)
 - [JEPI - CALL = ? (JEPI/JEPQ의 내부는 어떤 액티브 ETF일까?)](https://kongdori.tistory.com/256)
 - [커버드콜 ETF는 왜 장기 투자에 적합하지 않은가? (효율적 투자선과 50% 오렌지 주스)](https://kongdori.tistory.com/244)

@@ -108,6 +108,7 @@ IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
+- [[동영상] DIVO (대형 배당 우량주 기반 액티브 커버드콜 ≒ KODEX 미국배당커버드콜액티브) + SPY/VIG [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/tHisWt7IVhA)
 - [DIVO (선별한 우량 대형주 + 액티브 커버드콜) + SPY/VIG + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223931263706)
 - [KODEX 미국배당프리미엄액티브 (왜 날 몰라줄까? 부분적 커버드콜 전략을 국장에 도입한 건 난데, 한국판 DIVO)](https://kongdori.tistory.com/257)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}

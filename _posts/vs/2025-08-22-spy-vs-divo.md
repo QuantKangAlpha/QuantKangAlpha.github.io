@@ -114,6 +114,7 @@ DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [S&P 500 국내 ETF는 무엇을 좋을까? (국내 상장 ETF 9종 비교와 분석)](https://kongdori.tistory.com/309)
 - [주식 수익률은 어떤 분포일까? (KODEX 200, SPY 환헤지/환노출, 그리고 정규분포, 갑돌이의 은퇴 자금 마련 #1)](https://kongdori.tistory.com/220)
 - [VOO나 IVV는 SPY에 비해 수익률이 얼마나 높은 걸까?](https://kongdori.tistory.com/53)
+- [[동영상] DIVO (대형 배당 우량주 기반 액티브 커버드콜 ≒ KODEX 미국배당커버드콜액티브) + SPY/VIG [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/tHisWt7IVhA)
 - [DIVO (선별한 우량 대형주 + 액티브 커버드콜) + SPY/VIG + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223931263706)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 

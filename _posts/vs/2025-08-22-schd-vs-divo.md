@@ -117,6 +117,7 @@ DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [[자산 배분] SCHD + SPY + 환율 (평균-분산 그래프 분석)](https://kongdori.tistory.com/405)
 - [KODEX 미국배당다우존스 - 분배 기준일을 월중으로 설정한 대체재 (삼성자산운용의 빈집털이 전략은 성공할 수 있을까?)](https://kongdori.tistory.com/311)
 - [TIGER 미국배당+7%프리미엄다우존스의 수익률은 왜 좋지 못했을까? (커버드콜 ETF를 수식으로 표현해 보자!)](https://kongdori.tistory.com/264)
+- [[동영상] DIVO (대형 배당 우량주 기반 액티브 커버드콜 ≒ KODEX 미국배당커버드콜액티브) + SPY/VIG [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/tHisWt7IVhA)
 - [DIVO (선별한 우량 대형주 + 액티브 커버드콜) + SPY/VIG + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223931263706)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
