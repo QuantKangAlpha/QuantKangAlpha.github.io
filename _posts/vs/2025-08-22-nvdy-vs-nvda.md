@@ -108,6 +108,7 @@ NVDA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
+- [[동영상] NVDY (엔비디아 기반 일드맥스 초고배당 커버드콜) + NVDA(엔비디아) [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/LimQ1aza0E8)
 - [NVDY (일드맥스 고배당 커버드콜) + 엔비디아 (NVDA) + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223937183650)
 - [NVDY 배당금과 동일한 현금 흐름을 NVDA(기초자산) 매도로 만들때의 실수익률을 구해 보자 (XIRR() 함수를 이용한 내부 수익률) [데이터 분석 부록 C6]](https://kongdori.tistory.com/689)
 - [한국인도 ROC(Return of Capital) 비과세 적용을 받을 수 있습니다. (배당소득재분류에 따른 현지 배당세 환급 및 국내 배당세 징수)](https://kongdori.tistory.com/299)
