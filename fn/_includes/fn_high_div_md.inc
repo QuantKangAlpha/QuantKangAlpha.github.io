@@ -27,12 +27,12 @@
 | [우리금융지주](/316140/) | P:기타금융 | <span style="color:tomato">6.3</span> | 0.5 | **4.8**<small>%</small> |
 | [한전KPS](/051600/) | P:건설업 | 13.4 | 1.7 | **4.8**<small>%</small> |
 | [파트론](/091700/) | Q:일반전기전자 | <span style="color:tomato">6.2</span> | 0.6 | **4.7**<small>%</small> |
-| [BNK금융지주](/138930/) | P:기타금융 | 6.6 | 0.4 | **4.5**<small>%</small> |
+| [BNK금융지주](/138930/) | P:기타금융 | 6.6 | <span style="color:tomato">0.4</span> | **4.5**<small>%</small> |
 | [KG스틸](/016380/) | P:철강금속 | <span style="color:tomato">4.1</span> | <span style="color:tomato">0.3</span> | **4.5**<small>%</small> |
 | [효성티앤씨](/298020/) | P:화학 | 7.2 | 0.7 | **4.5**<small>%</small> |
 | [한국앤컴퍼니](/000240/) | P:기타금융 | <span style="color:tomato">6.1</span> | 0.5 | **4.5**<small>%</small> |
 | [영원무역홀딩스](/009970/) | P:기타금융 | <span style="color:tomato">4.2</span> | 0.5 | **4.4**<small>%</small> |
 | [하나금융지주](/086790/) | P:기타금융 | <span style="color:tomato">6.5</span> | 0.5 | **4.4**<small>%</small> |
 | [하나투어](/039130/) | P:서비스업 | 10.1 | 4.7 | **4.3**<small>%</small> |
+| [LG유플러스](/032640/) | P:통신업 | 17.3 | 0.8 | **4.3**<small>%</small> |
 | [세아베스틸지주](/001430/) | P:철강금속 | 49.2 | 0.5 | **4.3**<small>%</small> |
-| [JB금융지주](/175330/) | P:기타금융 | 6.7 | 0.8 | **4.3**<small>%</small> |
