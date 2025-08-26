@@ -5,7 +5,7 @@ excerpt: KOSDAQ 금속 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-08-25
+last_modified_at: 2025-08-26
 ---
 
 
@@ -16,75 +16,75 @@ last_modified_at: 2025-08-25
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [포스코엠텍](/009520/) | 977.1 | 5.1 | 0.1<small>%</small> | 9.0<small>%</small> |
-| 태광 | 13.3 | 1.1 | 1.1<small>%</small> | 5.5<small>%</small> |
-| 성광벤드 | 20.4 | 1.6 | 0.7<small>%</small> | 5.2<small>%</small> |
+| [포스코엠텍](/009520/) | 957.9 | 5.0 | 0.1<small>%</small> | 9.0<small>%</small> |
+| 태광 | 13.7 | 1.1 | 1.1<small>%</small> | 5.5<small>%</small> |
+| 성광벤드 | 21.5 | 1.6 | 0.6<small>%</small> | 5.2<small>%</small> |
 | 하이록코리아 | 8.0 | 0.9 | 3.7<small>%</small> | 4.6<small>%</small> |
-| 동국산업 | - | 0.5 | 3.7<small>%</small> | 4.1<small>%</small> |
-| 태웅 | 30.8 | 1.3 | - | 4.1<small>%</small> |
+| 동국산업 | - | 0.5 | 3.8<small>%</small> | 4.1<small>%</small> |
+| 태웅 | 30.4 | 1.2 | - | 4.1<small>%</small> |
 | 삼목에스폼 | 3.8 | 0.4 | 1.0<small>%</small> | 3.7<small>%</small> |
-| 에스와이 | 25.1 | 0.9 | - | 2.8<small>%</small> |
-| 한선엔지니어링 | 29.5 | 2.1 | - | 2.6<small>%</small> |
-| 와이지-원 | 11.6 | 0.5 | 2.9<small>%</small> | 2.5<small>%</small> |
+| 에스와이 | 25.2 | 0.9 | - | 2.8<small>%</small> |
+| 한선엔지니어링 | 29.0 | 2.1 | - | 2.6<small>%</small> |
+| 와이지-원 | 11.4 | 0.5 | 3.0<small>%</small> | 2.5<small>%</small> |
 | 에이치브이엠 | - | 5.4 | - | 2.4<small>%</small> |
-| 알멕 | 230.4 | 1.1 | - | 2.2<small>%</small> |
+| 알멕 | 227.4 | 1.1 | - | 2.2<small>%</small> |
 | 하이드로리튬 | - | 1.9 | - | 2.1<small>%</small> |
-| 제룡산업 | 21.1 | 1.7 | 2.9<small>%</small> | 1.9<small>%</small> |
-| 보성파워텍 | 33.3 | 2.2 | - | 1.9<small>%</small> |
+| 제룡산업 | 20.7 | 1.6 | 3.0<small>%</small> | 1.9<small>%</small> |
+| 보성파워텍 | 32.1 | 2.1 | - | 1.9<small>%</small> |
 | 동국S&C | - | 0.7 | - | 1.8<small>%</small> |
-| 해성에어로보틱스 | - | 1.6 | - | 1.4<small>%</small> |
-| 에스와이스틸텍 | 28.2 | 3.4 | 1.0<small>%</small> | 1.4<small>%</small> |
+| 해성에어로보틱스 | - | 1.7 | - | 1.4<small>%</small> |
+| 에스와이스틸텍 | 28.8 | 3.5 | 1.0<small>%</small> | 1.4<small>%</small> |
 | 케이피에프 | 4.3 | 0.4 | 3.2<small>%</small> | 1.4<small>%</small> |
-| 그린플러스 | 86.7 | 1.6 | - | 1.4<small>%</small> |
+| 그린플러스 | 87.1 | 1.6 | - | 1.4<small>%</small> |
 | 신스틸 | 13.4 | 1.1 | 0.9<small>%</small> | 1.4<small>%</small> |
-| 이엠코리아 | - | 1.2 | - | 1.4<small>%</small> |
-| 엠투엔 | 21.9 | 0.6 | - | 1.3<small>%</small> |
-| 제이스코홀딩스 | - | 2.2 | - | 1.3<small>%</small> |
-| 세명전기 | 39.1 | 2.3 | 0.7<small>%</small> | 1.2<small>%</small> |
-| KBI메탈 | 77.2 | 0.5 | - | 1.2<small>%</small> |
-| 금강철강 | 9.8 | 0.5 | 3.6<small>%</small> | 1.2<small>%</small> |
+| 이엠코리아 | - | 1.1 | - | 1.4<small>%</small> |
+| 엠투엔 | 21.7 | 0.6 | - | 1.3<small>%</small> |
+| 제이스코홀딩스 | - | 2.3 | - | 1.3<small>%</small> |
+| 세명전기 | 37.6 | 2.2 | 0.7<small>%</small> | 1.2<small>%</small> |
+| KBI메탈 | 76.8 | 0.5 | - | 1.2<small>%</small> |
+| 금강철강 | 9.7 | 0.5 | 3.6<small>%</small> | 1.2<small>%</small> |
 | 세토피아 | - | 30.0 | - | 1.2<small>%</small> |
-| 동일금속 | 9.5 | 0.5 | 3.9<small>%</small> | 1.1<small>%</small> |
-| 피제이메탈 | 26.0 | 1.1 | 5.1<small>%</small> | 1.1<small>%</small> |
-| 경남스틸 | 10.9 | 0.7 | 4.0<small>%</small> | 1.0<small>%</small> |
-| 삼현철강 | 12.9 | 0.4 | 6.5<small>%</small> | 1.0<small>%</small> |
+| 동일금속 | 9.6 | 0.5 | 3.9<small>%</small> | 1.1<small>%</small> |
+| 피제이메탈 | 25.9 | 1.1 | 5.1<small>%</small> | 1.1<small>%</small> |
+| 경남스틸 | 11.0 | 0.7 | 4.0<small>%</small> | 1.0<small>%</small> |
+| 삼현철강 | 13.0 | 0.4 | 6.5<small>%</small> | 1.0<small>%</small> |
 | 한국선재 | - | 0.6 | - | 1.0<small>%</small> |
-| 덕신이피씨 | 6.0 | 0.5 | 1.4<small>%</small> | 1.0<small>%</small> |
-| 세아메카닉스 | 34.7 | 1.2 | - | 1.0<small>%</small> |
-| 포인트엔지니어링 | 48.3 | 0.9 | - | 0.9<small>%</small> |
+| 덕신이피씨 | 5.9 | 0.5 | 1.4<small>%</small> | 1.0<small>%</small> |
+| 세아메카닉스 | 34.5 | 1.2 | - | 1.0<small>%</small> |
+| 포인트엔지니어링 | 48.4 | 0.9 | - | 0.9<small>%</small> |
 | 테라사이언스 | - | 1.0 | - | 0.9<small>%</small> |
-| 삼영엠텍 | 12.1 | 1.0 | 2.5<small>%</small> | 0.9<small>%</small> |
-| 티플랙스 | 59.8 | 0.5 | 0.8<small>%</small> | 0.9<small>%</small> |
+| 삼영엠텍 | 11.7 | 1.0 | 2.6<small>%</small> | 0.9<small>%</small> |
+| 티플랙스 | 59.6 | 0.5 | 0.8<small>%</small> | 0.9<small>%</small> |
 | 제일테크노스 | 2.5 | 0.4 | 1.9<small>%</small> | 0.8<small>%</small> |
 | 대창솔루션 | - | 2.5 | - | 0.8<small>%</small> |
 | 대륙제관 | 5.2 | 0.4 | 3.2<small>%</small> | 0.8<small>%</small> |
 | 태양 | 6.3 | 0.3 | 3.0<small>%</small> | 0.8<small>%</small> |
 | 와이엠 | 9.9 | 1.1 | 1.1<small>%</small> | 0.8<small>%</small> |
 | 유진테크놀로지 | - | 0.7 | - | 0.7<small>%</small> |
-| 유에스티 | 9.5 | 0.6 | 2.7<small>%</small> | 0.7<small>%</small> |
-| 쎄니트 | - | 0.6 | 2.9<small>%</small> | 0.7<small>%</small> |
+| 유에스티 | 9.4 | 0.6 | 2.7<small>%</small> | 0.7<small>%</small> |
+| 쎄니트 | - | 0.6 | 2.8<small>%</small> | 0.7<small>%</small> |
 | 에이치와이티씨 | 14.2 | 0.6 | - | 0.7<small>%</small> |
-| 대창스틸 | 62.4 | 0.3 | 6.7<small>%</small> | 0.7<small>%</small> |
+| 대창스틸 | 61.8 | 0.3 | 6.7<small>%</small> | 0.7<small>%</small> |
 | 승일 | 14.1 | 0.3 | 1.4<small>%</small> | 0.6<small>%</small> |
 | 대호특수강 | - | 0.6 | - | 0.6<small>%</small> |
-| 케일럼 | 9.5 | 1.4 | - | 0.6<small>%</small> |
+| 케일럼 | 9.3 | 1.4 | - | 0.6<small>%</small> |
 | 윈하이텍 | 3.7 | 0.4 | 1.1<small>%</small> | 0.6<small>%</small> |
-| 신진에스엠 | 48.8 | 0.5 | 2.2<small>%</small> | 0.6<small>%</small> |
+| 신진에스엠 | 48.9 | 0.5 | 2.2<small>%</small> | 0.6<small>%</small> |
 | 이렘 | - | 1.1 | - | 0.6<small>%</small> |
 | 한주라이트메탈 | - | 0.6 | - | 0.5<small>%</small> |
-| 풍강 | - | 0.4 | 2.6<small>%</small> | 0.5<small>%</small> |
-| 동양에스텍 | 14.2 | 0.2 | 3.5<small>%</small> | 0.5<small>%</small> |
-| 율촌 | 12.6 | 0.6 | - | 0.5<small>%</small> |
+| 풍강 | - | 0.4 | 2.7<small>%</small> | 0.5<small>%</small> |
+| 동양에스텍 | 13.9 | 0.2 | 3.5<small>%</small> | 0.5<small>%</small> |
+| 율촌 | 12.7 | 0.7 | - | 0.5<small>%</small> |
 | 포메탈 | 22.9 | 0.7 | 2.0<small>%</small> | 0.5<small>%</small> |
 | 원일특강 | 5.3 | 0.2 | 3.1<small>%</small> | 0.4<small>%</small> |
-| 삼보산업 | - | 7.5 | - | 0.4<small>%</small> |
-| 한창산업 | 5.5 | 0.6 | 3.0<small>%</small> | 0.4<small>%</small> |
+| 삼보산업 | - | 7.4 | - | 0.4<small>%</small> |
+| 한창산업 | 5.5 | 0.6 | 3.1<small>%</small> | 0.4<small>%</small> |
 | 부스타 | 19.1 | 0.4 | 1.2<small>%</small> | 0.4<small>%</small> |
-| 동일철강 | - | 1.3 | - | 0.3<small>%</small> |
-| 케이피티유 | 6.5 | 0.4 | - | 0.3<small>%</small> |
+| 동일철강 | - | 1.2 | - | 0.3<small>%</small> |
+| 케이피티유 | 6.4 | 0.4 | - | 0.3<small>%</small> |
 | 국일신동 | - | 0.5 | - | 0.3<small>%</small> |
 | 대동금속 | - | 0.4 | 1.0<small>%</small> | 0.3<small>%</small> |
-| 누리플랜 | 20.4 | 0.9 | - | 0.3<small>%</small> |
+| 누리플랜 | 21.4 | 1.0 | - | 0.3<small>%</small> |
 | 광진실업 | 6.1 | 0.7 | - | 0.2<small>%</small> |
 | 대호특수강우 | - | - | - | 0.0<small>%</small> |
 
