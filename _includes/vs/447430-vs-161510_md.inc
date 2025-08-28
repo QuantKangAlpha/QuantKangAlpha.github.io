@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 주주환원가치주액티브](/447430-vs-161510/) | <span style="color: tomato">18.7<small>%</small></span> | 15.0<small>%</small> | 1.25 | -12.3<small>%</small> | -2.6<small>%</small> |
-| PLUS 고배당주 | <span style="color: tomato">28.7<small>%</small></span> | 17.2<small>%</small> | 1.66 | -13.4<small>%</small> | -4.1<small>%</small> |
+| [ACE 주주환원가치주액티브](/447430-vs-161510/) | <span style="color: tomato">19.2<small>%</small></span> | 15.0<small>%</small> | 1.28 | -12.3<small>%</small> | -2.6<small>%</small> |
+| PLUS 고배당주 | <span style="color: tomato">29.3<small>%</small></span> | 17.3<small>%</small> | 1.70 | -13.4<small>%</small> | -4.1<small>%</small> |
