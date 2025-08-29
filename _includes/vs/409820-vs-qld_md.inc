@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국나스닥100레버리지(합성 H)](/409820-vs-qld/) | <span style="color: tomato">9.3<small>%</small></span> | 50.4<small>%</small> | 0.19 | -63.2<small>%</small> | -26.4<small>%</small> |
-| QLD | <span style="color: tomato">10.6<small>%</small></span> | 49.0<small>%</small> | 0.22 | -63.4<small>%</small> | -26.2<small>%</small> |
+| [KODEX 미국나스닥100레버리지(합성 H)](/409820-vs-qld/) | <span style="color: tomato">9.3<small>%</small></span> | 50.4<small>%</small> | 0.18 | -63.2<small>%</small> | -26.4<small>%</small> |
+| QLD | <span style="color: tomato">11.0<small>%</small></span> | 49.0<small>%</small> | 0.22 | -63.4<small>%</small> | -26.1<small>%</small> |
