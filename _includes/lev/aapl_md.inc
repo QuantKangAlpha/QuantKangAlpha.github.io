@@ -2,7 +2,7 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | AAPL | | <span style="color: tomato">3.2<small>%</small></span> | - | - | - |
 | [AAP2.L](/aap2/) | 2<small>x</small> | <span style="color: cornflowerblue">-14.5<small>%</small></span> | 9.4<small>%</small> | 11.3<small>%</small> | 19.7<small>%</small> |
-| [AAPU](/aapu/) | 2<small>x</small> | <span style="color: cornflowerblue">-13.0<small>%</small></span> | 9.5<small>%</small> | 9.7<small>%</small> | 18.2<small>%</small> |
-| [AAP3.L](/aap3/) | 3<small>x</small> | <span style="color: cornflowerblue">-33.9<small>%</small></span> | 25.6<small>%</small> | 19.0<small>%</small> | 39.8<small>%</small> |
-| [AAPD](/aapd/) | -1<small>x</small> | <span style="color: cornflowerblue">-6.1<small>%</small></span> | 9.8<small>%</small> | -7.4<small>%</small> | 3.1<small>%</small> |
-| [AAPS.L](/aaps/) | -3<small>x</small> | <span style="color: cornflowerblue">-48.9<small>%</small></span> | 47.6<small>%</small> | -7.1<small>%</small> | 43.9<small>%</small> |
+| [AAPU](/aapu/) | 2<small>x</small> | <span style="color: cornflowerblue">-15.9<small>%</small></span> | 9.5<small>%</small> | 9.8<small>%</small> | 18.3<small>%</small> |
+| [AAP3.L](/aap3/) | 3<small>x</small> | <span style="color: cornflowerblue">-37.0<small>%</small></span> | 25.6<small>%</small> | 19.1<small>%</small> | 39.8<small>%</small> |
+| [AAPD](/aapd/) | -1<small>x</small> | <span style="color: cornflowerblue">-4.4<small>%</small></span> | 9.7<small>%</small> | -7.5<small>%</small> | 2.9<small>%</small> |
+| [AAPS.L](/aaps/) | -3<small>x</small> | <span style="color: cornflowerblue">-46.1<small>%</small></span> | 47.5<small>%</small> | -7.4<small>%</small> | 43.6<small>%</small> |
