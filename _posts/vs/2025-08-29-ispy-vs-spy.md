@@ -78,14 +78,14 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">17.6<small>%</small></span> | 14.2<small>%</small> | 1.25 | -16.9<small>%</small> | -2.4<small>%</small> |
 | SPY | <span style="color: tomato">22.2<small>%</small></span> | 17.0<small>%</small> | 1.30 | -18.8<small>%</small> | -2.2<small>%</small> |
-| SPY<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">18.3<small>%</small></span> | 14.2<small>%</small> | 1.30 | -15.8<small>%</small> | -1.8<small>%</small> |
+| SPY<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">18.4<small>%</small></span> | 14.2<small>%</small> | 1.30 | -15.8<small>%</small> | -1.8<small>%</small> |
 | SPY<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">19.9<small>%</small></span> | 15.3<small>%</small> | 1.30 | -17.0<small>%</small> | -2.0<small>%</small> |
 
 
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 18.3%로 ISPY의 17.6%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 18.4%로 ISPY의 17.6%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 90% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.9%로 ISPY의 17.6%보다 2.3% 높았습니다. (높은 수익률)
 
