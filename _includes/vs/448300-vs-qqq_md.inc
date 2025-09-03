@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국나스닥100TR(H)](/448300-vs-qqq/) | <span style="color: tomato">25.2<small>%</small></span> | 22.9<small>%</small> | 1.10 | -25.7<small>%</small> | -3.5<small>%</small> |
-| QQQ | <span style="color: tomato">28.6<small>%</small></span> | 21.1<small>%</small> | 1.36 | -22.8<small>%</small> | -3.2<small>%</small> |
+| [TIGER 미국나스닥100TR(H)](/448300-vs-qqq/) | <span style="color: tomato">25.1<small>%</small></span> | 22.8<small>%</small> | 1.10 | -25.7<small>%</small> | -3.5<small>%</small> |
+| QQQ | <span style="color: tomato">28.9<small>%</small></span> | 21.1<small>%</small> | 1.37 | -22.8<small>%</small> | -3.2<small>%</small> |
