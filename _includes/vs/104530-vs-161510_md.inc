@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KIWOOM 고배당](/104530-vs-161510/) | <span style="color: tomato">10.6<small>%</small></span> | 17.1<small>%</small> | 0.62 | -49.4<small>%</small> | -8.3<small>%</small> |
-| PLUS 고배당주 | <span style="color: tomato">9.1<small>%</small></span> | 16.9<small>%</small> | 0.54 | -51.6<small>%</small> | -8.2<small>%</small> |
+| [KIWOOM 고배당](/104530-vs-161510/) | <span style="color: tomato">10.7<small>%</small></span> | 17.1<small>%</small> | 0.63 | -49.4<small>%</small> | -8.3<small>%</small> |
+| PLUS 고배당주 | <span style="color: tomato">9.2<small>%</small></span> | 16.9<small>%</small> | 0.54 | -51.6<small>%</small> | -8.2<small>%</small> |

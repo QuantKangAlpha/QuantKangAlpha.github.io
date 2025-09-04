@@ -79,7 +79,7 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 | JEPI | <span style="color: tomato">9.3<small>%</small></span> | 11.1<small>%</small> | 0.84 | -13.3<small>%</small> | -1.7<small>%</small> |
 | IDVO | <span style="color: tomato">19.2<small>%</small></span> | 16.1<small>%</small> | 1.19 | -15.5<small>%</small> | -2.4<small>%</small> |
 | IDVO<sub>STD</sub> <small>(69%)</small> | <span style="color: tomato">13.2<small>%</small></span> | 11.1<small>%</small> | 1.19 | -10.8<small>%</small> | -1.6<small>%</small> |
-| IDVO<sub>MDD</sub> <small>(86%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 13.8<small>%</small> | 1.19 | -13.4<small>%</small> | -2.1<small>%</small> |
+| IDVO<sub>MDD</sub> <small>(86%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 13.9<small>%</small> | 1.19 | -13.4<small>%</small> | -2.1<small>%</small> |
 
 
 

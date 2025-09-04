@@ -1,7 +1,7 @@
 ---
 layout: single
 title: QDTY vs QQQ
-excerpt: QDTY의 최근 6개월 CAGR은 1.7%로 QQQ의 12.4%보다 -10.6% 낮았습니다.
+excerpt: QDTY의 최근 6개월 CAGR은 1.7%로 QQQ의 12.4%보다 -10.7% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ QDTY의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** QDTY의 CAGR은 1.7%로 QQQ의 12.4%보다 -10.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** QDTY의 CAGR은 1.7%로 QQQ의 12.4%보다 -10.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** QDTY의 표준편차는 34.7%로 QQQ의 27.9%보다 6.8% 높았습니다. (높은 위험도)
 
@@ -79,7 +79,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | QDTY | <span style="color: tomato">1.7<small>%</small></span> | 34.7<small>%</small> | 0.05 | -23.5<small>%</small> | -7.5<small>%</small> |
 | QQQ | <span style="color: tomato">12.4<small>%</small></span> | 27.9<small>%</small> | 0.44 | -22.8<small>%</small> | -5.5<small>%</small> |
 | QQQ<sub>STD</sub> <small>(124%)</small> | <span style="color: tomato">14.3<small>%</small></span> | 34.7<small>%</small> | 0.41 | -27.7<small>%</small> | -6.9<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(103%)</small> | <span style="color: tomato">12.6<small>%</small></span> | 28.7<small>%</small> | 0.44 | -23.4<small>%</small> | -5.7<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(103%)</small> | <span style="color: tomato">12.6<small>%</small></span> | 28.8<small>%</small> | 0.44 | -23.4<small>%</small> | -5.7<small>%</small> |
 
 
 
@@ -100,7 +100,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 지난 6개월간 거치식으로 투자했다고 가정합니다.
 
 QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.5%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 QDTY의 1.7%보다 11.7% 높았습니다.
+이 포트폴리오는 QDTY의 1.7%보다 11.8% 높았습니다.
 
 ### QDTY &lt; QQQ
 {: .text-center}
