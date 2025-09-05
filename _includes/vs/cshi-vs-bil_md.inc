@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [CSHI](/cshi-vs-bil/) | <span style="color: tomato">5.6<small>%</small></span> | 1.4<small>%</small> | 3.94 | -1.7<small>%</small> | -0.0<small>%</small> |
-| BIL | <span style="color: tomato">4.7<small>%</small></span> | 0.3<small>%</small> | 18.00 | -0.0<small>%</small> | -0.0<small>%</small> |
+| [CSHI](/cshi-vs-bil/) | <span style="color: tomato">5.6<small>%</small></span> | 1.4<small>%</small> | 3.92 | -1.7<small>%</small> | -0.0<small>%</small> |
+| BIL | <span style="color: tomato">4.7<small>%</small></span> | 0.3<small>%</small> | 18.03 | -0.0<small>%</small> | -0.0<small>%</small> |
