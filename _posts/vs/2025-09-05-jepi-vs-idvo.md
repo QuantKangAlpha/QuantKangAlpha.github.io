@@ -1,7 +1,7 @@
 ---
 layout: single
 title: JEPI vs IDVO
-excerpt: JEPI의 최근 2년 11개월 CAGR은 9.4%로 IDVO의 19.7%보다 -10.2% 낮았습니다.
+excerpt: JEPI의 최근 2년 11개월 CAGR은 9.7%로 IDVO의 19.7%보다 -10.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ JEPI의 수익률이 IDVO보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPI | <span style="color: tomato">9.4<small>%</small></span> | 11.1<small>%</small> | 0.85 | -13.3<small>%</small> | -1.7<small>%</small> |
+| JEPI | <span style="color: tomato">9.7<small>%</small></span> | 11.1<small>%</small> | 0.87 | -13.3<small>%</small> | -1.7<small>%</small> |
 | IDVO | <span style="color: tomato">19.7<small>%</small></span> | 16.1<small>%</small> | 1.22 | -15.5<small>%</small> | -2.4<small>%</small> |
 
 <!-- more -->
@@ -41,9 +41,9 @@ JEPI의 수익률이 IDVO보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** JEPI의 CAGR은 9.4%로 IDVO의 19.7%보다 -10.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** JEPI의 CAGR은 9.7%로 IDVO의 19.7%보다 -10.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** JEPI의 표준편차는 11.1%로 IDVO의 16.1%보다 -5.0% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** JEPI의 표준편차는 11.1%로 IDVO의 16.1%보다 -5.1% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** JEPI의 13.3%의 MDD는 IDVO의 15.5%보다 -2.2% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPI | <span style="color: tomato">9.4<small>%</small></span> | 11.1<small>%</small> | 0.85 | -13.3<small>%</small> | -1.7<small>%</small> |
+| JEPI | <span style="color: tomato">9.7<small>%</small></span> | 11.1<small>%</small> | 0.87 | -13.3<small>%</small> | -1.7<small>%</small> |
 | IDVO | <span style="color: tomato">19.7<small>%</small></span> | 16.1<small>%</small> | 1.22 | -15.5<small>%</small> | -2.4<small>%</small> |
 | IDVO<sub>STD</sub> <small>(69%)</small> | <span style="color: tomato">13.4<small>%</small></span> | 11.1<small>%</small> | 1.21 | -10.8<small>%</small> | -1.6<small>%</small> |
 | IDVO<sub>MDD</sub> <small>(86%)</small> | <span style="color: tomato">16.8<small>%</small></span> | 13.8<small>%</small> | 1.22 | -13.4<small>%</small> | -2.1<small>%</small> |
@@ -85,9 +85,9 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 
 각각의 경우를 JEPI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 69% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.4%로 JEPI의 9.4%보다 4.0% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 69% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.4%로 JEPI의 9.7%보다 3.8% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 86% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.8%로 JEPI의 9.4%보다 7.4% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 86% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.8%로 JEPI의 9.7%보다 7.2% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 지난 2년 11개월간 거치식으로 투자했다고 가정합니다.
 
 IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 15.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 JEPI의 9.4%보다 5.7% 높았습니다.
+이 포트폴리오는 JEPI의 9.7%보다 5.5% 높았습니다.
 
 ### JEPI &lt; IDVO
 {: .text-center}

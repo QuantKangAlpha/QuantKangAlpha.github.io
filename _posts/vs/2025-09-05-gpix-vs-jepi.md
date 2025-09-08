@@ -1,7 +1,7 @@
 ---
 layout: single
 title: GPIX vs JEPI
-excerpt: GPIX의 최근 1년 10개월 CAGR은 25.6%로 JEPI의 13.9%보다 11.6% 높았습니다.
+excerpt: GPIX의 최근 1년 10개월 CAGR은 25.6%로 JEPI의 14.3%보다 11.2% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ GPIX의 수익률이 JEPI보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | GPIX | <span style="color: tomato">25.6<small>%</small></span> | 14.8<small>%</small> | 1.73 | -17.5<small>%</small> | -1.7<small>%</small> |
-| JEPI | <span style="color: tomato">13.9<small>%</small></span> | 11.0<small>%</small> | 1.26 | -13.3<small>%</small> | -1.5<small>%</small> |
+| JEPI | <span style="color: tomato">14.3<small>%</small></span> | 11.0<small>%</small> | 1.30 | -13.3<small>%</small> | -1.5<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** GPIX의 CAGR은 25.6%로 JEPI의 13.9%보다 11.6% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** GPIX의 CAGR은 25.6%로 JEPI의 14.3%보다 11.2% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** GPIX의 표준편차는 14.8%로 JEPI의 11.0%보다 3.7% 높았습니다. (높은 위험도)
 
@@ -77,17 +77,17 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | GPIX | <span style="color: tomato">25.6<small>%</small></span> | 14.8<small>%</small> | 1.73 | -17.5<small>%</small> | -1.7<small>%</small> |
-| JEPI | <span style="color: tomato">13.9<small>%</small></span> | 11.0<small>%</small> | 1.26 | -13.3<small>%</small> | -1.5<small>%</small> |
-| JEPI<sub>STD</sub> <small>(134%)</small> | <span style="color: tomato">18.7<small>%</small></span> | 14.8<small>%</small> | 1.27 | -17.4<small>%</small> | -2.1<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(132%)</small> | <span style="color: tomato">18.5<small>%</small></span> | 14.6<small>%</small> | 1.27 | -17.2<small>%</small> | -2.1<small>%</small> |
+| JEPI | <span style="color: tomato">14.3<small>%</small></span> | 11.0<small>%</small> | 1.30 | -13.3<small>%</small> | -1.5<small>%</small> |
+| JEPI<sub>STD</sub> <small>(134%)</small> | <span style="color: tomato">19.3<small>%</small></span> | 14.8<small>%</small> | 1.31 | -17.5<small>%</small> | -2.1<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(132%)</small> | <span style="color: tomato">19.0<small>%</small></span> | 14.5<small>%</small> | 1.31 | -17.2<small>%</small> | -2.1<small>%</small> |
 
 
 
 각각의 경우를 GPIX의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 134% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 18.7%로 GPIX의 25.6%보다 -6.8% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 134% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 19.3%로 GPIX의 25.6%보다 -6.3% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 132% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.5%로 GPIX의 25.6%보다 -7.1% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 132% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.0%로 GPIX의 25.6%보다 -6.5% 낮았습니다. (낮은 수익률)
 
 
 
@@ -99,8 +99,8 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 지난 1년 10개월간 거치식으로 투자했다고 가정합니다.
 
-JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 18.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 GPIX의 25.6%보다 -7.0% 낮았습니다.
+JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 19.2%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 GPIX의 25.6%보다 -6.4% 낮았습니다.
 
 ### GPIX &gt; JEPI
 {: .text-center}

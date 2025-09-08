@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PFFD](/pffd-vs-pff/) | <span style="color: tomato">2.6<small>%</small></span> | 13.1<small>%</small> | 0.20 | -30.9<small>%</small> | -6.8<small>%</small> |
+| [PFFD](/pffd-vs-pff/) | <span style="color: tomato">2.7<small>%</small></span> | 13.1<small>%</small> | 0.20 | -30.9<small>%</small> | -6.8<small>%</small> |
 | PFF | <span style="color: tomato">3.2<small>%</small></span> | 13.8<small>%</small> | 0.23 | -34.1<small>%</small> | -5.6<small>%</small> |
