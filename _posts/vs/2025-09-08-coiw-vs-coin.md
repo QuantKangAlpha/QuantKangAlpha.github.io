@@ -1,7 +1,7 @@
 ---
 layout: single
 title: COIW vs Coinbase Global Inc (COIN)
-excerpt: COIW의 최근 6개월 CAGR은 19.5%로 Coinbase Global Inc (COIN)의 32.7%보다 -13.2% 낮았습니다.
+excerpt: COIW의 최근 6개월 CAGR은 21.9%로 Coinbase Global Inc (COIN)의 32.7%보다 -10.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ COIW의 수익률이 COIN보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| COIW | <span style="color: tomato">19.5<small>%</small></span> | 97.6<small>%</small> | 0.20 | -48.9<small>%</small> | -20.5<small>%</small> |
+| COIW | <span style="color: tomato">21.9<small>%</small></span> | 97.6<small>%</small> | 0.22 | -48.9<small>%</small> | -20.5<small>%</small> |
 | COIN | <span style="color: tomato">32.7<small>%</small></span> | 79.8<small>%</small> | 0.41 | -41.4<small>%</small> | -16.9<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ COIW의 수익률이 COIN보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** COIW의 CAGR은 19.5%로 COIN의 32.7%보다 -13.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** COIW의 CAGR은 21.9%로 COIN의 32.7%보다 -10.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** COIW의 표준편차는 97.6%로 COIN의 79.8%보다 17.8% 높았습니다. (높은 위험도)
 
@@ -76,7 +76,7 @@ COIN<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, COI
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| COIW | <span style="color: tomato">19.5<small>%</small></span> | 97.6<small>%</small> | 0.20 | -48.9<small>%</small> | -20.5<small>%</small> |
+| COIW | <span style="color: tomato">21.9<small>%</small></span> | 97.6<small>%</small> | 0.22 | -48.9<small>%</small> | -20.5<small>%</small> |
 | COIN | <span style="color: tomato">32.7<small>%</small></span> | 79.8<small>%</small> | 0.41 | -41.4<small>%</small> | -16.9<small>%</small> |
 | COIN<sub>STD</sub> <small>(122%)</small> | <span style="color: tomato">29.9<small>%</small></span> | 97.6<small>%</small> | 0.31 | -48.8<small>%</small> | -20.5<small>%</small> |
 | COIN<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">30.7<small>%</small></span> | 94.1<small>%</small> | 0.33 | -47.4<small>%</small> | -19.8<small>%</small> |
@@ -85,9 +85,9 @@ COIN<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, COI
 
 각각의 경우를 COIW의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 122% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 29.9%로 COIW의 19.5%보다 10.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 122% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 29.9%로 COIW의 21.9%보다 8.0% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 118% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 30.7%로 COIW의 19.5%보다 11.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 118% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 30.7%로 COIW의 21.9%보다 8.8% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ COIN<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, COI
 지난 6개월간 거치식으로 투자했다고 가정합니다.
 
 COIN의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 30.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 COIW의 19.5%보다 10.8% 높았습니다.
+이 포트폴리오는 COIW의 21.9%보다 8.4% 높았습니다.
 
 ### COIW &lt; COIN
 {: .text-center}

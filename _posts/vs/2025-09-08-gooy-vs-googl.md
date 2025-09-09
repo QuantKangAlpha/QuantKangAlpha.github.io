@@ -34,7 +34,7 @@ GOOY의 수익률이 GOOGL보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | GOOY | <span style="color: tomato">14.7<small>%</small></span> | 22.9<small>%</small> | 0.64 | -24.4<small>%</small> | -7.3<small>%</small> |
-| GOOGL | <span style="color: tomato">31.2<small>%</small></span> | 29.6<small>%</small> | 1.05 | -29.8<small>%</small> | -8.1<small>%</small> |
+| GOOGL | <span style="color: tomato">31.2<small>%</small></span> | 29.6<small>%</small> | 1.06 | -29.8<small>%</small> | -8.1<small>%</small> |
 
 <!-- more -->
 
@@ -77,7 +77,7 @@ GOOGL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GO
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | GOOY | <span style="color: tomato">14.7<small>%</small></span> | 22.9<small>%</small> | 0.64 | -24.4<small>%</small> | -7.3<small>%</small> |
-| GOOGL | <span style="color: tomato">31.2<small>%</small></span> | 29.6<small>%</small> | 1.05 | -29.8<small>%</small> | -8.1<small>%</small> |
+| GOOGL | <span style="color: tomato">31.2<small>%</small></span> | 29.6<small>%</small> | 1.06 | -29.8<small>%</small> | -8.1<small>%</small> |
 | GOOGL<sub>STD</sub> <small>(78%)</small> | <span style="color: tomato">24.4<small>%</small></span> | 22.9<small>%</small> | 1.06 | -23.9<small>%</small> | -6.3<small>%</small> |
 | GOOGL<sub>MDD</sub> <small>(82%)</small> | <span style="color: tomato">25.7<small>%</small></span> | 24.2<small>%</small> | 1.06 | -25.0<small>%</small> | -6.6<small>%</small> |
 
@@ -99,8 +99,8 @@ GOOGL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GO
 
 지난 2년 1개월간 거치식으로 투자했다고 가정합니다.
 
-GOOGL의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 25.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 GOOY의 14.7%보다 10.3% 높았습니다.
+GOOGL의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 25.1%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 GOOY의 14.7%보다 10.4% 높았습니다.
 
 ### GOOY &lt; GOOGL
 {: .text-center}
