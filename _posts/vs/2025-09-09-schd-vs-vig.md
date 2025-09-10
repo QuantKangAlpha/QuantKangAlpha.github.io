@@ -1,20 +1,22 @@
 ---
 layout: single
-title: VIG vs SCHD
-excerpt: VIG의 최근 13년 10개월 CAGR은 12.9%로 SCHD의 12.4%와 비슷했습니다.
+title: SCHD vs VIG
+excerpt: SCHD의 최근 13년 10개월 CAGR은 12.4%로 VIG의 12.9%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
 toc: true
 categories:
 - vs
-keywords: SCHD, VIG, VIG SCHD 비교
+keywords: VIG, SCHD, SCHD VIG 비교
 ---
 
 ## 비교 상품 소개
 
 
-VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
+SCHD 상품과 VIG 상품의 성과를 수익률과 위험도로 비교합니다.
+
+
 
 
 
@@ -24,37 +26,37 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 13년 10개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR[^fn_vs_cagr_metric]입니다.
-하단의 보조 그래프는 SCHD 대비 VIG의 비를 나타냅니다.
-VIG의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
+하단의 보조 그래프는 VIG 대비 SCHD의 비를 나타냅니다.
+SCHD의 수익률이 VIG보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
 
-![VIG](/vs/images/vig-vs-schd_dual.png){: .align-center}
+![SCHD](/vs/images/schd-vs-vig_dual.png){: .align-center}
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| VIG | <span style="color: tomato">12.9<small>%</small></span> | 15.2<small>%</small> | 0.85 | -31.7<small>%</small> | -3.2<small>%</small> |
 | SCHD | <span style="color: tomato">12.4<small>%</small></span> | 15.6<small>%</small> | 0.80 | -33.4<small>%</small> | -3.4<small>%</small> |
+| VIG | <span style="color: tomato">12.9<small>%</small></span> | 15.2<small>%</small> | 0.85 | -31.7<small>%</small> | -3.2<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** VIG의 CAGR은 12.9%로 SCHD의 12.4%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SCHD의 CAGR은 12.4%로 VIG의 12.9%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** VIG의 표준편차는 15.2%로 SCHD의 15.6%와 비슷했습니다. (비슷한 위험도)
+**위험도 지표 (표준편차):** SCHD의 표준편차는 15.6%로 VIG의 15.2%와 비슷했습니다. (비슷한 위험도)
 
-**위험도 지표 (MDD):** VIG의 31.7%의 MDD는 SCHD의 33.4%보다 -1.7% 낮았습니다. (낮은 위험도)
+**위험도 지표 (MDD):** SCHD의 33.4%의 MDD는 VIG의 31.7%보다 1.7% 높았습니다. (높은 위험도)
 
 
 
 ## 동일 수준 위험 노출을 위한 비중 조절
 
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
-여기서는 SCHD의 투자 비중[^fn_vs_weight]을 조절하여 VIG의 위험도와 유사하게 맞추어 수익률를 비교합니다.
+여기서는 VIG의 투자 비중[^fn_vs_weight]을 조절하여 SCHD의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.6% / 15.2% = 98% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.2% / 15.6% = 102% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 33.4% / 31.7% = 95% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 31.7% / 33.4% = 105% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -64,28 +66,28 @@ VIG의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반대
 ## 동일 수준 위험하에서의 추정 성과
 
 아래는 비중을 조절한 경우를 추가하여, 그래프와 표에 성과를 기록한 것입니다.
-SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCHD<sub>MDD</sub>는 MDD를 맞춘 경우입니다.
+VIG<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, VIG<sub>MDD</sub>는 MDD를 맞춘 경우입니다.
 앞에서와 같이 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR입니다.
 
 
-![VIG](/vs/images/vig-vs-schd.png){: .align-center}
+![SCHD](/vs/images/schd-vs-vig.png){: .align-center}
 
 
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| VIG | <span style="color: tomato">12.9<small>%</small></span> | 15.2<small>%</small> | 0.85 | -31.7<small>%</small> | -3.2<small>%</small> |
 | SCHD | <span style="color: tomato">12.4<small>%</small></span> | 15.6<small>%</small> | 0.80 | -33.4<small>%</small> | -3.4<small>%</small> |
-| SCHD<sub>STD</sub> <small>(98%)</small> | <span style="color: tomato">12.1<small>%</small></span> | 15.2<small>%</small> | 0.80 | -32.7<small>%</small> | -3.3<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">11.8<small>%</small></span> | 14.8<small>%</small> | 0.80 | -31.9<small>%</small> | -3.2<small>%</small> |
+| VIG | <span style="color: tomato">12.9<small>%</small></span> | 15.2<small>%</small> | 0.85 | -31.7<small>%</small> | -3.2<small>%</small> |
+| VIG<sub>STD</sub> <small>(102%)</small> | <span style="color: tomato">13.2<small>%</small></span> | 15.6<small>%</small> | 0.85 | -32.4<small>%</small> | -3.3<small>%</small> |
+| VIG<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">13.5<small>%</small></span> | 16.0<small>%</small> | 0.85 | -33.2<small>%</small> | -3.4<small>%</small> |
 
 
 
-각각의 경우를 VIG의 성과와 비교해 봅니다.
+각각의 경우를 SCHD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 98% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.1%로 VIG의 12.9%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 102% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.2%로 SCHD의 12.4%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.8%로 VIG의 12.9%보다 -1.1% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 105% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.5%로 SCHD의 12.4%보다 1.1% 높았습니다. (높은 수익률)
 
 
 
@@ -97,10 +99,10 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 지난 13년 10개월간 거치식으로 투자했다고 가정합니다.
 
-SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 12.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 VIG의 12.9%와 비슷했습니다.
+VIG의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.3%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 SCHD의 12.4%와 비슷했습니다.
 
-### VIG ≒ SCHD
+### SCHD ≒ VIG
 {: .text-center}
 **참고** 위험 대비 수익률이 비슷한 경우라면, 적은 비중으로 동일한 투자 효과를 낼 수 있는 상품을 선택하는 것이, 투자 전략 유연성 측면에서는 보다 유리할 수 있습니다.
 {: .notice--info}
@@ -108,9 +110,6 @@ SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
-- [[동영상] 어떤 배당 성장 ETF가 좋을까? DGRO, DGRW, VIG 비교 분석과 분산 투자 [환율을 고려한 정량적 분석]](https://youtu.be/l8JDXd0hOM4)
-- [[동영상] VIG (미국 대형 배당 성장 ETF) +  SPY - 배당 성장을 고려한 안정 성장 ETF의 효과 [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/vAYIWlb1mik)
-- [VIG(미국 대형 배당 성장주) + SPY + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223927303964)
 - [[동영상] SCHD 배당금으로 QLD에 투자하면 안정성과 성장성을 모두 얻을 수 있지 않을까? [환율을 고려한 정량적 비교 분석 + 분산 투자]](https://youtu.be/mYONG3edRaw)
 - [[동영상] SCHD + QQQ [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://www.youtube.com/watch?v=oxhCUz450kU)
 - [[동영상] SCHD + SPY [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://www.youtube.com/watch?v=zrGjuwcduKA)
@@ -119,6 +118,11 @@ SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [[자산 배분] QQQ + IEF(미국 중기 국채 ETF) + 환율 (평균-분산 그래프 분석) (feat. QQQ + SCHD + 환율)](https://kongdori.tistory.com/416)
 - [[자산 배분] SCHD + QQQ + 환율 (평균-분산 그래프 분석)](https://kongdori.tistory.com/406)
 - [[자산 배분] SCHD + SPY + 환율 (평균-분산 그래프 분석)](https://kongdori.tistory.com/405)
+- [KODEX 미국배당다우존스 - 분배 기준일을 월중으로 설정한 대체재 (삼성자산운용의 빈집털이 전략은 성공할 수 있을까?)](https://kongdori.tistory.com/311)
+- [TIGER 미국배당+7%프리미엄다우존스의 수익률은 왜 좋지 못했을까? (커버드콜 ETF를 수식으로 표현해 보자!)](https://kongdori.tistory.com/264)
+- [[동영상] 어떤 배당 성장 ETF가 좋을까? DGRO, DGRW, VIG 비교 분석과 분산 투자 [환율을 고려한 정량적 분석]](https://youtu.be/l8JDXd0hOM4)
+- [[동영상] VIG (미국 대형 배당 성장 ETF) +  SPY - 배당 성장을 고려한 안정 성장 ETF의 효과 [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/vAYIWlb1mik)
+- [VIG(미국 대형 배당 성장주) + SPY + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223927303964)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 

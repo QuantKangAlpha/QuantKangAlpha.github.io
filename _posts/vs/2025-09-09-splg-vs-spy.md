@@ -110,6 +110,7 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [[동영상] 수수료가 낮은 VOO에 투자하면 SPY보다 얼마나 이익일까? 지금이라도 교체하는 것이 유리할까?](https://youtu.be/O-ySn9LScCk)
 - [S&P 500 국내 ETF는 무엇을 좋을까? (국내 상장 ETF 9종 비교와 분석)](https://kongdori.tistory.com/309)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 

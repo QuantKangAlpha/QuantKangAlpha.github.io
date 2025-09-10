@@ -110,6 +110,7 @@ SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
+- [[동영상] 어떤 배당 성장 ETF가 좋을까? DGRO, DGRW, VIG 비교 분석과 분산 투자 [환율을 고려한 정량적 분석]](https://youtu.be/l8JDXd0hOM4)
 - [[동영상] SCHD 배당금으로 QLD에 투자하면 안정성과 성장성을 모두 얻을 수 있지 않을까? [환율을 고려한 정량적 비교 분석 + 분산 투자]](https://youtu.be/mYONG3edRaw)
 - [[동영상] SCHD + QQQ [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://www.youtube.com/watch?v=oxhCUz450kU)
 - [[동영상] SCHD + SPY [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://www.youtube.com/watch?v=zrGjuwcduKA)
