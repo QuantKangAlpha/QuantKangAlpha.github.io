@@ -1,7 +1,7 @@
 ---
 layout: single
 title: MRNY vs Moderna Inc (MRNA)
-excerpt: MRNY의 최근 1년 10개월 CAGR은 -49.1%로 Moderna Inc (MRNA)의 -45.5%보다 -3.6% 낮았습니다.
+excerpt: MRNY의 최근 1년 10개월 CAGR은 -47.9%로 Moderna Inc (MRNA)의 -45.5%보다 -2.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ MRNY의 수익률이 MRNA보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MRNY | <span style="color: cornflowerblue">-49.1<small>%</small></span> | 49.7<small>%</small> | -0.99 | -81.3<small>%</small> | -44.5<small>%</small> |
+| MRNY | <span style="color: cornflowerblue">-47.9<small>%</small></span> | 49.7<small>%</small> | -0.96 | -81.3<small>%</small> | -44.5<small>%</small> |
 | MRNA | <span style="color: cornflowerblue">-45.5<small>%</small></span> | 63.2<small>%</small> | -0.72 | -85.8<small>%</small> | -48.9<small>%</small> |
 
 <!-- more -->
@@ -41,9 +41,9 @@ MRNY의 수익률이 MRNA보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** MRNY의 CAGR은 -49.1%로 MRNA의 -45.5%보다 -3.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** MRNY의 CAGR은 -47.9%로 MRNA의 -45.5%보다 -2.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** MRNY의 표준편차는 49.7%로 MRNA의 63.2%보다 -13.5% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** MRNY의 표준편차는 49.7%로 MRNA의 63.2%보다 -13.4% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** MRNY의 81.3%의 MDD는 MRNA의 85.8%보다 -4.5% 낮았습니다. (낮은 위험도)
 
@@ -76,18 +76,18 @@ MRNA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MRN
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MRNY | <span style="color: cornflowerblue">-49.1<small>%</small></span> | 49.7<small>%</small> | -0.99 | -81.3<small>%</small> | -44.5<small>%</small> |
+| MRNY | <span style="color: cornflowerblue">-47.9<small>%</small></span> | 49.7<small>%</small> | -0.96 | -81.3<small>%</small> | -44.5<small>%</small> |
 | MRNA | <span style="color: cornflowerblue">-45.5<small>%</small></span> | 63.2<small>%</small> | -0.72 | -85.8<small>%</small> | -48.9<small>%</small> |
-| MRNA<sub>STD</sub> <small>(79%)</small> | <span style="color: cornflowerblue">-35.8<small>%</small></span> | 49.7<small>%</small> | -0.72 | -77.6<small>%</small> | -42.6<small>%</small> |
+| MRNA<sub>STD</sub> <small>(79%)</small> | <span style="color: cornflowerblue">-35.9<small>%</small></span> | 49.7<small>%</small> | -0.72 | -77.6<small>%</small> | -42.7<small>%</small> |
 | MRNA<sub>MDD</sub> <small>(95%)</small> | <span style="color: cornflowerblue">-43.2<small>%</small></span> | 59.9<small>%</small> | -0.72 | -84.1<small>%</small> | -47.5<small>%</small> |
 
 
 
 각각의 경우를 MRNY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -35.8%로 MRNY의 -49.1%보다 13.3% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -35.9%로 MRNY의 -47.9%보다 12.0% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -43.2%로 MRNY의 -49.1%보다 5.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -43.2%로 MRNY의 -47.9%보다 4.7% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ MRNA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MRN
 지난 1년 10개월간 거치식으로 투자했다고 가정합니다.
 
 MRNA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 -39.5%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 MRNY의 -49.1%보다 9.6% 높았습니다.
+이 포트폴리오는 MRNY의 -47.9%보다 8.4% 높았습니다.
 
 ### MRNY &lt; MRNA
 {: .text-center}

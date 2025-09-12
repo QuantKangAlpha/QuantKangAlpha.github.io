@@ -1,7 +1,7 @@
 ---
 layout: single
 title: YMAX vs JEPQ
-excerpt: YMAX의 최근 1년 7개월 CAGR은 22.7%로 JEPQ의 19.2%보다 3.5% 높았습니다.
+excerpt: YMAX의 최근 1년 7개월 CAGR은 23.4%로 JEPQ의 19.2%보다 4.3% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ YMAX의 수익률이 JEPQ보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAX | <span style="color: tomato">22.7<small>%</small></span> | 22.5<small>%</small> | 1.01 | -25.6<small>%</small> | -4.3<small>%</small> |
+| YMAX | <span style="color: tomato">23.4<small>%</small></span> | 22.5<small>%</small> | 1.04 | -25.6<small>%</small> | -4.3<small>%</small> |
 | JEPQ | <span style="color: tomato">19.2<small>%</small></span> | 16.9<small>%</small> | 1.13 | -20.1<small>%</small> | -2.9<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ YMAX의 수익률이 JEPQ보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** YMAX의 CAGR은 22.7%로 JEPQ의 19.2%보다 3.5% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** YMAX의 CAGR은 23.4%로 JEPQ의 19.2%보다 4.3% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** YMAX의 표준편차는 22.5%로 JEPQ의 16.9%보다 5.6% 높았습니다. (높은 위험도)
 
@@ -76,7 +76,7 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAX | <span style="color: tomato">22.7<small>%</small></span> | 22.5<small>%</small> | 1.01 | -25.6<small>%</small> | -4.3<small>%</small> |
+| YMAX | <span style="color: tomato">23.4<small>%</small></span> | 22.5<small>%</small> | 1.04 | -25.6<small>%</small> | -4.3<small>%</small> |
 | JEPQ | <span style="color: tomato">19.2<small>%</small></span> | 16.9<small>%</small> | 1.13 | -20.1<small>%</small> | -2.9<small>%</small> |
 | JEPQ<sub>STD</sub> <small>(133%)</small> | <span style="color: tomato">25.5<small>%</small></span> | 22.5<small>%</small> | 1.13 | -26.0<small>%</small> | -3.9<small>%</small> |
 | JEPQ<sub>MDD</sub> <small>(127%)</small> | <span style="color: tomato">24.4<small>%</small></span> | 21.6<small>%</small> | 1.13 | -25.0<small>%</small> | -3.7<small>%</small> |
@@ -85,9 +85,9 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 각각의 경우를 YMAX의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 133% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 25.5%로 YMAX의 22.7%보다 2.8% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 133% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 25.5%로 YMAX의 23.4%보다 2.1% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 127% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 24.4%로 YMAX의 22.7%보다 1.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 127% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 24.4%로 YMAX의 23.4%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -100,7 +100,7 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 지난 1년 7개월간 거치식으로 투자했다고 가정합니다.
 
 JEPQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 25.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 YMAX의 22.7%보다 2.3% 높았습니다.
+이 포트폴리오는 YMAX의 23.4%보다 1.5% 높았습니다.
 
 ### YMAX &lt; JEPQ
 {: .text-center}

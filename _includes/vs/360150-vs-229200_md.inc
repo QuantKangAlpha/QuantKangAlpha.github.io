@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 코스닥150롱코스피200숏선물](/360150-vs-229200/) | <span style="color: cornflowerblue">-3.7<small>%</small></span> | 19.2<small>%</small> | -0.19 | -30.2<small>%</small> | -16.5<small>%</small> |
-| KODEX 코스닥150 | <span style="color: tomato">2.3<small>%</small></span> | 27.9<small>%</small> | 0.08 | -39.3<small>%</small> | -15.6<small>%</small> |
+| [KODEX 코스닥150롱코스피200숏선물](/360150-vs-229200/) | <span style="color: cornflowerblue">-3.8<small>%</small></span> | 19.2<small>%</small> | -0.20 | -30.2<small>%</small> | -16.5<small>%</small> |
+| KODEX 코스닥150 | <span style="color: tomato">2.7<small>%</small></span> | 27.9<small>%</small> | 0.10 | -39.3<small>%</small> | -15.6<small>%</small> |

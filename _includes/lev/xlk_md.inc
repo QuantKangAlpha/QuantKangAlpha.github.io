@@ -3,5 +3,5 @@
 | XLK | | <span style="color: tomato">25.5<small>%</small></span> | - | - | - |
 | [ROM](/rom/) | 2<small>x</small> | <span style="color: tomato">38.1<small>%</small></span> | 6.9<small>%</small> | 5.8<small>%</small> | 12.3<small>%</small> |
 | [TECL](/tecl/) | 3<small>x</small> | <span style="color: tomato">41.4<small>%</small></span> | 19.3<small>%</small> | 11.3<small>%</small> | 28.4<small>%</small> |
-| [REW](/rew/) | -2<small>x</small> | <span style="color: cornflowerblue">-42.9<small>%</small></span> | 20.2<small>%</small> | -12.6<small>%</small> | 10.2<small>%</small> |
+| [REW](/rew/) | -2<small>x</small> | <span style="color: cornflowerblue">-42.9<small>%</small></span> | 20.2<small>%</small> | -12.7<small>%</small> | 10.1<small>%</small> |
 | [TECS](/tecs/) | -3<small>x</small> | <span style="color: cornflowerblue">-62.5<small>%</small></span> | 37.2<small>%</small> | -18.2<small>%</small> | 25.8<small>%</small> |

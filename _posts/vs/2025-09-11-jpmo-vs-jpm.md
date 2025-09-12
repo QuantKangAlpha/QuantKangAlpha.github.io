@@ -1,7 +1,7 @@
 ---
 layout: single
 title: JPMO vs JPMorgan Chase & Co (JPM)
-excerpt: JPMO의 최근 2년 CAGR은 17.6%로 JPMorgan Chase & Co (JPM)의 48.0%보다 -30.4% 낮았습니다.
+excerpt: JPMO의 최근 2년 CAGR은 18.5%로 JPMorgan Chase & Co (JPM)의 48.0%보다 -29.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ JPMO의 수익률이 JPM보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JPMO | <span style="color: tomato">17.6<small>%</small></span> | 18.6<small>%</small> | 0.95 | -24.8<small>%</small> | -4.3<small>%</small> |
+| JPMO | <span style="color: tomato">18.5<small>%</small></span> | 18.6<small>%</small> | 0.99 | -24.8<small>%</small> | -4.3<small>%</small> |
 | JPM | <span style="color: tomato">48.0<small>%</small></span> | 23.4<small>%</small> | 2.05 | -24.4<small>%</small> | -3.5<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ JPMO의 수익률이 JPM보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** JPMO의 CAGR은 17.6%로 JPM의 48.0%보다 -30.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** JPMO의 CAGR은 18.5%로 JPM의 48.0%보다 -29.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** JPMO의 표준편차는 18.6%로 JPM의 23.4%보다 -4.8% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ JPMO의 수익률이 JPM보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JPM의 투자 비중[^fn_vs_weight]을 조절하여 JPMO의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 23.4% / 18.6% = 79% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 23.4% / 18.6% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 24.4% / 24.8% = 102% 비중으로 투자하면 됩니다.
 
@@ -76,18 +76,18 @@ JPM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JPM<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JPMO | <span style="color: tomato">17.6<small>%</small></span> | 18.6<small>%</small> | 0.95 | -24.8<small>%</small> | -4.3<small>%</small> |
+| JPMO | <span style="color: tomato">18.5<small>%</small></span> | 18.6<small>%</small> | 0.99 | -24.8<small>%</small> | -4.3<small>%</small> |
 | JPM | <span style="color: tomato">48.0<small>%</small></span> | 23.4<small>%</small> | 2.05 | -24.4<small>%</small> | -3.5<small>%</small> |
-| JPM<sub>STD</sub> <small>(79%)</small> | <span style="color: tomato">37.1<small>%</small></span> | 18.6<small>%</small> | 2.00 | -19.8<small>%</small> | -2.7<small>%</small> |
+| JPM<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">37.2<small>%</small></span> | 18.6<small>%</small> | 2.00 | -19.8<small>%</small> | -2.7<small>%</small> |
 | JPM<sub>MDD</sub> <small>(102%)</small> | <span style="color: tomato">48.8<small>%</small></span> | 23.8<small>%</small> | 2.05 | -24.8<small>%</small> | -3.5<small>%</small> |
 
 
 
 각각의 경우를 JPMO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 37.1%로 JPMO의 17.6%보다 19.6% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 80% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 37.2%로 JPMO의 18.5%보다 18.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 102% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 48.8%로 JPMO의 17.6%보다 31.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 102% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 48.8%로 JPMO의 18.5%보다 30.3% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ JPM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JPM<
 지난 2년간 거치식으로 투자했다고 가정합니다.
 
 JPM의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 43.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 JPMO의 17.6%보다 25.4% 높았습니다.
+이 포트폴리오는 JPMO의 18.5%보다 24.5% 높았습니다.
 
 ### JPMO &lt; JPM
 {: .text-center}
