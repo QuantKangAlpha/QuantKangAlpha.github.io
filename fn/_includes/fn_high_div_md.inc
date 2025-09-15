@@ -17,8 +17,8 @@
 | [롯데쇼핑](/023530/) | P:유통업 | - | <span style="color:tomato">0.1</span> | **5.4**<small>%</small> |
 | [기업은행](/024110/) | P:은행 | <span style="color:tomato">6.4</span> | 0.5 | **5.3**<small>%</small> |
 | [삼성카드](/029780/) | P:기타금융 | 8.6 | 0.7 | **5.2**<small>%</small> |
-| [한국타이어앤테크놀로지](/161390/) | P:화학 | <span style="color:tomato">4.3</span> | <span style="color:tomato">0.4</span> | **5.1**<small>%</small> |
 | [한전KPS](/051600/) | P:건설업 | 12.7 | 1.6 | **5.1**<small>%</small> |
+| [한국타이어앤테크놀로지](/161390/) | P:화학 | <span style="color:tomato">4.3</span> | <span style="color:tomato">0.4</span> | **5.1**<small>%</small> |
 | [KG이니시스](/035600/) | Q:출판매체복제 | 6.8 | 0.6 | **4.8**<small>%</small> |
 | [한일시멘트](/300720/) | P:비금속광물 | 7.9 | 0.8 | **4.8**<small>%</small> |
 | [한세실업](/105630/) | P:섬유의복 | 7.2 | 0.6 | **4.7**<small>%</small> |
@@ -34,5 +34,5 @@
 | [LG유플러스](/032640/) | P:통신업 | 17.1 | 0.8 | **4.4**<small>%</small> |
 | [한국앤컴퍼니](/000240/) | P:기타금융 | <span style="color:tomato">6.4</span> | 0.5 | **4.2**<small>%</small> |
 | [BNK금융지주](/138930/) | P:기타금융 | 7.2 | 0.5 | **4.2**<small>%</small> |
-| [삼성화재](/000810/) | P:보험 | 9.6 | 1.3 | **4.0**<small>%</small> |
 | [JB금융지주](/175330/) | P:기타금융 | 7.2 | 0.8 | **4.0**<small>%</small> |
+| [삼성화재](/000810/) | P:보험 | 9.6 | 1.3 | **4.0**<small>%</small> |

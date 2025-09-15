@@ -15,8 +15,8 @@
 | [한국타이어앤테크놀로지](/161390/) | P:화학 | **4.3** | <span style="color:tomato">0.4</span> | <span style="color:tomato">5.1<small>%</small></span> |
 | [금호타이어](/073240/) | P:화학 | **4.4** | 0.8 | - |
 | [현대차](/005380/) | P:운수장비 | **4.5** | 0.5 | <span style="color:tomato">5.6<small>%</small></span> |
-| [DB손해보험](/005830/) | P:보험 | **4.7** | 0.9 | <span style="color:tomato">4.7<small>%</small></span> |
 | [HMM](/011200/) | P:운수창고업 | **4.7** | 0.7 | 2.6<small>%</small> |
+| [DB손해보험](/005830/) | P:보험 | **4.7** | 0.9 | <span style="color:tomato">4.7<small>%</small></span> |
 | [한샘](/009240/) | P:유통업 | **4.8** | 2.1 | <span style="color:tomato">19.2<small>%</small></span> |
 | [세방전지](/004490/) | P:전기전자 | **4.9** | 0.6 | 1.7<small>%</small> |
 | [영원무역홀딩스](/009970/) | P:기타금융 | **5.0** | 0.6 | 3.7<small>%</small> |
