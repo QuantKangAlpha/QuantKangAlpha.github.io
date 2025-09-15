@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 200타겟위클리커버드콜](/498400-vs-166400/) | <span style="color: tomato">42.7<small>%</small></span> | 18.1<small>%</small> | 2.37 | -13.0<small>%</small> | -1.8<small>%</small> |
-| TIGER 200커버드콜OTM | <span style="color: tomato">41.2<small>%</small></span> | 17.5<small>%</small> | 2.36 | -12.9<small>%</small> | -1.6<small>%</small> |
+| [KODEX 200타겟위클리커버드콜](/498400-vs-166400/) | <span style="color: tomato">42.5<small>%</small></span> | 18.0<small>%</small> | 2.36 | -13.0<small>%</small> | -1.8<small>%</small> |
+| TIGER 200커버드콜OTM | <span style="color: tomato">41.5<small>%</small></span> | 17.4<small>%</small> | 2.38 | -12.9<small>%</small> | -1.6<small>%</small> |
