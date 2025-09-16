@@ -78,14 +78,14 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">18.8<small>%</small></span> | 14.0<small>%</small> | 1.34 | -16.9<small>%</small> | -2.3<small>%</small> |
 | JEPI | <span style="color: tomato">10.5<small>%</small></span> | 11.2<small>%</small> | 0.93 | -13.3<small>%</small> | -1.6<small>%</small> |
-| JEPI<sub>STD</sub> <small>(125%)</small> | <span style="color: tomato">13.1<small>%</small></span> | 14.0<small>%</small> | 0.93 | -16.4<small>%</small> | -2.1<small>%</small> |
+| JEPI<sub>STD</sub> <small>(125%)</small> | <span style="color: tomato">13.0<small>%</small></span> | 14.0<small>%</small> | 0.93 | -16.4<small>%</small> | -2.1<small>%</small> |
 | JEPI<sub>MDD</sub> <small>(127%)</small> | <span style="color: tomato">13.3<small>%</small></span> | 14.3<small>%</small> | 0.93 | -16.7<small>%</small> | -2.1<small>%</small> |
 
 
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 125% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.1%로 ISPY의 18.8%보다 -5.7% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 125% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.0%로 ISPY의 18.8%보다 -5.7% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 127% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.3%로 ISPY의 18.8%보다 -5.5% 낮았습니다. (낮은 수익률)
 
