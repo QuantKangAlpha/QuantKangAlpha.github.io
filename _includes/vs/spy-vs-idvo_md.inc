@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SPY](/spy-vs-idvo/) | <span style="color: tomato">19.7<small>%</small></span> | 16.9<small>%</small> | 1.17 | -18.8<small>%</small> | -2.7<small>%</small> |
-| IDVO | <span style="color: tomato">20.7<small>%</small></span> | 16.1<small>%</small> | 1.28 | -15.5<small>%</small> | -2.4<small>%</small> |
+| [SPY](/spy-vs-idvo/) | <span style="color: tomato">19.7<small>%</small></span> | 16.9<small>%</small> | 1.16 | -18.8<small>%</small> | -2.7<small>%</small> |
+| IDVO | <span style="color: tomato">20.6<small>%</small></span> | 16.1<small>%</small> | 1.28 | -15.5<small>%</small> | -2.4<small>%</small> |
