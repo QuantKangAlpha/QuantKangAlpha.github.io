@@ -5,7 +5,7 @@ excerpt: KOSDAQ 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-09-17
+last_modified_at: 2025-09-18
 ---
 
 
@@ -20,7 +20,7 @@ last_modified_at: 2025-09-17
 | [동화기업](/025900/) | - | 0.5 | - | 29.8<small>%</small> |
 | 삼보판지 | 4.8 | 0.3 | 2.5<small>%</small> | 7.1<small>%</small> |
 | 스피어파워 | - | 2.5 | - | 3.6<small>%</small> |
-| 대림제지 | 4.6 | 0.2 | 1.4<small>%</small> | 3.2<small>%</small> |
+| 대림제지 | 4.7 | 0.2 | 1.4<small>%</small> | 3.2<small>%</small> |
 | 삼륭물산 | - | 2.2 | 1.0<small>%</small> | 2.7<small>%</small> |
 | 한국팩키지 | 48.9 | 0.6 | 1.9<small>%</small> | 2.6<small>%</small> |
 | 리더스코스메틱 | - | 1.2 | - | 2.6<small>%</small> |
