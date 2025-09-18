@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 대형고배당10TR](/315960-vs-069500/) | <span style="color: tomato">15.7<small>%</small></span> | 23.4<small>%</small> | 0.67 | -36.6<small>%</small> | -10.3<small>%</small> |
-| KODEX 200 | <span style="color: tomato">10.7<small>%</small></span> | 19.9<small>%</small> | 0.54 | -34.6<small>%</small> | -12.3<small>%</small> |
+| [RISE 대형고배당10TR](/315960-vs-069500/) | <span style="color: tomato">16.1<small>%</small></span> | 23.4<small>%</small> | 0.69 | -36.6<small>%</small> | -10.3<small>%</small> |
+| KODEX 200 | <span style="color: tomato">10.9<small>%</small></span> | 19.9<small>%</small> | 0.55 | -34.6<small>%</small> | -12.3<small>%</small> |

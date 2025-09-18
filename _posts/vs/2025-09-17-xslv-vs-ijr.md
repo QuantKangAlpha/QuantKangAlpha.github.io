@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XSLV vs IJR
-excerpt: XSLV의 최근 12년 7개월 CAGR은 7.3%로 IJR의 10.0%보다 -2.7% 낮았습니다.
+excerpt: XSLV의 최근 12년 7개월 CAGR은 7.3%로 IJR의 10.1%보다 -2.7% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -32,14 +32,14 @@ XSLV의 수익률이 IJR보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XSLV | <span style="color: tomato">7.3<small>%</small></span> | 18.7<small>%</small> | 0.39 | -44.3<small>%</small> | -7.5<small>%</small> |
-| IJR | <span style="color: tomato">10.0<small>%</small></span> | 21.5<small>%</small> | 0.47 | -44.4<small>%</small> | -8.0<small>%</small> |
+| IJR | <span style="color: tomato">10.1<small>%</small></span> | 21.5<small>%</small> | 0.47 | -44.4<small>%</small> | -8.0<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XSLV의 CAGR은 7.3%로 IJR의 10.0%보다 -2.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XSLV의 CAGR은 7.3%로 IJR의 10.1%보다 -2.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XSLV의 표준편차는 18.7%로 IJR의 21.5%보다 -2.8% 낮았습니다. (낮은 위험도)
 
@@ -75,9 +75,9 @@ IJR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IJR<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XSLV | <span style="color: tomato">7.3<small>%</small></span> | 18.7<small>%</small> | 0.39 | -44.3<small>%</small> | -7.5<small>%</small> |
-| IJR | <span style="color: tomato">10.0<small>%</small></span> | 21.5<small>%</small> | 0.47 | -44.4<small>%</small> | -8.0<small>%</small> |
+| IJR | <span style="color: tomato">10.1<small>%</small></span> | 21.5<small>%</small> | 0.47 | -44.4<small>%</small> | -8.0<small>%</small> |
 | IJR<sub>STD</sub> <small>(87%)</small> | <span style="color: tomato">9.0<small>%</small></span> | 18.7<small>%</small> | 0.48 | -39.5<small>%</small> | -6.9<small>%</small> |
-| IJR<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">10.0<small>%</small></span> | 21.4<small>%</small> | 0.47 | -44.3<small>%</small> | -8.0<small>%</small> |
+| IJR<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">10.1<small>%</small></span> | 21.4<small>%</small> | 0.47 | -44.3<small>%</small> | -8.0<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ IJR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IJR<
 
 **위험도 지표 (표준편차):** 87% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 9.0%로 XSLV의 7.3%보다 1.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 10.0%로 XSLV의 7.3%보다 2.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 10.1%로 XSLV의 7.3%보다 2.7% 높았습니다. (높은 수익률)
 
 
 

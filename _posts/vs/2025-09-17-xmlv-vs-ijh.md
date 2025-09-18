@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XMLV vs IJH
-excerpt: XMLV의 최근 12년 7개월 CAGR은 9.7%로 IJH의 10.5%와 비슷했습니다.
+excerpt: XMLV의 최근 12년 7개월 CAGR은 9.7%로 IJH의 10.6%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -32,14 +32,14 @@ XMLV의 수익률이 IJH보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XMLV | <span style="color: tomato">9.7<small>%</small></span> | 16.1<small>%</small> | 0.60 | -39.9<small>%</small> | -4.4<small>%</small> |
-| IJH | <span style="color: tomato">10.5<small>%</small></span> | 19.8<small>%</small> | 0.53 | -42.2<small>%</small> | -5.4<small>%</small> |
+| IJH | <span style="color: tomato">10.6<small>%</small></span> | 19.8<small>%</small> | 0.53 | -42.2<small>%</small> | -5.4<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XMLV의 CAGR은 9.7%로 IJH의 10.5%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XMLV의 CAGR은 9.7%로 IJH의 10.6%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XMLV의 표준편차는 16.1%로 IJH의 19.8%보다 -3.8% 낮았습니다. (낮은 위험도)
 
@@ -75,9 +75,9 @@ IJH<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IJH<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XMLV | <span style="color: tomato">9.7<small>%</small></span> | 16.1<small>%</small> | 0.60 | -39.9<small>%</small> | -4.4<small>%</small> |
-| IJH | <span style="color: tomato">10.5<small>%</small></span> | 19.8<small>%</small> | 0.53 | -42.2<small>%</small> | -5.4<small>%</small> |
+| IJH | <span style="color: tomato">10.6<small>%</small></span> | 19.8<small>%</small> | 0.53 | -42.2<small>%</small> | -5.4<small>%</small> |
 | IJH<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">8.8<small>%</small></span> | 16.1<small>%</small> | 0.55 | -35.4<small>%</small> | -4.3<small>%</small> |
-| IJH<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">10.0<small>%</small></span> | 18.7<small>%</small> | 0.54 | -40.3<small>%</small> | -5.1<small>%</small> |
+| IJH<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">10.1<small>%</small></span> | 18.7<small>%</small> | 0.54 | -40.3<small>%</small> | -5.1<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ IJH<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IJH<
 
 **위험도 지표 (표준편차):** 81% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.8%로 XMLV의 9.7%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 10.0%로 XMLV의 9.7%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 10.1%로 XMLV의 9.7%와 비슷했습니다. (비슷한 수익률)
 
 
 

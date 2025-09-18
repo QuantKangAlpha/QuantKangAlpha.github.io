@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KIWOOM 미국달러SOFR금리액티브(합성)](/460270-vs-456200/) | <span style="color: tomato">8.4<small>%</small></span> | 9.0<small>%</small> | 0.93 | -8.0<small>%</small> | -2.1<small>%</small> |
-| PLUS 미국달러SOFR금리액티브(합성) | <span style="color: tomato">8.4<small>%</small></span> | 8.7<small>%</small> | 0.96 | -8.5<small>%</small> | -2.1<small>%</small> |
+| [KIWOOM 미국달러SOFR금리액티브(합성)](/460270-vs-456200/) | <span style="color: tomato">8.7<small>%</small></span> | 9.0<small>%</small> | 0.97 | -8.0<small>%</small> | -2.1<small>%</small> |
+| PLUS 미국달러SOFR금리액티브(합성) | <span style="color: tomato">8.6<small>%</small></span> | 8.7<small>%</small> | 0.98 | -8.5<small>%</small> | -2.1<small>%</small> |
