@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 200위클리커버드콜](/475720-vs-069500/) | <span style="color: tomato">14.5<small>%</small></span> | 16.9<small>%</small> | 0.86 | -22.4<small>%</small> | -7.3<small>%</small> |
-| KODEX 200 | <span style="color: tomato">23.0<small>%</small></span> | 20.6<small>%</small> | 1.12 | -21.6<small>%</small> | -7.9<small>%</small> |
+| [RISE 200위클리커버드콜](/475720-vs-069500/) | <span style="color: tomato">14.3<small>%</small></span> | 16.9<small>%</small> | 0.85 | -22.4<small>%</small> | -7.3<small>%</small> |
+| KODEX 200 | <span style="color: tomato">22.6<small>%</small></span> | 20.6<small>%</small> | 1.10 | -21.6<small>%</small> | -7.9<small>%</small> |
