@@ -77,7 +77,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | NOBL | <span style="color: tomato">10.3<small>%</small></span> | 16.0<small>%</small> | 0.64 | -35.4<small>%</small> | -3.5<small>%</small> |
 | SPY | <span style="color: tomato">14.1<small>%</small></span> | 17.3<small>%</small> | 0.82 | -33.7<small>%</small> | -4.0<small>%</small> |
 | SPY<sub>STD</sub> <small>(93%)</small> | <span style="color: tomato">13.1<small>%</small></span> | 16.0<small>%</small> | 0.82 | -31.6<small>%</small> | -3.7<small>%</small> |
-| SPY<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">14.7<small>%</small></span> | 18.1<small>%</small> | 0.81 | -35.2<small>%</small> | -4.2<small>%</small> |
+| SPY<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">14.8<small>%</small></span> | 18.1<small>%</small> | 0.81 | -35.2<small>%</small> | -4.2<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 **위험도 지표 (표준편차):** 93% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.1%로 NOBL의 10.3%보다 2.8% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 105% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.7%로 NOBL의 10.3%보다 4.4% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 105% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.8%로 NOBL의 10.3%보다 4.5% 높았습니다. (높은 수익률)
 
 
 

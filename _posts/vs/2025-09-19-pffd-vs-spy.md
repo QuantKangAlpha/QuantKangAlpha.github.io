@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PFFD vs SPY
-excerpt: PFFD의 최근 8년 CAGR은 2.8%로 SPY의 14.8%보다 -11.9% 낮았습니다.
+excerpt: PFFD의 최근 8년 CAGR은 2.8%로 SPY의 14.8%보다 -12.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ PFFD의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PFFD의 CAGR은 2.8%로 SPY의 14.8%보다 -11.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PFFD의 CAGR은 2.8%로 SPY의 14.8%보다 -12.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PFFD의 표준편차는 13.1%로 SPY의 19.3%보다 -6.2% 낮았습니다. (낮은 위험도)
 
@@ -79,7 +79,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | PFFD | <span style="color: tomato">2.8<small>%</small></span> | 13.1<small>%</small> | 0.22 | -30.9<small>%</small> | -6.7<small>%</small> |
 | SPY | <span style="color: tomato">14.8<small>%</small></span> | 19.3<small>%</small> | 0.77 | -33.7<small>%</small> | -5.1<small>%</small> |
 | SPY<sub>STD</sub> <small>(68%)</small> | <span style="color: tomato">10.3<small>%</small></span> | 13.1<small>%</small> | 0.79 | -23.8<small>%</small> | -3.4<small>%</small> |
-| SPY<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">13.6<small>%</small></span> | 17.7<small>%</small> | 0.77 | -31.3<small>%</small> | -4.6<small>%</small> |
+| SPY<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 17.7<small>%</small> | 0.77 | -31.3<small>%</small> | -4.6<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 **위험도 지표 (표준편차):** 68% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 10.3%로 PFFD의 2.8%보다 7.4% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.6%로 PFFD의 2.8%보다 10.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.7%로 PFFD의 2.8%보다 10.8% 높았습니다. (높은 수익률)
 
 
 

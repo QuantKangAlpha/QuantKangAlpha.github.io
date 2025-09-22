@@ -78,16 +78,16 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | AIEQ | <span style="color: tomato">9.5<small>%</small></span> | 23.1<small>%</small> | 0.41 | -39.0<small>%</small> | -12.0<small>%</small> |
 | SPY | <span style="color: tomato">14.6<small>%</small></span> | 19.4<small>%</small> | 0.75 | -33.7<small>%</small> | -5.2<small>%</small> |
-| SPY<sub>STD</sub> <small>(119%)</small> | <span style="color: tomato">17.1<small>%</small></span> | 23.1<small>%</small> | 0.74 | -39.3<small>%</small> | -6.3<small>%</small> |
-| SPY<sub>MDD</sub> <small>(116%)</small> | <span style="color: tomato">16.6<small>%</small></span> | 22.4<small>%</small> | 0.74 | -38.2<small>%</small> | -6.1<small>%</small> |
+| SPY<sub>STD</sub> <small>(119%)</small> | <span style="color: tomato">17.2<small>%</small></span> | 23.1<small>%</small> | 0.74 | -39.3<small>%</small> | -6.3<small>%</small> |
+| SPY<sub>MDD</sub> <small>(116%)</small> | <span style="color: tomato">16.7<small>%</small></span> | 22.4<small>%</small> | 0.75 | -38.2<small>%</small> | -6.1<small>%</small> |
 
 
 
 각각의 경우를 AIEQ의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 119% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.1%로 AIEQ의 9.5%보다 7.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 119% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.2%로 AIEQ의 9.5%보다 7.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 116% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.6%로 AIEQ의 9.5%보다 7.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 116% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.7%로 AIEQ의 9.5%보다 7.2% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 지난 7년 11개월간 거치식으로 투자했다고 가정합니다.
 
 SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 16.9%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 AIEQ의 9.5%보다 7.4% 높았습니다.
+이 포트폴리오는 AIEQ의 9.5%보다 7.5% 높았습니다.
 
 ### AIEQ &lt; SPY
 {: .text-center}

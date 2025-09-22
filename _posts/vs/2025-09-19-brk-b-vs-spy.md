@@ -1,7 +1,7 @@
 ---
 layout: single
 title: BRK-B vs SPY
-excerpt: BRK-B의 최근 29년 4개월 CAGR은 11.0%로 SPY의 10.1%와 비슷했습니다.
+excerpt: BRK-B의 최근 29년 4개월 CAGR은 11.0%로 SPY의 10.2%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -32,14 +32,14 @@ BRK-B의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BRK-B | <span style="color: tomato">11.0<small>%</small></span> | 22.2<small>%</small> | 0.49 | -53.9<small>%</small> | -11.1<small>%</small> |
-| SPY | <span style="color: tomato">10.1<small>%</small></span> | 19.3<small>%</small> | 0.52 | -55.2<small>%</small> | -10.0<small>%</small> |
+| SPY | <span style="color: tomato">10.2<small>%</small></span> | 19.3<small>%</small> | 0.53 | -55.2<small>%</small> | -10.0<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** BRK-B의 CAGR은 11.0%로 SPY의 10.1%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** BRK-B의 CAGR은 11.0%로 SPY의 10.2%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** BRK-B의 표준편차는 22.2%로 SPY의 19.3%보다 2.9% 높았습니다. (높은 위험도)
 
@@ -75,9 +75,9 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BRK-B | <span style="color: tomato">11.0<small>%</small></span> | 22.2<small>%</small> | 0.49 | -53.9<small>%</small> | -11.1<small>%</small> |
-| SPY | <span style="color: tomato">10.1<small>%</small></span> | 19.3<small>%</small> | 0.52 | -55.2<small>%</small> | -10.0<small>%</small> |
+| SPY | <span style="color: tomato">10.2<small>%</small></span> | 19.3<small>%</small> | 0.53 | -55.2<small>%</small> | -10.0<small>%</small> |
 | SPY<sub>STD</sub> <small>(115%)</small> | <span style="color: tomato">11.4<small>%</small></span> | 22.2<small>%</small> | 0.51 | -60.9<small>%</small> | -11.8<small>%</small> |
-| SPY<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">9.9<small>%</small></span> | 18.9<small>%</small> | 0.53 | -54.2<small>%</small> | -9.8<small>%</small> |
+| SPY<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">10.0<small>%</small></span> | 18.9<small>%</small> | 0.53 | -54.2<small>%</small> | -9.8<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 **위험도 지표 (표준편차):** 115% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.4%로 BRK-B의 11.0%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 9.9%로 BRK-B의 11.0%보다 -1.0% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 10.0%로 BRK-B의 11.0%보다 -1.0% 낮았습니다. (낮은 수익률)
 
 
 

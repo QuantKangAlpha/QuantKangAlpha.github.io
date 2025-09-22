@@ -77,15 +77,15 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | SCHD | <span style="color: tomato">12.3<small>%</small></span> | 15.6<small>%</small> | 0.79 | -33.4<small>%</small> | -3.4<small>%</small> |
 | SPY | <span style="color: tomato">15.0<small>%</small></span> | 16.8<small>%</small> | 0.89 | -33.7<small>%</small> | -3.7<small>%</small> |
 | SPY<sub>STD</sub> <small>(92%)</small> | <span style="color: tomato">13.9<small>%</small></span> | 15.6<small>%</small> | 0.89 | -31.4<small>%</small> | -3.4<small>%</small> |
-| SPY<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">14.8<small>%</small></span> | 16.7<small>%</small> | 0.89 | -33.4<small>%</small> | -3.7<small>%</small> |
+| SPY<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">14.9<small>%</small></span> | 16.7<small>%</small> | 0.89 | -33.4<small>%</small> | -3.7<small>%</small> |
 
 
 
 각각의 경우를 SCHD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 92% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.9%로 SCHD의 12.3%보다 1.5% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 92% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.9%로 SCHD의 12.3%보다 1.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.8%로 SCHD의 12.3%보다 2.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.9%로 SCHD의 12.3%보다 2.5% 높았습니다. (높은 수익률)
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SPYG vs SPY
-excerpt: SPYG의 최근 24년 11개월 CAGR은 7.2%로 SPY의 8.2%보다 -1.0% 낮았습니다.
+excerpt: SPYG의 최근 24년 11개월 CAGR은 7.2%로 SPY의 8.3%보다 -1.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ SPYG의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPYG | <span style="color: tomato">7.2<small>%</small></span> | 21.6<small>%</small> | 0.33 | -67.6<small>%</small> | -24.9<small>%</small> |
-| SPY | <span style="color: tomato">8.2<small>%</small></span> | 19.3<small>%</small> | 0.43 | -55.2<small>%</small> | -10.2<small>%</small> |
+| SPY | <span style="color: tomato">8.3<small>%</small></span> | 19.3<small>%</small> | 0.43 | -55.2<small>%</small> | -10.2<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SPYG의 CAGR은 7.2%로 SPY의 8.2%보다 -1.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SPYG의 CAGR은 7.2%로 SPY의 8.3%보다 -1.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SPYG의 표준편차는 21.6%로 SPY의 19.3%보다 2.4% 높았습니다. (높은 위험도)
 
@@ -77,7 +77,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPYG | <span style="color: tomato">7.2<small>%</small></span> | 21.6<small>%</small> | 0.33 | -67.6<small>%</small> | -24.9<small>%</small> |
-| SPY | <span style="color: tomato">8.2<small>%</small></span> | 19.3<small>%</small> | 0.43 | -55.2<small>%</small> | -10.2<small>%</small> |
+| SPY | <span style="color: tomato">8.3<small>%</small></span> | 19.3<small>%</small> | 0.43 | -55.2<small>%</small> | -10.2<small>%</small> |
 | SPY<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">9.0<small>%</small></span> | 21.6<small>%</small> | 0.42 | -60.0<small>%</small> | -11.7<small>%</small> |
 | SPY<sub>MDD</sub> <small>(123%)</small> | <span style="color: tomato">9.6<small>%</small></span> | 23.6<small>%</small> | 0.41 | -63.7<small>%</small> | -13.0<small>%</small> |
 

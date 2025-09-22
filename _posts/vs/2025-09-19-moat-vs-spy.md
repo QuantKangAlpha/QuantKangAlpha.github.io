@@ -78,14 +78,14 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MOAT | <span style="color: tomato">13.9<small>%</small></span> | 17.6<small>%</small> | 0.79 | -33.3<small>%</small> | -3.8<small>%</small> |
 | SPY | <span style="color: tomato">14.4<small>%</small></span> | 16.8<small>%</small> | 0.86 | -33.7<small>%</small> | -3.8<small>%</small> |
-| SPY<sub>STD</sub> <small>(105%)</small> | <span style="color: tomato">15.0<small>%</small></span> | 17.6<small>%</small> | 0.85 | -35.2<small>%</small> | -4.0<small>%</small> |
+| SPY<sub>STD</sub> <small>(105%)</small> | <span style="color: tomato">15.1<small>%</small></span> | 17.6<small>%</small> | 0.85 | -35.2<small>%</small> | -4.0<small>%</small> |
 | SPY<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">14.2<small>%</small></span> | 16.6<small>%</small> | 0.86 | -33.4<small>%</small> | -3.7<small>%</small> |
 
 
 
 각각의 경우를 MOAT의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 105% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.0%로 MOAT의 13.9%보다 1.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 105% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.1%로 MOAT의 13.9%보다 1.2% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.2%로 MOAT의 13.9%와 비슷했습니다. (비슷한 수익률)
 

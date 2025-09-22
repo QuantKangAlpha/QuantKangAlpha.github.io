@@ -78,14 +78,14 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PRNHX | <span style="color: tomato">11.7<small>%</small></span> | 21.9<small>%</small> | 0.54 | -55.8<small>%</small> | -12.8<small>%</small> |
 | SPY | <span style="color: tomato">10.7<small>%</small></span> | 18.6<small>%</small> | 0.57 | -55.2<small>%</small> | -9.2<small>%</small> |
-| SPY<sub>STD</sub> <small>(118%)</small> | <span style="color: tomato">12.2<small>%</small></span> | 21.9<small>%</small> | 0.56 | -61.9<small>%</small> | -11.1<small>%</small> |
+| SPY<sub>STD</sub> <small>(118%)</small> | <span style="color: tomato">12.3<small>%</small></span> | 21.9<small>%</small> | 0.56 | -61.9<small>%</small> | -11.1<small>%</small> |
 | SPY<sub>MDD</sub> <small>(101%)</small> | <span style="color: tomato">10.8<small>%</small></span> | 18.8<small>%</small> | 0.57 | -55.6<small>%</small> | -9.3<small>%</small> |
 
 
 
 각각의 경우를 PRNHX의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 118% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.2%로 PRNHX의 11.7%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 118% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.3%로 PRNHX의 11.7%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 101% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 10.8%로 PRNHX의 11.7%와 비슷했습니다. (비슷한 수익률)
 

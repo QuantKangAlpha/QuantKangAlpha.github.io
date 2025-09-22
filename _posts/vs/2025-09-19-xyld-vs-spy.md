@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XYLD vs SPY
-excerpt: XYLD의 최근 12년 2개월 CAGR은 7.7%로 SPY의 14.4%보다 -6.8% 낮았습니다.
+excerpt: XYLD의 최근 12년 2개월 CAGR은 7.7%로 SPY의 14.5%보다 -6.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -32,14 +32,14 @@ XYLD의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XYLD | <span style="color: tomato">7.7<small>%</small></span> | 13.9<small>%</small> | 0.55 | -33.5<small>%</small> | -3.9<small>%</small> |
-| SPY | <span style="color: tomato">14.4<small>%</small></span> | 17.1<small>%</small> | 0.84 | -33.7<small>%</small> | -3.9<small>%</small> |
+| SPY | <span style="color: tomato">14.5<small>%</small></span> | 17.1<small>%</small> | 0.85 | -33.7<small>%</small> | -3.9<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XYLD의 CAGR은 7.7%로 SPY의 14.4%보다 -6.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XYLD의 CAGR은 7.7%로 SPY의 14.5%보다 -6.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XYLD의 표준편차는 13.9%로 SPY의 17.1%보다 -3.3% 낮았습니다. (낮은 위험도)
 
@@ -75,9 +75,9 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XYLD | <span style="color: tomato">7.7<small>%</small></span> | 13.9<small>%</small> | 0.55 | -33.5<small>%</small> | -3.9<small>%</small> |
-| SPY | <span style="color: tomato">14.4<small>%</small></span> | 17.1<small>%</small> | 0.84 | -33.7<small>%</small> | -3.9<small>%</small> |
+| SPY | <span style="color: tomato">14.5<small>%</small></span> | 17.1<small>%</small> | 0.85 | -33.7<small>%</small> | -3.9<small>%</small> |
 | SPY<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">11.8<small>%</small></span> | 13.9<small>%</small> | 0.85 | -28.0<small>%</small> | -3.1<small>%</small> |
-| SPY<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">14.3<small>%</small></span> | 17.0<small>%</small> | 0.84 | -33.5<small>%</small> | -3.9<small>%</small> |
+| SPY<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">14.4<small>%</small></span> | 17.0<small>%</small> | 0.85 | -33.5<small>%</small> | -3.9<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 **위험도 지표 (표준편차):** 81% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.8%로 XYLD의 7.7%보다 4.1% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.3%로 XYLD의 7.7%보다 6.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.4%로 XYLD의 7.7%보다 6.7% 높았습니다. (높은 수익률)
 
 
 

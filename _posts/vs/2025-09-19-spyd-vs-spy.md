@@ -77,7 +77,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | SPYD | <span style="color: tomato">8.6<small>%</small></span> | 20.0<small>%</small> | 0.43 | -46.4<small>%</small> | -6.5<small>%</small> |
 | SPY | <span style="color: tomato">14.5<small>%</small></span> | 18.0<small>%</small> | 0.80 | -33.7<small>%</small> | -4.5<small>%</small> |
 | SPY<sub>STD</sub> <small>(111%)</small> | <span style="color: tomato">15.9<small>%</small></span> | 20.0<small>%</small> | 0.80 | -36.8<small>%</small> | -5.0<small>%</small> |
-| SPY<sub>MDD</sub> <small>(138%)</small> | <span style="color: tomato">19.4<small>%</small></span> | 24.8<small>%</small> | 0.78 | -44.1<small>%</small> | -6.3<small>%</small> |
+| SPY<sub>MDD</sub> <small>(138%)</small> | <span style="color: tomato">19.5<small>%</small></span> | 24.8<small>%</small> | 0.78 | -44.1<small>%</small> | -6.3<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 **위험도 지표 (표준편차):** 111% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.9%로 SPYD의 8.6%보다 7.3% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 138% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.4%로 SPYD의 8.6%보다 10.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 138% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.5%로 SPYD의 8.6%보다 10.9% 높았습니다. (높은 수익률)
 
 
 
@@ -98,7 +98,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 지난 9년 10개월간 거치식으로 투자했다고 가정합니다.
 
 SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SPYD의 8.6%보다 9.0% 높았습니다.
+이 포트폴리오는 SPYD의 8.6%보다 9.1% 높았습니다.
 
 ### SPYD &lt; SPY
 {: .text-center}

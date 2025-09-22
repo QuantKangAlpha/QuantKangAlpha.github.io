@@ -78,16 +78,16 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FMAG | <span style="color: tomato">13.1<small>%</small></span> | 20.2<small>%</small> | 0.65 | -32.9<small>%</small> | -9.8<small>%</small> |
 | SPY | <span style="color: tomato">14.0<small>%</small></span> | 17.3<small>%</small> | 0.81 | -24.5<small>%</small> | -5.8<small>%</small> |
-| SPY<sub>STD</sub> <small>(117%)</small> | <span style="color: tomato">16.1<small>%</small></span> | 20.2<small>%</small> | 0.80 | -28.3<small>%</small> | -6.9<small>%</small> |
-| SPY<sub>MDD</sub> <small>(134%)</small> | <span style="color: tomato">18.4<small>%</small></span> | 23.3<small>%</small> | 0.79 | -32.2<small>%</small> | -8.1<small>%</small> |
+| SPY<sub>STD</sub> <small>(117%)</small> | <span style="color: tomato">16.2<small>%</small></span> | 20.2<small>%</small> | 0.80 | -28.3<small>%</small> | -6.9<small>%</small> |
+| SPY<sub>MDD</sub> <small>(134%)</small> | <span style="color: tomato">18.5<small>%</small></span> | 23.3<small>%</small> | 0.79 | -32.2<small>%</small> | -8.1<small>%</small> |
 
 
 
 각각의 경우를 FMAG의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 117% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.1%로 FMAG의 13.1%보다 3.0% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 117% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.2%로 FMAG의 13.1%보다 3.1% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 134% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.4%로 FMAG의 13.1%보다 5.3% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 134% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.5%로 FMAG의 13.1%보다 5.3% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 지난 4년 7개월간 거치식으로 투자했다고 가정합니다.
 
-SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 FMAG의 13.1%보다 4.1% 높았습니다.
+SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.4%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 FMAG의 13.1%보다 4.2% 높았습니다.
 
 ### FMAG &lt; SPY
 {: .text-center}

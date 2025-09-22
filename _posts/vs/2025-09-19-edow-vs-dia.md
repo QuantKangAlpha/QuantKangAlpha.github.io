@@ -32,7 +32,7 @@ EDOW의 수익률이 DIA보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | EDOW | <span style="color: tomato">10.9<small>%</small></span> | 18.1<small>%</small> | 0.60 | -33.7<small>%</small> | -4.3<small>%</small> |
-| DIA | <span style="color: tomato">11.7<small>%</small></span> | 18.7<small>%</small> | 0.62 | -36.7<small>%</small> | -4.5<small>%</small> |
+| DIA | <span style="color: tomato">11.7<small>%</small></span> | 18.7<small>%</small> | 0.63 | -36.7<small>%</small> | -4.5<small>%</small> |
 
 <!-- more -->
 
@@ -75,7 +75,7 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | EDOW | <span style="color: tomato">10.9<small>%</small></span> | 18.1<small>%</small> | 0.60 | -33.7<small>%</small> | -4.3<small>%</small> |
-| DIA | <span style="color: tomato">11.7<small>%</small></span> | 18.7<small>%</small> | 0.62 | -36.7<small>%</small> | -4.5<small>%</small> |
+| DIA | <span style="color: tomato">11.7<small>%</small></span> | 18.7<small>%</small> | 0.63 | -36.7<small>%</small> | -4.5<small>%</small> |
 | DIA<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">11.4<small>%</small></span> | 18.1<small>%</small> | 0.63 | -35.7<small>%</small> | -4.3<small>%</small> |
 | DIA<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">10.9<small>%</small></span> | 17.2<small>%</small> | 0.63 | -34.1<small>%</small> | -4.1<small>%</small> |
 
