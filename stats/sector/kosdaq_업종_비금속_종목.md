@@ -5,7 +5,7 @@ excerpt: KOSDAQ 비금속 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-09-19
+last_modified_at: 2025-09-22
 ---
 
 
@@ -16,20 +16,20 @@ last_modified_at: 2025-09-19
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [티씨케이](/064760/) | 25.8 | 3.6 | 0.9<small>%</small> | 34.5<small>%</small> |
-| [원익QnC](/074600/) | 11.8 | 1.3 | 0.4<small>%</small> | 20.4<small>%</small> |
-| 삼표시멘트 | 5.4 | 0.5 | 3.3<small>%</small> | 9.9<small>%</small> |
+| [티씨케이](/064760/) | 26.2 | 3.7 | 0.9<small>%</small> | 34.5<small>%</small> |
+| [원익QnC](/074600/) | 12.2 | 1.3 | 0.4<small>%</small> | 20.4<small>%</small> |
+| 삼표시멘트 | 5.3 | 0.5 | 3.4<small>%</small> | 9.9<small>%</small> |
 | 유진기업 | - | 0.3 | 5.0<small>%</small> | 7.8<small>%</small> |
 | SG | - | 2.1 | - | 7.7<small>%</small> |
-| 보광산업 | 23.3 | 1.2 | 4.5<small>%</small> | 5.3<small>%</small> |
+| 보광산업 | 22.8 | 1.2 | 4.6<small>%</small> | 5.3<small>%</small> |
 | 강동씨앤엘 | - | 0.6 | - | 3.2<small>%</small> |
 | 앤디포스 | - | 0.5 | - | 3.0<small>%</small> |
 | 자연과환경 | - | 0.9 | - | 1.7<small>%</small> |
-| 동국알앤에스 | 24.9 | 0.6 | 3.4<small>%</small> | 1.5<small>%</small> |
+| 동국알앤에스 | 24.8 | 0.6 | 3.4<small>%</small> | 1.5<small>%</small> |
 | 동양파일 | - | 0.3 | - | 1.2<small>%</small> |
-| 국영지앤엠 | 17.3 | 0.9 | 0.8<small>%</small> | 1.1<small>%</small> |
+| 국영지앤엠 | 17.1 | 0.9 | 0.8<small>%</small> | 1.1<small>%</small> |
 | 쎄노텍 | - | 1.1 | - | 1.1<small>%</small> |
-| 모헨즈 | 61.0 | 1.1 | - | 1.0<small>%</small> |
+| 모헨즈 | 62.1 | 1.1 | - | 1.0<small>%</small> |
 | 서산 | - | 0.5 | - | 0.6<small>%</small> |
 
 {% include commons/footnotes.md %}
