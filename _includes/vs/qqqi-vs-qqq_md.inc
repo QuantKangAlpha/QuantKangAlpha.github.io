@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [QQQI](/qqqi-vs-qqq/) | <span style="color: tomato">21.5<small>%</small></span> | 18.0<small>%</small> | 1.19 | -20.0<small>%</small> | -2.4<small>%</small> |
-| QQQ | <span style="color: tomato">24.0<small>%</small></span> | 21.7<small>%</small> | 1.10 | -22.8<small>%</small> | -3.6<small>%</small> |
+| [QQQI](/qqqi-vs-qqq/) | <span style="color: tomato">21.6<small>%</small></span> | 18.0<small>%</small> | 1.20 | -20.0<small>%</small> | -2.4<small>%</small> |
+| QQQ | <span style="color: tomato">24.2<small>%</small></span> | 21.7<small>%</small> | 1.11 | -22.8<small>%</small> | -3.5<small>%</small> |
