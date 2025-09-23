@@ -1,7 +1,7 @@
 ---
 layout: single
 title: QQQI vs QQQ
-excerpt: QQQI의 최근 1년 7개월 CAGR은 21.6%로 QQQ의 24.2%보다 -2.6% 낮았습니다.
+excerpt: QQQI의 최근 1년 7개월 CAGR은 21.6%로 QQQ의 24.3%보다 -2.6% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ QQQI의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | QQQI | <span style="color: tomato">21.6<small>%</small></span> | 18.0<small>%</small> | 1.20 | -20.0<small>%</small> | -2.4<small>%</small> |
-| QQQ | <span style="color: tomato">24.2<small>%</small></span> | 21.7<small>%</small> | 1.11 | -22.8<small>%</small> | -3.5<small>%</small> |
+| QQQ | <span style="color: tomato">24.3<small>%</small></span> | 21.7<small>%</small> | 1.12 | -22.8<small>%</small> | -3.5<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** QQQI의 CAGR은 21.6%로 QQQ의 24.2%보다 -2.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** QQQI의 CAGR은 21.6%로 QQQ의 24.3%보다 -2.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** QQQI의 표준편차는 18.0%로 QQQ의 21.7%보다 -3.7% 낮았습니다. (낮은 위험도)
 
@@ -77,9 +77,9 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | QQQI | <span style="color: tomato">21.6<small>%</small></span> | 18.0<small>%</small> | 1.20 | -20.0<small>%</small> | -2.4<small>%</small> |
-| QQQ | <span style="color: tomato">24.2<small>%</small></span> | 21.7<small>%</small> | 1.11 | -22.8<small>%</small> | -3.5<small>%</small> |
+| QQQ | <span style="color: tomato">24.3<small>%</small></span> | 21.7<small>%</small> | 1.12 | -22.8<small>%</small> | -3.5<small>%</small> |
 | QQQ<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">20.1<small>%</small></span> | 18.0<small>%</small> | 1.12 | -19.2<small>%</small> | -2.9<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">21.3<small>%</small></span> | 19.1<small>%</small> | 1.11 | -20.2<small>%</small> | -3.1<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">21.3<small>%</small></span> | 19.1<small>%</small> | 1.12 | -20.2<small>%</small> | -3.1<small>%</small> |
 
 
 

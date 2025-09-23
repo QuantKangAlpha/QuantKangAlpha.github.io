@@ -1,7 +1,7 @@
 ---
 layout: single
 title: FMAG vs QQQ
-excerpt: FMAG의 최근 4년 7개월 CAGR은 13.2%로 QQQ의 14.5%보다 -1.4% 낮았습니다.
+excerpt: FMAG의 최근 4년 7개월 CAGR은 13.2%로 QQQ의 14.6%보다 -1.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ FMAG의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FMAG | <span style="color: tomato">13.2<small>%</small></span> | 20.2<small>%</small> | 0.65 | -32.9<small>%</small> | -9.8<small>%</small> |
-| QQQ | <span style="color: tomato">14.5<small>%</small></span> | 22.9<small>%</small> | 0.64 | -35.1<small>%</small> | -9.6<small>%</small> |
+| QQQ | <span style="color: tomato">14.6<small>%</small></span> | 22.9<small>%</small> | 0.64 | -35.1<small>%</small> | -9.6<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** FMAG의 CAGR은 13.2%로 QQQ의 14.5%보다 -1.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** FMAG의 CAGR은 13.2%로 QQQ의 14.6%보다 -1.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** FMAG의 표준편차는 20.2%로 QQQ의 22.9%보다 -2.7% 낮았습니다. (낮은 위험도)
 
@@ -77,17 +77,17 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FMAG | <span style="color: tomato">13.2<small>%</small></span> | 20.2<small>%</small> | 0.65 | -32.9<small>%</small> | -9.8<small>%</small> |
-| QQQ | <span style="color: tomato">14.5<small>%</small></span> | 22.9<small>%</small> | 0.64 | -35.1<small>%</small> | -9.6<small>%</small> |
-| QQQ<sub>STD</sub> <small>(88%)</small> | <span style="color: tomato">13.0<small>%</small></span> | 20.2<small>%</small> | 0.65 | -31.4<small>%</small> | -8.4<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 21.4<small>%</small> | 0.64 | -33.2<small>%</small> | -8.9<small>%</small> |
+| QQQ | <span style="color: tomato">14.6<small>%</small></span> | 22.9<small>%</small> | 0.64 | -35.1<small>%</small> | -9.6<small>%</small> |
+| QQQ<sub>STD</sub> <small>(88%)</small> | <span style="color: tomato">13.1<small>%</small></span> | 20.2<small>%</small> | 0.65 | -31.4<small>%</small> | -8.4<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">13.8<small>%</small></span> | 21.4<small>%</small> | 0.64 | -33.2<small>%</small> | -8.9<small>%</small> |
 
 
 
 각각의 경우를 FMAG의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 88% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.0%로 FMAG의 13.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 88% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.1%로 FMAG의 13.2%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.7%로 FMAG의 13.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.8%로 FMAG의 13.2%와 비슷했습니다. (비슷한 수익률)
 
 
 

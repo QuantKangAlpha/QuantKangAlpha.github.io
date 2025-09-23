@@ -78,14 +78,14 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | TQQQ | <span style="color: tomato">42.5<small>%</small></span> | 61.0<small>%</small> | 0.70 | -81.7<small>%</small> | -18.9<small>%</small> |
 | QQQ | <span style="color: tomato">19.4<small>%</small></span> | 20.6<small>%</small> | 0.94 | -35.1<small>%</small> | -5.2<small>%</small> |
-| QQQ<sub>STD</sub> <small>(296%)</small> | <span style="color: tomato">48.8<small>%</small></span> | 61.0<small>%</small> | 0.80 | -79.7<small>%</small> | -17.1<small>%</small> |
+| QQQ<sub>STD</sub> <small>(296%)</small> | <span style="color: tomato">48.9<small>%</small></span> | 61.0<small>%</small> | 0.80 | -79.7<small>%</small> | -17.1<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(233%)</small> | <span style="color: tomato">41.2<small>%</small></span> | 47.9<small>%</small> | 0.86 | -69.0<small>%</small> | -13.0<small>%</small> |
 
 
 
 각각의 경우를 TQQQ의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 296% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 48.8%로 TQQQ의 42.5%보다 6.3% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 296% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 48.9%로 TQQQ의 42.5%보다 6.3% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 233% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 41.2%로 TQQQ의 42.5%보다 -1.4% 낮았습니다. (낮은 수익률)
 
