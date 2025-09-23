@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [LIG넥스원](/079550/#dart) | | [풍문또는보도에대한해명(미확정)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250922800577){:target="_blank"} |
-| [GS건설](/006360/#dart) | | [타인에대한채무보증결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250922800536){:target="_blank"} |
-| [키움증권](/039490/#dart) | | [[발행조건확정]증권신고서(채무증권)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250922000300){:target="_blank"} |
-| [SK](/034730/#dart) | | [동일인등출자계열회사와의상품ㆍ용역거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250922000296){:target="_blank"} |
-| [에코프로](/086520/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250922900506){:target="_blank"} |
+| [한진칼](/180640/#dart) | | [유형자산처분결정(종속회사의주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250923800349){:target="_blank"} |
+| [보로노이](/310210/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250923000310){:target="_blank"} |
+| [케이티앤지](/033780/#dart) | | [주식소각결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250923800333){:target="_blank"} |
+| [키움증권](/039490/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250923000302){:target="_blank"} |
+| [대한항공](/003490/#dart) | | [[기재정정]유형자산처분결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250923800331){:target="_blank"} |
