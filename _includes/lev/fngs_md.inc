@@ -1,8 +1,8 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| FNGS | | <span style="color: tomato">44.1<small>%</small></span> | - | - | - |
-| [FNGO](/fngo/) | 2<small>x</small> | <span style="color: tomato">80.6<small>%</small></span> | 8.0<small>%</small> | 5.4<small>%</small> | 13.0<small>%</small> |
-| [FNGG](/fngg/) | 2<small>x</small> | <span style="color: tomato">82.5<small>%</small></span> | 8.0<small>%</small> | 4.4<small>%</small> | 12.0<small>%</small> |
-| [FNGU](/fngu/) | 3<small>x</small> | <span style="color: tomato">51.7<small>%</small></span><sup><small>7개월</small></sup> | 16.7<small>%</small> | 8.1<small>%</small> | 23.4<small>%</small> |
+| FNGS | | <span style="color: tomato">42.1<small>%</small></span> | - | - | - |
+| [FNGO](/fngo/) | 2<small>x</small> | <span style="color: tomato">76.3<small>%</small></span> | 8.0<small>%</small> | 5.0<small>%</small> | 12.6<small>%</small> |
+| [FNGG](/fngg/) | 2<small>x</small> | <span style="color: tomato">75.2<small>%</small></span> | 8.0<small>%</small> | 5.7<small>%</small> | 13.2<small>%</small> |
+| [FNGU](/fngu/) | 3<small>x</small> | <span style="color: tomato">40.9<small>%</small></span><sup><small>7개월</small></sup> | 16.7<small>%</small> | 8.3<small>%</small> | 23.7<small>%</small> |
 | [FNGZ](/fngz/) | -2<small>x</small> | <span style="color: cornflowerblue">-44.8<small>%</small></span> | 17.1<small>%</small> | 2.8<small>%</small> | 19.4<small>%</small> |
-| [FNGD](/fngd/) | -3<small>x</small> | <span style="color: cornflowerblue">-77.7<small>%</small></span> | 41.5<small>%</small> | -14.1<small>%</small> | 33.3<small>%</small> |
+| [FNGD](/fngd/) | -3<small>x</small> | <span style="color: cornflowerblue">-76.7<small>%</small></span> | 41.6<small>%</small> | -14.4<small>%</small> | 33.2<small>%</small> |
