@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SOL 200 Top10](/411540-vs-395170/) | <span style="color: tomato">0.7<small>%</small></span> | 21.2<small>%</small> | 0.03 | -29.1<small>%</small> | -15.2<small>%</small> |
-| KODEX Top10동일가중 | <span style="color: tomato">0.7<small>%</small></span> | 21.1<small>%</small> | 0.03 | -27.4<small>%</small> | -14.7<small>%</small> |
+| [SOL 200 Top10](/411540-vs-395170/) | <span style="color: tomato">0.4<small>%</small></span> | 21.2<small>%</small> | 0.02 | -29.1<small>%</small> | -15.2<small>%</small> |
+| KODEX Top10동일가중 | <span style="color: tomato">0.9<small>%</small></span> | 21.1<small>%</small> | 0.04 | -27.4<small>%</small> | -14.7<small>%</small> |

@@ -5,4 +5,4 @@
 | [YINN](/yinn/) | 3<small>x</small> | <span style="color: tomato">102.8<small>%</small></span> | 30.1<small>%</small> | 12.5<small>%</small> | 38.9<small>%</small> |
 | [YXI](/yxi/) | -1<small>x</small> | <span style="color: cornflowerblue">-36.6<small>%</small></span> | 11.3<small>%</small> | -6.6<small>%</small> | 5.4<small>%</small> |
 | [FXP](/fxp/) | -2<small>x</small> | <span style="color: cornflowerblue">-65.3<small>%</small></span> | 30.5<small>%</small> | -11.1<small>%</small> | 22.8<small>%</small> |
-| [YANG](/yang/) | -3<small>x</small> | <span style="color: cornflowerblue">-83.2<small>%</small></span> | 52.3<small>%</small> | -16.7<small>%</small> | 44.3<small>%</small> |
+| [YANG](/yang/) | -3<small>x</small> | <span style="color: cornflowerblue">-83.1<small>%</small></span> | 52.3<small>%</small> | -17.8<small>%</small> | 43.8<small>%</small> |
