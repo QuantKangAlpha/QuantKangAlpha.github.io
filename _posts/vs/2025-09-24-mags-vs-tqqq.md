@@ -1,7 +1,7 @@
 ---
 layout: single
 title: MAGS vs TQQQ
-excerpt: MAGS의 최근 2년 5개월 CAGR은 49.3%로 TQQQ의 74.0%보다 -24.7% 낮았습니다.
+excerpt: MAGS의 최근 2년 5개월 CAGR은 49.3%로 TQQQ의 74.1%보다 -24.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ MAGS의 수익률이 TQQQ보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MAGS | <span style="color: tomato">49.3<small>%</small></span> | 27.0<small>%</small> | 1.82 | -29.9<small>%</small> | -4.6<small>%</small> |
-| TQQQ | <span style="color: tomato">74.0<small>%</small></span> | 59.4<small>%</small> | 1.25 | -58.0<small>%</small> | -11.7<small>%</small> |
+| TQQQ | <span style="color: tomato">74.1<small>%</small></span> | 59.4<small>%</small> | 1.25 | -58.0<small>%</small> | -11.7<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** MAGS의 CAGR은 49.3%로 TQQQ의 74.0%보다 -24.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** MAGS의 CAGR은 49.3%로 TQQQ의 74.1%보다 -24.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** MAGS의 표준편차는 27.0%로 TQQQ의 59.4%보다 -32.4% 낮았습니다. (낮은 위험도)
 
@@ -77,7 +77,7 @@ TQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TQQ
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MAGS | <span style="color: tomato">49.3<small>%</small></span> | 27.0<small>%</small> | 1.82 | -29.9<small>%</small> | -4.6<small>%</small> |
-| TQQQ | <span style="color: tomato">74.0<small>%</small></span> | 59.4<small>%</small> | 1.25 | -58.0<small>%</small> | -11.7<small>%</small> |
+| TQQQ | <span style="color: tomato">74.1<small>%</small></span> | 59.4<small>%</small> | 1.25 | -58.0<small>%</small> | -11.7<small>%</small> |
 | TQQQ<sub>STD</sub> <small>(46%)</small> | <span style="color: tomato">34.4<small>%</small></span> | 27.0<small>%</small> | 1.27 | -30.9<small>%</small> | -4.9<small>%</small> |
 | TQQQ<sub>MDD</sub> <small>(52%)</small> | <span style="color: tomato">39.0<small>%</small></span> | 30.6<small>%</small> | 1.27 | -34.4<small>%</small> | -5.6<small>%</small> |
 

@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [삼성 나스닥 100 ETN](/530120-vs-379810/) | <span style="color: tomato">25.2<small>%</small></span> | 25.5<small>%</small> | 0.99 | -24.3<small>%</small> | -5.0<small>%</small> |
-| KODEX 미국나스닥100 | <span style="color: tomato">25.9<small>%</small></span> | 23.9<small>%</small> | 1.09 | -24.3<small>%</small> | -4.9<small>%</small> |
+| [삼성 나스닥 100 ETN](/530120-vs-379810/) | <span style="color: tomato">25.3<small>%</small></span> | 25.4<small>%</small> | 0.99 | -24.3<small>%</small> | -5.0<small>%</small> |
+| KODEX 미국나스닥100 | <span style="color: tomato">25.6<small>%</small></span> | 23.8<small>%</small> | 1.07 | -24.3<small>%</small> | -4.9<small>%</small> |

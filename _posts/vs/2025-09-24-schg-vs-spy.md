@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SCHG vs SPY
-excerpt: SCHG의 최근 15년 8개월 CAGR은 16.5%로 SPY의 13.9%보다 2.5% 높았습니다.
+excerpt: SCHG의 최근 15년 8개월 CAGR은 16.5%로 SPY의 13.9%보다 2.6% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ SCHG의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SCHG의 CAGR은 16.5%로 SPY의 13.9%보다 2.5% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SCHG의 CAGR은 16.5%로 SPY의 13.9%보다 2.6% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SCHG의 표준편차는 19.8%로 SPY의 17.2%보다 2.6% 높았습니다. (높은 위험도)
 
