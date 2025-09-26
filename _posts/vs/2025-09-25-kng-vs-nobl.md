@@ -1,7 +1,7 @@
 ---
 layout: single
 title: KNG vs NOBL
-excerpt: KNG의 최근 7년 6개월 CAGR은 8.4%로 NOBL의 9.3%와 비슷했습니다.
+excerpt: KNG의 최근 7년 6개월 CAGR은 8.5%로 NOBL의 9.3%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ KNG의 수익률이 NOBL보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| KNG | <span style="color: tomato">8.4<small>%</small></span> | 17.6<small>%</small> | 0.48 | -35.1<small>%</small> | -4.2<small>%</small> |
+| KNG | <span style="color: tomato">8.5<small>%</small></span> | 17.6<small>%</small> | 0.48 | -35.1<small>%</small> | -4.2<small>%</small> |
 | NOBL | <span style="color: tomato">9.3<small>%</small></span> | 18.1<small>%</small> | 0.51 | -35.4<small>%</small> | -4.2<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ KNG의 수익률이 NOBL보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** KNG의 CAGR은 8.4%로 NOBL의 9.3%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** KNG의 CAGR은 8.5%로 NOBL의 9.3%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** KNG의 표준편차는 17.6%로 NOBL의 18.1%와 비슷했습니다. (비슷한 위험도)
 
@@ -76,7 +76,7 @@ NOBL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NOB
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| KNG | <span style="color: tomato">8.4<small>%</small></span> | 17.6<small>%</small> | 0.48 | -35.1<small>%</small> | -4.2<small>%</small> |
+| KNG | <span style="color: tomato">8.5<small>%</small></span> | 17.6<small>%</small> | 0.48 | -35.1<small>%</small> | -4.2<small>%</small> |
 | NOBL | <span style="color: tomato">9.3<small>%</small></span> | 18.1<small>%</small> | 0.51 | -35.4<small>%</small> | -4.2<small>%</small> |
 | NOBL<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">9.1<small>%</small></span> | 17.6<small>%</small> | 0.51 | -34.6<small>%</small> | -4.1<small>%</small> |
 | NOBL<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">9.2<small>%</small></span> | 17.9<small>%</small> | 0.51 | -35.2<small>%</small> | -4.2<small>%</small> |
@@ -85,9 +85,9 @@ NOBL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NOB
 
 각각의 경우를 KNG의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 97% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 9.1%로 KNG의 8.4%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 97% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 9.1%로 KNG의 8.5%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 9.2%로 KNG의 8.4%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 9.2%로 KNG의 8.5%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -100,7 +100,7 @@ NOBL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NOB
 지난 7년 6개월간 거치식으로 투자했다고 가정합니다.
 
 NOBL의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 9.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 KNG의 8.4%와 비슷했습니다.
+이 포트폴리오는 KNG의 8.5%와 비슷했습니다.
 
 ### KNG ≒ NOBL
 {: .text-center}
