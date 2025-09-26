@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [IWMY](/iwmy-vs-iwm/) | <span style="color: tomato">14.5<small>%</small></span> | 15.1<small>%</small> | 0.96 | -18.7<small>%</small> | -2.9<small>%</small> |
-| IWM | <span style="color: tomato">23.6<small>%</small></span> | 22.4<small>%</small> | 1.05 | -27.5<small>%</small> | -6.0<small>%</small> |
+| [IWMY](/iwmy-vs-iwm/) | <span style="color: tomato">13.0<small>%</small></span> | 15.2<small>%</small> | 0.86 | -18.7<small>%</small> | -2.9<small>%</small> |
+| IWM | <span style="color: tomato">22.9<small>%</small></span> | 22.4<small>%</small> | 1.02 | -27.5<small>%</small> | -5.9<small>%</small> |
