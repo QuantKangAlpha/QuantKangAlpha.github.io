@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [NOBL](/nobl-vs-idvo/) | <span style="color: tomato">6.4<small>%</small></span> | 14.4<small>%</small> | 0.45 | -15.4<small>%</small> | -3.8<small>%</small> |
-| IDVO | <span style="color: tomato">20.6<small>%</small></span> | 16.0<small>%</small> | 1.28 | -15.5<small>%</small> | -2.4<small>%</small> |
+| [NOBL](/nobl-vs-idvo/) | <span style="color: tomato">6.8<small>%</small></span> | 14.4<small>%</small> | 0.47 | -15.4<small>%</small> | -3.8<small>%</small> |
+| IDVO | <span style="color: tomato">20.7<small>%</small></span> | 16.0<small>%</small> | 1.29 | -15.5<small>%</small> | -2.4<small>%</small> |
