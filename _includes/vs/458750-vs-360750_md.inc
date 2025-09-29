@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국배당다우존스타겟커버드콜1호](/458750-vs-360750/) | <span style="color: tomato">10.9<small>%</small></span> | 13.9<small>%</small> | 0.79 | -13.7<small>%</small> | -3.6<small>%</small> |
-| TIGER 미국S&P500 | <span style="color: tomato">26.2<small>%</small></span> | 16.0<small>%</small> | 1.64 | -19.1<small>%</small> | -2.4<small>%</small> |
+| [TIGER 미국배당다우존스타겟커버드콜1호](/458750-vs-360750/) | <span style="color: tomato">10.8<small>%</small></span> | 13.9<small>%</small> | 0.78 | -13.7<small>%</small> | -3.6<small>%</small> |
+| TIGER 미국S&P500 | <span style="color: tomato">26.0<small>%</small></span> | 15.9<small>%</small> | 1.63 | -19.1<small>%</small> | -2.4<small>%</small> |
