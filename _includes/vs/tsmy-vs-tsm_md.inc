@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TSMY](/tsmy-vs-tsm/) | <span style="color: tomato">36.1<small>%</small></span> | 33.8<small>%</small> | 1.07 | -31.2<small>%</small> | -6.7<small>%</small> |
-| TSM | <span style="color: tomato">55.0<small>%</small></span> | 41.9<small>%</small> | 1.31 | -36.8<small>%</small> | -8.4<small>%</small> |
+| [TSMY](/tsmy-vs-tsm/) | <span style="color: tomato">35.9<small>%</small></span> | 33.7<small>%</small> | 1.06 | -31.2<small>%</small> | -6.7<small>%</small> |
+| TSM | <span style="color: tomato">54.4<small>%</small></span> | 41.8<small>%</small> | 1.30 | -36.8<small>%</small> | -8.4<small>%</small> |

@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 미국배당100데일리고정커버드콜](/490600-vs-483290/) | <span style="color: tomato">4.1<small>%</small></span> | 16.1<small>%</small> | 0.26 | -12.6<small>%</small> | -4.7<small>%</small> |
-| KODEX 미국배당다우존스타겟커버드콜 | <span style="color: tomato">0.7<small>%</small></span> | 16.6<small>%</small> | 0.04 | -14.7<small>%</small> | -6.1<small>%</small> |
+| [RISE 미국배당100데일리고정커버드콜](/490600-vs-483290/) | <span style="color: tomato">3.4<small>%</small></span> | 16.1<small>%</small> | 0.21 | -12.6<small>%</small> | -4.6<small>%</small> |
+| KODEX 미국배당다우존스타겟커버드콜 | <span style="color: tomato">0.1<small>%</small></span> | 16.6<small>%</small> | 0.00 | -14.7<small>%</small> | -6.2<small>%</small> |
