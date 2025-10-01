@@ -78,14 +78,14 @@ RYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, RYL
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | IWMY | <span style="color: tomato">14.7<small>%</small></span> | 15.1<small>%</small> | 0.98 | -18.7<small>%</small> | -2.9<small>%</small> |
 | RYLD | <span style="color: tomato">8.7<small>%</small></span> | 13.6<small>%</small> | 0.64 | -19.0<small>%</small> | -3.2<small>%</small> |
-| RYLD<sub>STD</sub> <small>(111%)</small> | <span style="color: tomato">9.6<small>%</small></span> | 15.1<small>%</small> | 0.63 | -20.9<small>%</small> | -3.5<small>%</small> |
+| RYLD<sub>STD</sub> <small>(111%)</small> | <span style="color: tomato">9.5<small>%</small></span> | 15.1<small>%</small> | 0.63 | -20.9<small>%</small> | -3.5<small>%</small> |
 | RYLD<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">8.6<small>%</small></span> | 13.4<small>%</small> | 0.64 | -18.7<small>%</small> | -3.1<small>%</small> |
 
 
 
 각각의 경우를 IWMY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 111% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 9.6%로 IWMY의 14.7%보다 -5.2% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 111% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 9.5%로 IWMY의 14.7%보다 -5.2% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 8.6%로 IWMY의 14.7%보다 -6.1% 낮았습니다. (낮은 수익률)
 
