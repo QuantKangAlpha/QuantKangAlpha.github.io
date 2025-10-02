@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX MSCI모멘텀](/275280-vs-069500/) | <span style="color: tomato">10.2<small>%</small></span> | 21.2<small>%</small> | 0.48 | -43.8<small>%</small> | -14.5<small>%</small> |
-| KODEX 200 | <span style="color: tomato">7.5<small>%</small></span> | 18.9<small>%</small> | 0.40 | -38.1<small>%</small> | -13.1<small>%</small> |
+| [KODEX MSCI모멘텀](/275280-vs-069500/) | <span style="color: tomato">10.5<small>%</small></span> | 21.3<small>%</small> | 0.49 | -43.8<small>%</small> | -14.5<small>%</small> |
+| KODEX 200 | <span style="color: tomato">7.9<small>%</small></span> | 18.9<small>%</small> | 0.42 | -38.1<small>%</small> | -13.1<small>%</small> |

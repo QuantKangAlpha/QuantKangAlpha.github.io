@@ -2,4 +2,4 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | XBI | | <span style="color: tomato">3.5<small>%</small></span> | - | - | - |
 | [LABU](/labu/) | 3<small>x</small> | <span style="color: cornflowerblue">-21.9<small>%</small></span> | 20.8<small>%</small> | 11.1<small>%</small> | 29.7<small>%</small> |
-| [LABD](/labd/) | -3<small>x</small> | <span style="color: cornflowerblue">-33.8<small>%</small></span> | 36.6<small>%</small> | -16.0<small>%</small> | 26.5<small>%</small> |
+| [LABD](/labd/) | -3<small>x</small> | <span style="color: cornflowerblue">-32.7<small>%</small></span> | 36.6<small>%</small> | -17.9<small>%</small> | 25.3<small>%</small> |
