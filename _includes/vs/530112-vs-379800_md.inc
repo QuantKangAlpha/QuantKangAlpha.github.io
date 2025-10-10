@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [삼성 S&P500 ETN](/530112-vs-379800/) | <span style="color: tomato">26.4<small>%</small></span> | 16.0<small>%</small> | 1.65 | -19.1<small>%</small> | -2.4<small>%</small> |
-| KODEX 미국S&P500 | <span style="color: tomato">25.9<small>%</small></span> | 15.9<small>%</small> | 1.63 | -19.2<small>%</small> | -2.4<small>%</small> |
+| [삼성 S&P500 ETN](/530112-vs-379800/) | <span style="color: tomato">27.1<small>%</small></span> | 16.0<small>%</small> | 1.69 | -19.1<small>%</small> | -2.4<small>%</small> |
+| KODEX 미국S&P500 | <span style="color: tomato">26.7<small>%</small></span> | 15.9<small>%</small> | 1.68 | -19.2<small>%</small> | -2.4<small>%</small> |
