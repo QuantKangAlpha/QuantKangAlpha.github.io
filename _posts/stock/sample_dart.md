@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [카카오페이](/377300/#dart) | | [주식등의대량보유상황보고서(약식)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251010000399){:target="_blank"} |
-| [하나마이크론](/067310/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251010000394){:target="_blank"} |
-| [NH투자증권](/005940/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251010000381){:target="_blank"} |
-| [씨아이에스](/222080/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251010900452){:target="_blank"} |
-| [한화오션](/042660/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251010800428){:target="_blank"} |
+| [기아](/000270/#dart) | | [특수관계인으로부터기타유가증권매수](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000340){:target="_blank"} |
+| [젬백스](/082270/#dart) | | [[기재정정]최대주주변경을수반하는주식담보제공계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900591){:target="_blank"} |
+| [휴젤](/145020/#dart) | | [기타경영사항(자율공시)              (양도제한조건부주식(RSU) 도입 및 자기주식 교부 예고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900567){:target="_blank"} |
+| [에코프로비엠](/247540/#dart) | | [기업설명회(IR)개최              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900588){:target="_blank"} |
+| [삼성물산](/028260/#dart) | | [단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800557){:target="_blank"} |
