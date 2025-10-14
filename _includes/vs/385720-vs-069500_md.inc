@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIMEFOLIO 코스피액티브](/385720-vs-069500/) | <span style="color: tomato">6.0<small>%</small></span> | 19.0<small>%</small> | 0.32 | -31.0<small>%</small> | -12.9<small>%</small> |
-| KODEX 200 | <span style="color: tomato">6.1<small>%</small></span> | 18.3<small>%</small> | 0.33 | -34.3<small>%</small> | -15.8<small>%</small> |
+| [TIMEFOLIO 코스피액티브](/385720-vs-069500/) | <span style="color: tomato">5.6<small>%</small></span> | 19.0<small>%</small> | 0.30 | -31.0<small>%</small> | -12.9<small>%</small> |
+| KODEX 200 | <span style="color: tomato">5.8<small>%</small></span> | 18.3<small>%</small> | 0.32 | -34.3<small>%</small> | -15.8<small>%</small> |
