@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [기아](/000270/#dart) | | [특수관계인으로부터기타유가증권매수](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013000340){:target="_blank"} |
-| [젬백스](/082270/#dart) | | [[기재정정]최대주주변경을수반하는주식담보제공계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900591){:target="_blank"} |
-| [휴젤](/145020/#dart) | | [기타경영사항(자율공시)              (양도제한조건부주식(RSU) 도입 및 자기주식 교부 예고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900567){:target="_blank"} |
-| [에코프로비엠](/247540/#dart) | | [기업설명회(IR)개최              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013900588){:target="_blank"} |
-| [삼성물산](/028260/#dart) | | [단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251013800557){:target="_blank"} |
+| [SKC](/011790/#dart) | | [주주명부폐쇄기간또는기준일설정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014800639){:target="_blank"} |
+| [메지온](/140410/#dart) | | [소송등의제기ㆍ신청(일정금액이상의청구)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014900635){:target="_blank"} |
+| [하나금융지주](/086790/#dart) | | [타법인주식및출자증권취득결정(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014800617){:target="_blank"} |
+| [젬백스](/082270/#dart) | | [소송등의제기ㆍ신청(일정금액이상의청구)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014900616){:target="_blank"} |
+| [더블유씨피](/393890/#dart) | | [임원ㆍ주요주주특정증권등거래계획보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014000366){:target="_blank"} |
