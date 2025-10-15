@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [SKC](/011790/#dart) | | [주주명부폐쇄기간또는기준일설정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014800639){:target="_blank"} |
-| [메지온](/140410/#dart) | | [소송등의제기ㆍ신청(일정금액이상의청구)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014900635){:target="_blank"} |
-| [하나금융지주](/086790/#dart) | | [타법인주식및출자증권취득결정(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014800617){:target="_blank"} |
-| [젬백스](/082270/#dart) | | [소송등의제기ㆍ신청(일정금액이상의청구)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014900616){:target="_blank"} |
-| [더블유씨피](/393890/#dart) | | [임원ㆍ주요주주특정증권등거래계획보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251014000366){:target="_blank"} |
+| [젬백스](/082270/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251015000332){:target="_blank"} |
+| [키움증권](/039490/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251015000328){:target="_blank"} |
+| [종근당](/185750/#dart) | | [유상증자또는주식관련사채등의발행결과(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251015800511){:target="_blank"} |
+| [유진테크](/084370/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251015000318){:target="_blank"} |
+| [DL이앤씨](/375500/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251015000316){:target="_blank"} |
