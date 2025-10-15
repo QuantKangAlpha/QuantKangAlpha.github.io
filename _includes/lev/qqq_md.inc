@@ -1,9 +1,9 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| QQQ | | <span style="color: tomato">21.7<small>%</small></span> | - | - | - |
-| [QLD](/qld/) | 2<small>x</small> | <span style="color: tomato">32.2<small>%</small></span> | 5.3<small>%</small> | 5.8<small>%</small> | 10.8<small>%</small> |
-| [TQQQ](/tqqq/) | 3<small>x</small> | <span style="color: tomato">37.0<small>%</small></span> | 15.0<small>%</small> | 10.6<small>%</small> | 24.0<small>%</small> |
-| [QQQ5.L](/qqq5/) | 5<small>x</small> | <span style="color: tomato">10.6<small>%</small></span> | 41.1<small>%</small> | 29.6<small>%</small> | 58.5<small>%</small> |
-| [PSQ](/psq/) | -1<small>x</small> | <span style="color: cornflowerblue">-16.0<small>%</small></span> | 5.4<small>%</small> | -8.1<small>%</small> | -2.2<small>%</small> |
-| [QID](/qid/) | -2<small>x</small> | <span style="color: cornflowerblue">-35.8<small>%</small></span> | 15.7<small>%</small> | -12.9<small>%</small> | 4.8<small>%</small> |
-| [SQQQ](/sqqq/) | -3<small>x</small> | <span style="color: cornflowerblue">-54.1<small>%</small></span> | 29.6<small>%</small> | -17.8<small>%</small> | 17.1<small>%</small> |
+| QQQ | | <span style="color: tomato">20.9<small>%</small></span> | - | - | - |
+| [QLD](/qld/) | 2<small>x</small> | <span style="color: tomato">30.3<small>%</small></span> | 5.3<small>%</small> | 5.8<small>%</small> | 10.8<small>%</small> |
+| [TQQQ](/tqqq/) | 3<small>x</small> | <span style="color: tomato">34.1<small>%</small></span> | 15.0<small>%</small> | 10.7<small>%</small> | 24.0<small>%</small> |
+| [QQQ5.L](/qqq5/) | 5<small>x</small> | <span style="color: tomato">6.6<small>%</small></span> | 41.1<small>%</small> | 29.8<small>%</small> | 58.7<small>%</small> |
+| [PSQ](/psq/) | -1<small>x</small> | <span style="color: cornflowerblue">-15.4<small>%</small></span> | 5.4<small>%</small> | -8.1<small>%</small> | -2.3<small>%</small> |
+| [QID](/qid/) | -2<small>x</small> | <span style="color: cornflowerblue">-34.9<small>%</small></span> | 15.7<small>%</small> | -12.9<small>%</small> | 4.8<small>%</small> |
+| [SQQQ](/sqqq/) | -3<small>x</small> | <span style="color: cornflowerblue">-53.1<small>%</small></span> | 29.6<small>%</small> | -17.7<small>%</small> | 17.1<small>%</small> |

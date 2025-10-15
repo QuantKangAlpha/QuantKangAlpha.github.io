@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [BALI](/bali-vs-gpiq/) | <span style="color: tomato">24.5<small>%</small></span> | 13.6<small>%</small> | 1.80 | -16.6<small>%</small> | -1.8<small>%</small> |
-| GPIQ | <span style="color: tomato">29.0<small>%</small></span> | 18.2<small>%</small> | 1.60 | -21.1<small>%</small> | -2.4<small>%</small> |
+| [BALI](/bali-vs-gpiq/) | <span style="color: tomato">24.4<small>%</small></span> | 13.6<small>%</small> | 1.79 | -16.6<small>%</small> | -1.8<small>%</small> |
+| GPIQ | <span style="color: tomato">28.5<small>%</small></span> | 18.1<small>%</small> | 1.57 | -21.1<small>%</small> | -2.4<small>%</small> |
