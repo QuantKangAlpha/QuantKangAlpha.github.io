@@ -1,7 +1,7 @@
 ---
 layout: single
 title: HOOY vs Robinhood Markets Inc (HOOD)
-excerpt: HOOY의 최근 5개월 CAGR은 271.4%로 Robinhood Markets Inc (HOOD)의 650.2%보다 -378.8% 낮았습니다.
+excerpt: HOOY의 최근 5개월 CAGR은 351.2%로 Robinhood Markets Inc (HOOD)의 650.2%보다 -299.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ HOOY의 수익률이 HOOD보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| HOOY | <span style="color: tomato">271.4<small>%</small></span> | 46.3<small>%</small> | 5.87 | -19.4<small>%</small> | -2.2<small>%</small> |
+| HOOY | <span style="color: tomato">351.2<small>%</small></span> | 43.5<small>%</small> | 8.07 | -12.2<small>%</small> | -2.1<small>%</small> |
 | HOOD | <span style="color: tomato">650.2<small>%</small></span> | 58.6<small>%</small> | 11.09 | -13.8<small>%</small> | -2.9<small>%</small> |
 
 <!-- more -->
@@ -41,11 +41,11 @@ HOOY의 수익률이 HOOD보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** HOOY의 CAGR은 271.4%로 HOOD의 650.2%보다 -378.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** HOOY의 CAGR은 351.2%로 HOOD의 650.2%보다 -299.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** HOOY의 표준편차는 46.3%로 HOOD의 58.6%보다 -12.4% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** HOOY의 표준편차는 43.5%로 HOOD의 58.6%보다 -15.1% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** HOOY의 19.4%의 MDD는 HOOD의 13.8%보다 5.7% 높았습니다. (높은 위험도)
+**위험도 지표 (MDD):** HOOY의 12.2%의 MDD는 HOOD의 13.8%보다 -1.6% 낮았습니다. (낮은 위험도)
 
 
 
@@ -54,9 +54,9 @@ HOOY의 수익률이 HOOD보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 HOOD의 투자 비중[^fn_vs_weight]을 조절하여 HOOY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 58.6% / 46.3% = 79% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 58.6% / 43.5% = 74% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 13.8% / 19.4% = 141% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 13.8% / 12.2% = 89% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -76,18 +76,18 @@ HOOD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, HOO
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| HOOY | <span style="color: tomato">271.4<small>%</small></span> | 46.3<small>%</small> | 5.87 | -19.4<small>%</small> | -2.2<small>%</small> |
+| HOOY | <span style="color: tomato">351.2<small>%</small></span> | 43.5<small>%</small> | 8.07 | -12.2<small>%</small> | -2.1<small>%</small> |
 | HOOD | <span style="color: tomato">650.2<small>%</small></span> | 58.6<small>%</small> | 11.09 | -13.8<small>%</small> | -2.9<small>%</small> |
-| HOOD<sub>STD</sub> <small>(79%)</small> | <span style="color: tomato">404.3<small>%</small></span> | 46.3<small>%</small> | 8.74 | -11.0<small>%</small> | -2.3<small>%</small> |
-| HOOD<sub>MDD</sub> <small>(141%)</small> | <span style="color: tomato">1457.1<small>%</small></span> | 82.7<small>%</small> | 17.62 | -19.1<small>%</small> | -4.1<small>%</small> |
+| HOOD<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">360.9<small>%</small></span> | 43.5<small>%</small> | 8.29 | -10.3<small>%</small> | -2.2<small>%</small> |
+| HOOD<sub>MDD</sub> <small>(89%)</small> | <span style="color: tomato">507.7<small>%</small></span> | 52.0<small>%</small> | 9.76 | -12.3<small>%</small> | -2.6<small>%</small> |
 
 
 
 각각의 경우를 HOOY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 404.3%로 HOOY의 271.4%보다 132.9% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 74% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 360.9%로 HOOY의 351.2%보다 9.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 141% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1457.1%로 HOOY의 271.4%보다 1185.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 89% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 507.7%로 HOOY의 351.2%보다 156.6% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ HOOD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, HOO
 
 지난 5개월간 거치식으로 투자했다고 가정합니다.
 
-HOOD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 930.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 HOOY의 271.4%보다 659.3% 높았습니다.
+HOOD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 434.3%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 HOOY의 351.2%보다 83.2% 높았습니다.
 
 ### HOOY &lt; HOOD
 {: .text-center}
