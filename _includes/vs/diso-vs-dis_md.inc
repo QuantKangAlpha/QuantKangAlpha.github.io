@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [DISO](/diso-vs-dis/) | <span style="color: tomato">8.4<small>%</small></span> | 21.0<small>%</small> | 0.40 | -26.6<small>%</small> | -7.4<small>%</small> |
-| DIS | <span style="color: tomato">14.6<small>%</small></span> | 27.4<small>%</small> | 0.53 | -32.9<small>%</small> | -10.6<small>%</small> |
+| [DISO](/diso-vs-dis/) | <span style="color: tomato">9.5<small>%</small></span> | 20.9<small>%</small> | 0.46 | -26.6<small>%</small> | -7.4<small>%</small> |
+| DIS | <span style="color: tomato">15.0<small>%</small></span> | 27.3<small>%</small> | 0.55 | -32.9<small>%</small> | -10.6<small>%</small> |
