@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [성일하이텍](/365340/#dart) | | [[첨부추가]주요사항보고서(전환사채권발행결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251017000299){:target="_blank"} |
-| [고려아연](/010130/#dart) | | [증권신고서(채무증권)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251017000408){:target="_blank"} |
-| [실리콘투](/257720/#dart) | | [타법인주식및출자증권처분결정(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251017900406){:target="_blank"} |
-| [한화오션](/042660/#dart) | | [생산중단              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251017800439){:target="_blank"} |
-| [대한항공](/003490/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251017000402){:target="_blank"} |
+| [NH투자증권](/005940/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020000263){:target="_blank"} |
+| [엘앤에프](/066970/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020000246){:target="_blank"} |
+| [HD현대](/267250/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020800469){:target="_blank"} |
+| [HD한국조선해양](/009540/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020800456){:target="_blank"} |
+| [카카오페이](/377300/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020800412){:target="_blank"} |
