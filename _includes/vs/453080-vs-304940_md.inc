@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KIWOOM 미국나스닥100(H)](/453080-vs-304940/) | <span style="color: tomato">30.1<small>%</small></span> | 21.5<small>%</small> | 1.40 | -25.7<small>%</small> | -3.1<small>%</small> |
-| KODEX 미국나스닥100선물(H) | <span style="color: tomato">27.4<small>%</small></span> | 21.4<small>%</small> | 1.28 | -26.1<small>%</small> | -3.3<small>%</small> |
+| [KIWOOM 미국나스닥100(H)](/453080-vs-304940/) | <span style="color: tomato">30.4<small>%</small></span> | 21.5<small>%</small> | 1.41 | -25.7<small>%</small> | -3.1<small>%</small> |
+| KODEX 미국나스닥100선물(H) | <span style="color: tomato">27.6<small>%</small></span> | 21.4<small>%</small> | 1.29 | -26.1<small>%</small> | -3.3<small>%</small> |
