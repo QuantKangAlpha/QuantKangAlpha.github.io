@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [NH투자증권](/005940/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020000263){:target="_blank"} |
-| [엘앤에프](/066970/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020000246){:target="_blank"} |
-| [HD현대](/267250/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020800469){:target="_blank"} |
-| [HD한국조선해양](/009540/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020800456){:target="_blank"} |
-| [카카오페이](/377300/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251020800412){:target="_blank"} |
+| [한미약품](/128940/#dart) | | [결산실적공시예고(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251022800560){:target="_blank"} |
+| [SK](/034730/#dart) | | [영업정지(종속회사의주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251022800554){:target="_blank"} |
+| [동서](/026960/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251022000353){:target="_blank"} |
+| [원익QnC](/074600/#dart) | | [유상증자결정(종속회사의주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251022900546){:target="_blank"} |
+| [한미사이언스](/008930/#dart) | | [결산실적공시예고(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251022800533){:target="_blank"} |
