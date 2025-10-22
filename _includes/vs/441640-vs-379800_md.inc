@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국배당커버드콜액티브](/441640-vs-379800/) | <span style="color: tomato">15.9<small>%</small></span> | 13.2<small>%</small> | 1.21 | -13.7<small>%</small> | -3.4<small>%</small> |
-| KODEX 미국S&P500 | <span style="color: tomato">23.1<small>%</small></span> | 16.0<small>%</small> | 1.44 | -19.2<small>%</small> | -2.8<small>%</small> |
+| [KODEX 미국배당커버드콜액티브](/441640-vs-379800/) | <span style="color: tomato">16.1<small>%</small></span> | 13.2<small>%</small> | 1.22 | -13.7<small>%</small> | -3.3<small>%</small> |
+| KODEX 미국S&P500 | <span style="color: tomato">23.2<small>%</small></span> | 16.0<small>%</small> | 1.45 | -19.2<small>%</small> | -2.8<small>%</small> |
