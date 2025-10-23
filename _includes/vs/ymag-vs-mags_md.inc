@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [YMAG](/ymag-vs-mags/) | <span style="color: tomato">28.9<small>%</small></span> | 22.0<small>%</small> | 1.31 | -26.0<small>%</small> | -4.7<small>%</small> |
-| MAGS | <span style="color: tomato">43.1<small>%</small></span> | 29.2<small>%</small> | 1.48 | -29.9<small>%</small> | -5.7<small>%</small> |
+| [YMAG](/ymag-vs-mags/) | <span style="color: tomato">29.4<small>%</small></span> | 22.0<small>%</small> | 1.34 | -26.0<small>%</small> | -4.7<small>%</small> |
+| MAGS | <span style="color: tomato">43.7<small>%</small></span> | 29.2<small>%</small> | 1.50 | -29.9<small>%</small> | -5.7<small>%</small> |
