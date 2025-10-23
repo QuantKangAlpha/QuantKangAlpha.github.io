@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 미국500데일리타겟커버드콜(합성)](/480030-vs-379800/) | <span style="color: tomato">21.3<small>%</small></span> | 16.2<small>%</small> | 1.31 | -17.1<small>%</small> | -3.6<small>%</small> |
-| KODEX 미국S&P500 | <span style="color: tomato">26.3<small>%</small></span> | 18.4<small>%</small> | 1.43 | -19.2<small>%</small> | -3.0<small>%</small> |
+| [ACE 미국500데일리타겟커버드콜(합성)](/480030-vs-379800/) | <span style="color: tomato">21.2<small>%</small></span> | 16.2<small>%</small> | 1.31 | -17.1<small>%</small> | -3.6<small>%</small> |
+| KODEX 미국S&P500 | <span style="color: tomato">26.3<small>%</small></span> | 18.3<small>%</small> | 1.44 | -19.2<small>%</small> | -3.0<small>%</small> |
