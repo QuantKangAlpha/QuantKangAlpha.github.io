@@ -1,7 +1,7 @@
 ---
 layout: single
 title: BRKC vs BRK-B
-excerpt: BRKC의 최근 4개월 CAGR은 -0.2%로 BRK-B의 0.8%와 비슷했습니다.
+excerpt: BRKC의 최근 4개월 CAGR은 0.7%로 BRK-B의 0.8%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ BRKC의 수익률이 BRK-B보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BRKC | <span style="color: cornflowerblue">-0.2<small>%</small></span> | 11.0<small>%</small> | -0.02 | -6.1<small>%</small> | -2.0<small>%</small> |
+| BRKC | <span style="color: tomato">0.7<small>%</small></span> | 11.0<small>%</small> | 0.06 | -6.1<small>%</small> | -2.0<small>%</small> |
 | BRK-B | <span style="color: tomato">0.8<small>%</small></span> | 13.0<small>%</small> | 0.06 | -7.0<small>%</small> | -2.4<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ BRKC의 수익률이 BRK-B보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** BRKC의 CAGR은 -0.2%로 BRK-B의 0.8%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** BRKC의 CAGR은 0.7%로 BRK-B의 0.8%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** BRKC의 표준편차는 11.0%로 BRK-B의 13.0%보다 -2.1% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ BRK-B<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BR
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BRKC | <span style="color: cornflowerblue">-0.2<small>%</small></span> | 11.0<small>%</small> | -0.02 | -6.1<small>%</small> | -2.0<small>%</small> |
+| BRKC | <span style="color: tomato">0.7<small>%</small></span> | 11.0<small>%</small> | 0.06 | -6.1<small>%</small> | -2.0<small>%</small> |
 | BRK-B | <span style="color: tomato">0.8<small>%</small></span> | 13.0<small>%</small> | 0.06 | -7.0<small>%</small> | -2.4<small>%</small> |
 | BRK-B<sub>STD</sub> <small>(84%)</small> | <span style="color: tomato">0.8<small>%</small></span> | 11.0<small>%</small> | 0.07 | -5.9<small>%</small> | -2.0<small>%</small> |
 | BRK-B<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">0.8<small>%</small></span> | 11.5<small>%</small> | 0.07 | -6.1<small>%</small> | -2.1<small>%</small> |
@@ -85,9 +85,9 @@ BRK-B<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BR
 
 각각의 경우를 BRKC의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 84% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 0.8%로 BRKC의 -0.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 84% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 0.8%로 BRKC의 0.7%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 88% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 0.8%로 BRKC의 -0.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 88% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 0.8%로 BRKC의 0.7%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -100,7 +100,7 @@ BRK-B<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BR
 지난 4개월간 거치식으로 투자했다고 가정합니다.
 
 BRK-B의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 0.8%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 BRKC의 -0.2%와 비슷했습니다.
+이 포트폴리오는 BRKC의 0.7%와 비슷했습니다.
 
 ### BRKC ≒ BRK-B
 {: .text-center}

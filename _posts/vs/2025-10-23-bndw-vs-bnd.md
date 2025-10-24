@@ -78,7 +78,7 @@ BND<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BND<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BNDW | <span style="color: tomato">2.0<small>%</small></span> | 5.0<small>%</small> | 0.40 | -17.2<small>%</small> | -5.3<small>%</small> |
 | BND | <span style="color: tomato">2.1<small>%</small></span> | 6.2<small>%</small> | 0.34 | -18.6<small>%</small> | -6.1<small>%</small> |
-| BND<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">1.7<small>%</small></span> | 5.0<small>%</small> | 0.35 | -15.2<small>%</small> | -4.9<small>%</small> |
+| BND<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">1.7<small>%</small></span> | 5.0<small>%</small> | 0.35 | -15.1<small>%</small> | -4.9<small>%</small> |
 | BND<sub>MDD</sub> <small>(93%)</small> | <span style="color: tomato">2.0<small>%</small></span> | 5.8<small>%</small> | 0.34 | -17.3<small>%</small> | -5.7<small>%</small> |
 
 

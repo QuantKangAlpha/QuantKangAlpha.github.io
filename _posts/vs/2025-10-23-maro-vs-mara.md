@@ -1,7 +1,7 @@
 ---
 layout: single
 title: MARO vs MARA Holdings Inc (MARA)
-excerpt: MARO의 최근 10개월 CAGR은 -24.6%로 MARA Holdings Inc (MARA)의 -17.9%보다 -6.7% 낮았습니다.
+excerpt: MARO의 최근 10개월 CAGR은 -22.8%로 MARA Holdings Inc (MARA)의 -17.9%보다 -4.9% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ MARO의 수익률이 MARA보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MARO | <span style="color: cornflowerblue">-24.6<small>%</small></span> | 64.2<small>%</small> | -0.38 | -54.1<small>%</small> | -31.4<small>%</small> |
+| MARO | <span style="color: cornflowerblue">-22.8<small>%</small></span> | 64.2<small>%</small> | -0.35 | -54.1<small>%</small> | -31.4<small>%</small> |
 | MARA | <span style="color: cornflowerblue">-17.9<small>%</small></span> | 81.1<small>%</small> | -0.22 | -57.2<small>%</small> | -33.2<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ MARO의 수익률이 MARA보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** MARO의 CAGR은 -24.6%로 MARA의 -17.9%보다 -6.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** MARO의 CAGR은 -22.8%로 MARA의 -17.9%보다 -4.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** MARO의 표준편차는 64.2%로 MARA의 81.1%보다 -16.9% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ MARA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MAR
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MARO | <span style="color: cornflowerblue">-24.6<small>%</small></span> | 64.2<small>%</small> | -0.38 | -54.1<small>%</small> | -31.4<small>%</small> |
+| MARO | <span style="color: cornflowerblue">-22.8<small>%</small></span> | 64.2<small>%</small> | -0.35 | -54.1<small>%</small> | -31.4<small>%</small> |
 | MARA | <span style="color: cornflowerblue">-17.9<small>%</small></span> | 81.1<small>%</small> | -0.22 | -57.2<small>%</small> | -33.2<small>%</small> |
 | MARA<sub>STD</sub> <small>(79%)</small> | <span style="color: cornflowerblue">-9.8<small>%</small></span> | 64.2<small>%</small> | -0.15 | -47.9<small>%</small> | -25.8<small>%</small> |
 | MARA<sub>MDD</sub> <small>(94%)</small> | <span style="color: cornflowerblue">-15.6<small>%</small></span> | 76.6<small>%</small> | -0.20 | -54.9<small>%</small> | -31.2<small>%</small> |
@@ -85,9 +85,9 @@ MARA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MAR
 
 각각의 경우를 MARO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -9.8%로 MARO의 -24.6%보다 14.8% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -9.8%로 MARO의 -22.8%보다 13.0% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -15.6%로 MARO의 -24.6%보다 9.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -15.6%로 MARO의 -22.8%보다 7.2% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ MARA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MAR
 지난 10개월간 거치식으로 투자했다고 가정합니다.
 
 MARA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 -12.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 MARO의 -24.6%보다 11.9% 높았습니다.
+이 포트폴리오는 MARO의 -22.8%보다 10.1% 높았습니다.
 
 ### MARO &lt; MARA
 {: .text-center}
