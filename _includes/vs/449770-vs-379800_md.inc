@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KIWOOM 미국S&P500](/449770-vs-379800/) | <span style="color: tomato">28.6<small>%</small></span> | 15.6<small>%</small> | 1.83 | -19.2<small>%</small> | -2.2<small>%</small> |
-| KODEX 미국S&P500 | <span style="color: tomato">28.7<small>%</small></span> | 15.6<small>%</small> | 1.84 | -19.2<small>%</small> | -2.1<small>%</small> |
+| [KIWOOM 미국S&P500](/449770-vs-379800/) | <span style="color: tomato">29.0<small>%</small></span> | 15.6<small>%</small> | 1.86 | -19.2<small>%</small> | -2.2<small>%</small> |
+| KODEX 미국S&P500 | <span style="color: tomato">29.0<small>%</small></span> | 15.6<small>%</small> | 1.87 | -19.2<small>%</small> | -2.1<small>%</small> |
