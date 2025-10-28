@@ -34,7 +34,7 @@ CSHI의 수익률이 BIL보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | CSHI | <span style="color: tomato">5.5<small>%</small></span> | 1.4<small>%</small> | 3.96 | -1.7<small>%</small> | -0.0<small>%</small> |
-| BIL | <span style="color: tomato">4.6<small>%</small></span> | 0.3<small>%</small> | 18.08 | -0.0<small>%</small> | -0.0<small>%</small> |
+| BIL | <span style="color: tomato">4.6<small>%</small></span> | 0.3<small>%</small> | 18.07 | -0.0<small>%</small> | -0.0<small>%</small> |
 
 <!-- more -->
 
@@ -56,7 +56,7 @@ CSHI의 수익률이 BIL보다 지속적으로 우세하면 상승하고, 반대
 
 **위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 0.3% / 1.4% = 545% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 0.0% / 1.7% = 6176% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 0.0% / 1.7% = 6180% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -77,9 +77,9 @@ BIL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BIL<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | CSHI | <span style="color: tomato">5.5<small>%</small></span> | 1.4<small>%</small> | 3.96 | -1.7<small>%</small> | -0.0<small>%</small> |
-| BIL | <span style="color: tomato">4.6<small>%</small></span> | 0.3<small>%</small> | 18.08 | -0.0<small>%</small> | -0.0<small>%</small> |
-| BIL<sub>STD</sub> <small>(545%)</small> | <span style="color: tomato">28.0<small>%</small></span> | 1.4<small>%</small> | 20.03 | -0.1<small>%</small> | -0.0<small>%</small> |
-| BIL<sub>MDD</sub> <small>(6176%)</small> | <span style="color: tomato">1501.8<small>%</small></span> | 15.9<small>%</small> | 94.73 | -1.7<small>%</small> | -0.0<small>%</small> |
+| BIL | <span style="color: tomato">4.6<small>%</small></span> | 0.3<small>%</small> | 18.07 | -0.0<small>%</small> | -0.0<small>%</small> |
+| BIL<sub>STD</sub> <small>(545%)</small> | <span style="color: tomato">28.0<small>%</small></span> | 1.4<small>%</small> | 20.02 | -0.1<small>%</small> | -0.0<small>%</small> |
+| BIL<sub>MDD</sub> <small>(6180%)</small> | <span style="color: tomato">1504.8<small>%</small></span> | 15.9<small>%</small> | 94.85 | -1.7<small>%</small> | -0.0<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ BIL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BIL<
 
 **위험도 지표 (표준편차):** 545% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 28.0%로 CSHI의 5.5%보다 22.5% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 6176% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1501.8%로 CSHI의 5.5%보다 1496.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 6180% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1504.8%로 CSHI의 5.5%보다 1499.3% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ BIL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BIL<
 
 지난 3년 1개월간 거치식으로 투자했다고 가정합니다.
 
-BIL의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 764.9%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 CSHI의 5.5%보다 759.4% 높았습니다.
+BIL의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 766.4%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 CSHI의 5.5%보다 760.9% 높았습니다.
 
 ### CSHI &lt; BIL
 {: .text-center}

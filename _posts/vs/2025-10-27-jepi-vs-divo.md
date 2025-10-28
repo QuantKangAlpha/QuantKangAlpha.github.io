@@ -34,7 +34,7 @@ JEPI의 수익률이 DIVO보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">11.8<small>%</small></span> | 11.0<small>%</small> | 1.08 | -13.7<small>%</small> | -2.1<small>%</small> |
-| DIVO | <span style="color: tomato">15.0<small>%</small></span> | 12.5<small>%</small> | 1.19 | -13.7<small>%</small> | -2.3<small>%</small> |
+| DIVO | <span style="color: tomato">15.0<small>%</small></span> | 12.6<small>%</small> | 1.19 | -13.7<small>%</small> | -2.3<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ JEPI의 수익률이 DIVO보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** JEPI의 CAGR은 11.8%로 DIVO의 15.0%보다 -3.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** JEPI의 표준편차는 11.0%로 DIVO의 12.5%보다 -1.6% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** JEPI의 표준편차는 11.0%로 DIVO의 12.6%보다 -1.6% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** JEPI의 13.7%의 MDD는 DIVO의 13.7%와 비슷했습니다. (비슷한 위험도)
 
@@ -54,7 +54,7 @@ JEPI의 수익률이 DIVO보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 DIVO의 투자 비중[^fn_vs_weight]을 조절하여 JEPI의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 12.5% / 11.0% = 87% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 12.6% / 11.0% = 87% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 13.7% / 13.7% = 100% 비중으로 투자하면 됩니다.
 
@@ -77,7 +77,7 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">11.8<small>%</small></span> | 11.0<small>%</small> | 1.08 | -13.7<small>%</small> | -2.1<small>%</small> |
-| DIVO | <span style="color: tomato">15.0<small>%</small></span> | 12.5<small>%</small> | 1.19 | -13.7<small>%</small> | -2.3<small>%</small> |
+| DIVO | <span style="color: tomato">15.0<small>%</small></span> | 12.6<small>%</small> | 1.19 | -13.7<small>%</small> | -2.3<small>%</small> |
 | DIVO<sub>STD</sub> <small>(87%)</small> | <span style="color: tomato">13.1<small>%</small></span> | 11.0<small>%</small> | 1.19 | -12.0<small>%</small> | -2.0<small>%</small> |
 | DIVO<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">15.0<small>%</small></span> | 12.5<small>%</small> | 1.19 | -13.7<small>%</small> | -2.3<small>%</small> |
 
