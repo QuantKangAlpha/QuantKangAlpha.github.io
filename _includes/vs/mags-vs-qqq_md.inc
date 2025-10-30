@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [MAGS](/mags-vs-qqq/) | <span style="color: tomato">50.4<small>%</small></span> | 26.8<small>%</small> | 1.88 | -29.9<small>%</small> | -4.5<small>%</small> |
-| QQQ | <span style="color: tomato">32.1<small>%</small></span> | 19.9<small>%</small> | 1.62 | -22.8<small>%</small> | -3.0<small>%</small> |
+| [MAGS](/mags-vs-qqq/) | <span style="color: tomato">50.9<small>%</small></span> | 26.8<small>%</small> | 1.90 | -29.9<small>%</small> | -4.5<small>%</small> |
+| QQQ | <span style="color: tomato">32.3<small>%</small></span> | 19.9<small>%</small> | 1.63 | -22.8<small>%</small> | -3.0<small>%</small> |
