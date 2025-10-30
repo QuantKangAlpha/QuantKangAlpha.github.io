@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [SK하이닉스](/000660/#dart) | | [현금ㆍ현물배당결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251029800738){:target="_blank"} |
-| [삼성물산](/028260/#dart) | | [중대재해발생              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251029800723){:target="_blank"} |
-| [GS리테일](/007070/#dart) | | [결산실적공시예고(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251029800724){:target="_blank"} |
-| [고려아연](/010130/#dart) | | [소송등의판결ㆍ결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251029800715){:target="_blank"} |
-| [현대엘리베이터](/017800/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251029000373){:target="_blank"} |
+| [팬오션](/028670/#dart) | | [단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251030800675){:target="_blank"} |
+| [삼성전자](/005930/#dart) | | [특수관계인에대한증여](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251030000495){:target="_blank"} |
+| [천보](/278280/#dart) | | [타인에대한담보제공결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251030900687){:target="_blank"} |
+| [BNK금융지주](/138930/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251030800663){:target="_blank"} |
+| [안랩](/053800/#dart) | | [주요사항보고서(자기주식취득결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251030000473){:target="_blank"} |
