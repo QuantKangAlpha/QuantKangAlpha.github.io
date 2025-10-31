@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NVDY vs NVIDIA Corp (NVDA)
-excerpt: NVDY의 최근 2년 5개월 CAGR은 75.8%로 NVIDIA Corp (NVDA)의 121.0%보다 -45.2% 낮았습니다.
+excerpt: NVDY의 최근 2년 5개월 CAGR은 76.5%로 NVIDIA Corp (NVDA)의 121.0%보다 -44.5% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ NVDY의 수익률이 NVDA보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NVDY | <span style="color: tomato">75.8<small>%</small></span> | 39.8<small>%</small> | 1.90 | -34.1<small>%</small> | -6.2<small>%</small> |
+| NVDY | <span style="color: tomato">76.5<small>%</small></span> | 39.8<small>%</small> | 1.92 | -34.1<small>%</small> | -6.2<small>%</small> |
 | NVDA | <span style="color: tomato">121.0<small>%</small></span> | 50.9<small>%</small> | 2.38 | -36.9<small>%</small> | -7.4<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ NVDY의 수익률이 NVDA보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** NVDY의 CAGR은 75.8%로 NVDA의 121.0%보다 -45.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** NVDY의 CAGR은 76.5%로 NVDA의 121.0%보다 -44.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** NVDY의 표준편차는 39.8%로 NVDA의 50.9%보다 -11.1% 낮았습니다. (낮은 위험도)
 
@@ -76,18 +76,18 @@ NVDA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NVD
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NVDY | <span style="color: tomato">75.8<small>%</small></span> | 39.8<small>%</small> | 1.90 | -34.1<small>%</small> | -6.2<small>%</small> |
+| NVDY | <span style="color: tomato">76.5<small>%</small></span> | 39.8<small>%</small> | 1.92 | -34.1<small>%</small> | -6.2<small>%</small> |
 | NVDA | <span style="color: tomato">121.0<small>%</small></span> | 50.9<small>%</small> | 2.38 | -36.9<small>%</small> | -7.4<small>%</small> |
-| NVDA<sub>STD</sub> <small>(78%)</small> | <span style="color: tomato">90.0<small>%</small></span> | 39.8<small>%</small> | 2.26 | -29.5<small>%</small> | -5.6<small>%</small> |
+| NVDA<sub>STD</sub> <small>(78%)</small> | <span style="color: tomato">89.9<small>%</small></span> | 39.8<small>%</small> | 2.26 | -29.5<small>%</small> | -5.6<small>%</small> |
 | NVDA<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">110.0<small>%</small></span> | 47.1<small>%</small> | 2.34 | -34.4<small>%</small> | -6.8<small>%</small> |
 
 
 
 각각의 경우를 NVDY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 78% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 90.0%로 NVDY의 75.8%보다 14.2% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 78% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 89.9%로 NVDY의 76.5%보다 13.4% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 110.0%로 NVDY의 75.8%보다 34.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 110.0%로 NVDY의 76.5%보다 33.5% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ NVDA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NVD
 지난 2년 5개월간 거치식으로 투자했다고 가정합니다.
 
 NVDA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 100.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 NVDY의 75.8%보다 24.2% 높았습니다.
+이 포트폴리오는 NVDY의 76.5%보다 23.4% 높았습니다.
 
 ### NVDY &lt; NVDA
 {: .text-center}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: DIVO vs IDVO
-excerpt: DIVO의 최근 3년 1개월 CAGR은 13.8%로 IDVO의 20.7%보다 -6.9% 낮았습니다.
+excerpt: DIVO의 최근 3년 1개월 CAGR은 14.0%로 IDVO의 20.9%보다 -6.9% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,15 +33,15 @@ DIVO의 수익률이 IDVO보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DIVO | <span style="color: tomato">13.8<small>%</small></span> | 11.6<small>%</small> | 1.19 | -12.1<small>%</small> | -2.0<small>%</small> |
-| IDVO | <span style="color: tomato">20.7<small>%</small></span> | 16.0<small>%</small> | 1.30 | -15.5<small>%</small> | -2.3<small>%</small> |
+| DIVO | <span style="color: tomato">14.0<small>%</small></span> | 11.6<small>%</small> | 1.21 | -12.1<small>%</small> | -2.0<small>%</small> |
+| IDVO | <span style="color: tomato">20.9<small>%</small></span> | 16.0<small>%</small> | 1.31 | -15.5<small>%</small> | -2.3<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** DIVO의 CAGR은 13.8%로 IDVO의 20.7%보다 -6.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** DIVO의 CAGR은 14.0%로 IDVO의 20.9%보다 -6.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** DIVO의 표준편차는 11.6%로 IDVO의 16.0%보다 -4.4% 낮았습니다. (낮은 위험도)
 
@@ -76,18 +76,18 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DIVO | <span style="color: tomato">13.8<small>%</small></span> | 11.6<small>%</small> | 1.19 | -12.1<small>%</small> | -2.0<small>%</small> |
-| IDVO | <span style="color: tomato">20.7<small>%</small></span> | 16.0<small>%</small> | 1.30 | -15.5<small>%</small> | -2.3<small>%</small> |
-| IDVO<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">14.9<small>%</small></span> | 11.6<small>%</small> | 1.29 | -11.4<small>%</small> | -1.7<small>%</small> |
-| IDVO<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">16.2<small>%</small></span> | 12.5<small>%</small> | 1.29 | -12.3<small>%</small> | -1.8<small>%</small> |
+| DIVO | <span style="color: tomato">14.0<small>%</small></span> | 11.6<small>%</small> | 1.21 | -12.1<small>%</small> | -2.0<small>%</small> |
+| IDVO | <span style="color: tomato">20.9<small>%</small></span> | 16.0<small>%</small> | 1.31 | -15.5<small>%</small> | -2.3<small>%</small> |
+| IDVO<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">15.0<small>%</small></span> | 11.6<small>%</small> | 1.30 | -11.4<small>%</small> | -1.7<small>%</small> |
+| IDVO<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">16.3<small>%</small></span> | 12.5<small>%</small> | 1.30 | -12.3<small>%</small> | -1.8<small>%</small> |
 
 
 
 각각의 경우를 DIVO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.9%로 DIVO의 13.8%보다 1.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.0%로 DIVO의 14.0%보다 1.1% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 78% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.2%로 DIVO의 13.8%보다 2.4% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 78% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.3%로 DIVO의 14.0%보다 2.4% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 
 지난 3년 1개월간 거치식으로 투자했다고 가정합니다.
 
-IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 15.5%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 DIVO의 13.8%보다 1.7% 높았습니다.
+IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 15.7%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 DIVO의 14.0%보다 1.7% 높았습니다.
 
 ### DIVO &lt; IDVO
 {: .text-center}

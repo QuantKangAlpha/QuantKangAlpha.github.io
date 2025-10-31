@@ -1,7 +1,7 @@
 ---
 layout: single
 title: TSMY vs Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM)
-excerpt: TSMY의 최근 1년 2개월 CAGR은 41.7%로 Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM)의 63.8%보다 -22.1% 낮았습니다.
+excerpt: TSMY의 최근 1년 2개월 CAGR은 42.8%로 Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM)의 63.8%보다 -21.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ TSMY의 수익률이 TSM보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSMY | <span style="color: tomato">41.7<small>%</small></span> | 34.1<small>%</small> | 1.22 | -31.2<small>%</small> | -6.3<small>%</small> |
+| TSMY | <span style="color: tomato">42.8<small>%</small></span> | 34.1<small>%</small> | 1.26 | -31.2<small>%</small> | -6.3<small>%</small> |
 | TSM | <span style="color: tomato">63.8<small>%</small></span> | 42.0<small>%</small> | 1.52 | -36.8<small>%</small> | -7.9<small>%</small> |
 
 <!-- more -->
@@ -41,9 +41,9 @@ TSMY의 수익률이 TSM보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** TSMY의 CAGR은 41.7%로 TSM의 63.8%보다 -22.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** TSMY의 CAGR은 42.8%로 TSM의 63.8%보다 -21.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** TSMY의 표준편차는 34.1%로 TSM의 42.0%보다 -7.9% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** TSMY의 표준편차는 34.1%로 TSM의 42.0%보다 -8.0% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** TSMY의 31.2%의 MDD는 TSM의 36.8%보다 -5.7% 낮았습니다. (낮은 위험도)
 
@@ -76,18 +76,18 @@ TSM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSM<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSMY | <span style="color: tomato">41.7<small>%</small></span> | 34.1<small>%</small> | 1.22 | -31.2<small>%</small> | -6.3<small>%</small> |
+| TSMY | <span style="color: tomato">42.8<small>%</small></span> | 34.1<small>%</small> | 1.26 | -31.2<small>%</small> | -6.3<small>%</small> |
 | TSM | <span style="color: tomato">63.8<small>%</small></span> | 42.0<small>%</small> | 1.52 | -36.8<small>%</small> | -7.9<small>%</small> |
-| TSM<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">51.3<small>%</small></span> | 34.1<small>%</small> | 1.50 | -30.8<small>%</small> | -6.4<small>%</small> |
+| TSM<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">51.3<small>%</small></span> | 34.1<small>%</small> | 1.50 | -30.7<small>%</small> | -6.4<small>%</small> |
 | TSM<sub>MDD</sub> <small>(85%)</small> | <span style="color: tomato">53.6<small>%</small></span> | 35.6<small>%</small> | 1.51 | -31.9<small>%</small> | -6.7<small>%</small> |
 
 
 
 각각의 경우를 TSMY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 81% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 51.3%로 TSMY의 41.7%보다 9.6% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 81% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 51.3%로 TSMY의 42.8%보다 8.5% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 85% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 53.6%로 TSMY의 41.7%보다 11.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 85% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 53.6%로 TSMY의 42.8%보다 10.8% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ TSM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSM<
 지난 1년 2개월간 거치식으로 투자했다고 가정합니다.
 
 TSM의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 52.4%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 TSMY의 41.7%보다 10.8% 높았습니다.
+이 포트폴리오는 TSMY의 42.8%보다 9.7% 높았습니다.
 
 ### TSMY &lt; TSM
 {: .text-center}
