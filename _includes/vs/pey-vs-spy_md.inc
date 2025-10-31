@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | [PEY](/pey-vs-spy/) | <span style="color: tomato">6.0<small>%</small></span> | 22.4<small>%</small> | 0.27 | -72.8<small>%</small> | -13.1<small>%</small> |
-| SPY | <span style="color: tomato">10.8<small>%</small></span> | 19.0<small>%</small> | 0.57 | -55.2<small>%</small> | -7.2<small>%</small> |
+| SPY | <span style="color: tomato">10.7<small>%</small></span> | 19.0<small>%</small> | 0.57 | -55.2<small>%</small> | -7.2<small>%</small> |

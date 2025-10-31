@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PRNHX](/prnhx-vs-qqq/) | <span style="color: tomato">11.0<small>%</small></span> | 22.9<small>%</small> | 0.48 | -55.8<small>%</small> | -14.4<small>%</small> |
+| [PRNHX](/prnhx-vs-qqq/) | <span style="color: tomato">19.6<small>%</small></span> | 25.1<small>%</small> | 0.78 | -53.0<small>%</small> | -10.4<small>%</small> |
 | QQQ | <span style="color: tomato">10.6<small>%</small></span> | 27.0<small>%</small> | 0.39 | -83.0<small>%</small> | -33.4<small>%</small> |

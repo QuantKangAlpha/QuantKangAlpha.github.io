@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ONEV](/onev-vs-iwb/) | <span style="color: tomato">10.7<small>%</small></span> | 17.2<small>%</small> | 0.62 | -39.7<small>%</small> | -4.1<small>%</small> |
-| IWB | <span style="color: tomato">14.6<small>%</small></span> | 18.2<small>%</small> | 0.80 | -34.6<small>%</small> | -4.7<small>%</small> |
+| [ONEV](/onev-vs-iwb/) | <span style="color: tomato">10.6<small>%</small></span> | 17.2<small>%</small> | 0.62 | -39.7<small>%</small> | -4.1<small>%</small> |
+| IWB | <span style="color: tomato">14.5<small>%</small></span> | 18.2<small>%</small> | 0.79 | -34.6<small>%</small> | -4.7<small>%</small> |
