@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [NFLY](/nfly-vs-nflx/) | <span style="color: tomato">36.3<small>%</small></span> | 27.7<small>%</small> | 1.31 | -21.4<small>%</small> | -4.1<small>%</small> |
-| NFLX | <span style="color: tomato">50.4<small>%</small></span> | 32.7<small>%</small> | 1.54 | -22.8<small>%</small> | -5.0<small>%</small> |
+| [NFLY](/nfly-vs-nflx/) | <span style="color: tomato">37.5<small>%</small></span> | 27.7<small>%</small> | 1.36 | -21.4<small>%</small> | -4.1<small>%</small> |
+| NFLX | <span style="color: tomato">52.2<small>%</small></span> | 32.7<small>%</small> | 1.60 | -22.8<small>%</small> | -5.0<small>%</small> |
