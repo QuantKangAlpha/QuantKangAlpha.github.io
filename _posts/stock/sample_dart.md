@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [두산](/000150/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251103800521){:target="_blank"} |
-| [SK](/034730/#dart) | | [지주회사의자회사탈퇴(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251103800497){:target="_blank"} |
-| [한미약품](/128940/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251103000203){:target="_blank"} |
-| [제이앤티씨](/204270/#dart) | | [주요사항보고서(자기주식처분결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251103000196){:target="_blank"} |
-| [한솔케미칼](/014680/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251103000200){:target="_blank"} |
+| [BGF리테일](/282330/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251104800471){:target="_blank"} |
+| [대주전자재료](/078600/#dart) | | [[기재정정]주식매수선택권부여에관한신고](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251104000275){:target="_blank"} |
+| [KG이니시스](/035600/#dart) | | [회사합병결정(종속회사의주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251104900430){:target="_blank"} |
+| [현대로템](/064350/#dart) | | [특수관계인에대한채권매도](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251104000238){:target="_blank"} |
+| [크래프톤](/259960/#dart) | | [특수관계인에대한증여](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251104000220){:target="_blank"} |
