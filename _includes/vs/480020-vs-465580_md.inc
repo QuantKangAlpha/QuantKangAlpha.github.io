@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 미국빅테크7+데일리타겟커버드콜(합성)](/480020-vs-465580/) | <span style="color: tomato">39.5<small>%</small></span> | 25.7<small>%</small> | 1.53 | -29.3<small>%</small> | -8.0<small>%</small> |
-| ACE 미국빅테크TOP7 Plus | <span style="color: tomato">48.8<small>%</small></span> | 29.5<small>%</small> | 1.65 | -30.1<small>%</small> | -6.6<small>%</small> |
+| [ACE 미국빅테크7+데일리타겟커버드콜(합성)](/480020-vs-465580/) | <span style="color: tomato">38.3<small>%</small></span> | 25.7<small>%</small> | 1.49 | -29.3<small>%</small> | -7.9<small>%</small> |
+| ACE 미국빅테크TOP7 Plus | <span style="color: tomato">48.7<small>%</small></span> | 29.4<small>%</small> | 1.66 | -30.1<small>%</small> | -6.6<small>%</small> |

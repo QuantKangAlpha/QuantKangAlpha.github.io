@@ -34,7 +34,7 @@ PFFD의 수익률이 AOK보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.4<small>%</small></span> | 13.0<small>%</small> | 0.18 | -30.9<small>%</small> | -6.7<small>%</small> |
-| AOK | <span style="color: tomato">4.7<small>%</small></span> | 7.0<small>%</small> | 0.66 | -18.9<small>%</small> | -3.8<small>%</small> |
+| AOK | <span style="color: tomato">4.7<small>%</small></span> | 7.0<small>%</small> | 0.67 | -18.9<small>%</small> | -3.8<small>%</small> |
 
 <!-- more -->
 
@@ -77,9 +77,9 @@ AOK<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOK<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.4<small>%</small></span> | 13.0<small>%</small> | 0.18 | -30.9<small>%</small> | -6.7<small>%</small> |
-| AOK | <span style="color: tomato">4.7<small>%</small></span> | 7.0<small>%</small> | 0.66 | -18.9<small>%</small> | -3.8<small>%</small> |
-| AOK<sub>STD</sub> <small>(185%)</small> | <span style="color: tomato">8.4<small>%</small></span> | 13.0<small>%</small> | 0.64 | -32.6<small>%</small> | -7.0<small>%</small> |
-| AOK<sub>MDD</sub> <small>(163%)</small> | <span style="color: tomato">7.4<small>%</small></span> | 11.5<small>%</small> | 0.65 | -29.3<small>%</small> | -6.2<small>%</small> |
+| AOK | <span style="color: tomato">4.7<small>%</small></span> | 7.0<small>%</small> | 0.67 | -18.9<small>%</small> | -3.8<small>%</small> |
+| AOK<sub>STD</sub> <small>(185%)</small> | <span style="color: tomato">8.4<small>%</small></span> | 13.0<small>%</small> | 0.65 | -32.6<small>%</small> | -7.0<small>%</small> |
+| AOK<sub>MDD</sub> <small>(163%)</small> | <span style="color: tomato">7.5<small>%</small></span> | 11.5<small>%</small> | 0.65 | -29.3<small>%</small> | -6.2<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ AOK<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOK<
 
 **위험도 지표 (표준편차):** 185% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.4%로 PFFD의 2.4%보다 6.0% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 163% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 7.4%로 PFFD의 2.4%보다 5.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 163% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 7.5%로 PFFD의 2.4%보다 5.1% 높았습니다. (높은 수익률)
 
 
 
