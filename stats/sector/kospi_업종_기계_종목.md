@@ -5,7 +5,7 @@ excerpt: KOSPI 기계 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-11-05
+last_modified_at: 2025-11-06
 ---
 
 
@@ -16,48 +16,48 @@ last_modified_at: 2025-11-05
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [두산에너빌리티](/034020/) | 480.5 | 7.1 | - | 22.8<small>%</small> |
-| [한미반도체](/042700/) | 83.8 | 23.4 | 0.5<small>%</small> | 22.3<small>%</small> |
-| [LIG넥스원](/079550/) | 46.9 | 8.6 | 0.5<small>%</small> | 8.9<small>%</small> |
-| [두산로보틱스](/454910/) | - | 13.1 | - | 8.6<small>%</small> |
-| [두산밥캣](/241560/) | 10.6 | 0.9 | 2.7<small>%</small> | 7.7<small>%</small> |
-| [한온시스템](/018880/) | - | 1.1 | - | 4.6<small>%</small> |
-| [씨에스윈드](/112610/) | 12.7 | 1.6 | 2.3<small>%</small> | 4.3<small>%</small> |
-| [현대엘리베이](/017800/) | 14.2 | 2.1 | 7.7<small>%</small> | 3.5<small>%</small> |
+| [두산에너빌리티](/034020/) | 455.8 | 6.8 | - | 22.8<small>%</small> |
+| [한미반도체](/042700/) | 81.2 | 22.6 | 0.6<small>%</small> | 22.3<small>%</small> |
+| [LIG넥스원](/079550/) | 47.3 | 8.7 | 0.5<small>%</small> | 8.9<small>%</small> |
+| [두산로보틱스](/454910/) | - | 12.8 | - | 8.6<small>%</small> |
+| [두산밥캣](/241560/) | 10.7 | 0.9 | 2.6<small>%</small> | 7.7<small>%</small> |
+| [한온시스템](/018880/) | - | 1.0 | - | 4.6<small>%</small> |
+| [씨에스윈드](/112610/) | 12.8 | 1.6 | 2.3<small>%</small> | 4.3<small>%</small> |
+| [현대엘리베이](/017800/) | 14.3 | 2.1 | 7.6<small>%</small> | 3.5<small>%</small> |
 | [HD현대인프라코어](/042670/) | 25.1 | 1.4 | 0.5<small>%</small> | 3.0<small>%</small> |
-| 한화엔진 | 47.0 | 9.7 | - | 2.2<small>%</small> |
+| 한화엔진 | 46.8 | 9.6 | - | 2.2<small>%</small> |
 | HD현대건설기계 | 16.8 | 1.0 | 0.5<small>%</small> | 2.2<small>%</small> |
-| STX중공업 | 35.2 | 9.5 | - | 1.3<small>%</small> |
-| 한국카본 | 80.3 | 3.4 | 0.4<small>%</small> | 1.2<small>%</small> |
+| STX중공업 | 34.5 | 9.3 | - | 1.3<small>%</small> |
+| 한국카본 | 78.8 | 3.4 | 0.4<small>%</small> | 1.2<small>%</small> |
 | 에이프로젠 | - | 1.2 | - | 0.8<small>%</small> |
-| STX엔진 | 53.7 | 3.3 | - | 0.7<small>%</small> |
-| SNT에너지 | 25.2 | 2.9 | 1.1<small>%</small> | 0.5<small>%</small> |
+| STX엔진 | 53.0 | 3.3 | - | 0.7<small>%</small> |
+| SNT에너지 | 23.9 | 2.7 | 1.2<small>%</small> | 0.5<small>%</small> |
 | 대동 | - | 0.5 | 1.1<small>%</small> | 0.5<small>%</small> |
 | 삼익THK | 134.6 | 1.0 | 1.0<small>%</small> | 0.4<small>%</small> |
-| 퍼스텍 | 19.3 | 3.3 | - | 0.3<small>%</small> |
-| 디와이파워 | 6.1 | 0.5 | 2.9<small>%</small> | 0.3<small>%</small> |
-| TYM | 13.7 | 0.6 | 1.9<small>%</small> | 0.3<small>%</small> |
+| 퍼스텍 | 19.1 | 3.3 | - | 0.3<small>%</small> |
+| 디와이파워 | 6.2 | 0.5 | 2.8<small>%</small> | 0.3<small>%</small> |
+| TYM | 14.0 | 0.6 | 1.9<small>%</small> | 0.3<small>%</small> |
 | 이엔플러스 | - | 3.8 | - | 0.3<small>%</small> |
 | KIB플러그에너지 | 51.5 | 1.0 | - | 0.3<small>%</small> |
 | 청호ICT | - | - | - | 0.3<small>%</small> |
-| 조선선재 | 5.7 | 0.6 | 0.5<small>%</small> | 0.3<small>%</small> |
-| 수산중공업 | 11.3 | 0.6 | 0.6<small>%</small> | 0.3<small>%</small> |
+| 조선선재 | 5.8 | 0.6 | 0.5<small>%</small> | 0.3<small>%</small> |
+| 수산중공업 | 11.4 | 0.6 | 0.6<small>%</small> | 0.3<small>%</small> |
 | 우신시스템 | 2.9 | 0.8 | 0.8<small>%</small> | 0.2<small>%</small> |
 | 한신기계 | - | 1.2 | 0.5<small>%</small> | 0.2<small>%</small> |
 | 다이나믹디자인 | - | 0.7 | - | 0.2<small>%</small> |
-| 기신정기 | 21.4 | 0.3 | 4.4<small>%</small> | 0.2<small>%</small> |
-| 엔케이 | - | 0.6 | 0.7<small>%</small> | 0.1<small>%</small> |
-| 삼화왕관 | 7.3 | 0.5 | 3.7<small>%</small> | 0.1<small>%</small> |
+| 기신정기 | 21.2 | 0.3 | 4.4<small>%</small> | 0.2<small>%</small> |
+| 엔케이 | - | 0.6 | 0.8<small>%</small> | 0.1<small>%</small> |
+| 삼화왕관 | 7.6 | 0.6 | 3.5<small>%</small> | 0.1<small>%</small> |
 | 다스코 | - | 0.3 | - | 0.1<small>%</small> |
-| 화천기공 | 7.7 | 0.2 | 3.5<small>%</small> | 0.1<small>%</small> |
-| 화천기계 | 18.0 | 0.8 | 0.8<small>%</small> | 0.1<small>%</small> |
+| 화천기공 | 7.8 | 0.2 | 3.4<small>%</small> | 0.1<small>%</small> |
+| 화천기계 | 17.3 | 0.7 | 0.9<small>%</small> | 0.1<small>%</small> |
 | 세원이앤씨 | - | - | - | 0.1<small>%</small> |
 | KC코트렐 | - | 0.3 | - | 0.1<small>%</small> |
 | 우진플라임 | 16.7 | 0.4 | 2.5<small>%</small> | 0.1<small>%</small> |
 | 대림통상 | - | 0.7 | - | 0.1<small>%</small> |
 | 계양전기 | - | 0.7 | - | 0.1<small>%</small> |
 | 참엔지니어링 | - | 0.3 | - | 0.1<small>%</small> |
-| 한국주강 | 26.3 | 0.6 | - | 0.0<small>%</small> |
+| 한국주강 | 26.2 | 0.6 | - | 0.0<small>%</small> |
 | 계양전기우 | - | - | - | 0.0<small>%</small> |
 
 {% include commons/footnotes.md %}
