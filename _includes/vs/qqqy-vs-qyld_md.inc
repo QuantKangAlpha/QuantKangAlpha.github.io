@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [QQQY](/qqqy-vs-qyld/) | <span style="color: tomato">13.7<small>%</small></span> | 14.4<small>%</small> | 0.95 | -19.0<small>%</small> | -3.1<small>%</small> |
-| QYLD | <span style="color: tomato">12.9<small>%</small></span> | 14.1<small>%</small> | 0.91 | -19.1<small>%</small> | -2.8<small>%</small> |
+| [QQQY](/qqqy-vs-qyld/) | <span style="color: tomato">14.0<small>%</small></span> | 14.4<small>%</small> | 0.97 | -19.0<small>%</small> | -3.0<small>%</small> |
+| QYLD | <span style="color: tomato">13.0<small>%</small></span> | 14.1<small>%</small> | 0.92 | -19.1<small>%</small> | -2.8<small>%</small> |
