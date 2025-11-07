@@ -1,7 +1,7 @@
 ---
 layout: single
 title: MSTY vs Microstrategy Inc (MSTR)
-excerpt: MSTY의 최근 1년 8개월 CAGR은 67.7%로 Microstrategy Inc (MSTR)의 102.3%보다 -34.6% 낮았습니다.
+excerpt: MSTY의 최근 1년 8개월 CAGR은 69.3%로 Microstrategy Inc (MSTR)의 102.3%보다 -33.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ MSTY의 수익률이 MSTR보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MSTY | <span style="color: tomato">67.7<small>%</small></span> | 72.6<small>%</small> | 0.93 | -44.8<small>%</small> | -15.0<small>%</small> |
+| MSTY | <span style="color: tomato">69.3<small>%</small></span> | 72.5<small>%</small> | 0.96 | -43.9<small>%</small> | -15.0<small>%</small> |
 | MSTR | <span style="color: tomato">102.3<small>%</small></span> | 96.6<small>%</small> | 1.06 | -49.9<small>%</small> | -23.0<small>%</small> |
 
 <!-- more -->
@@ -41,11 +41,11 @@ MSTY의 수익률이 MSTR보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** MSTY의 CAGR은 67.7%로 MSTR의 102.3%보다 -34.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** MSTY의 CAGR은 69.3%로 MSTR의 102.3%보다 -33.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** MSTY의 표준편차는 72.6%로 MSTR의 96.6%보다 -24.0% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** MSTY의 표준편차는 72.5%로 MSTR의 96.6%보다 -24.1% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** MSTY의 44.8%의 MDD는 MSTR의 49.9%보다 -5.1% 낮았습니다. (낮은 위험도)
+**위험도 지표 (MDD):** MSTY의 43.9%의 MDD는 MSTR의 49.9%보다 -6.1% 낮았습니다. (낮은 위험도)
 
 
 
@@ -54,9 +54,9 @@ MSTY의 수익률이 MSTR보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 MSTR의 투자 비중[^fn_vs_weight]을 조절하여 MSTY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 96.6% / 72.6% = 75% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 96.6% / 72.5% = 75% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 49.9% / 44.8% = 90% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 49.9% / 43.9% = 88% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -76,18 +76,18 @@ MSTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MST
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MSTY | <span style="color: tomato">67.7<small>%</small></span> | 72.6<small>%</small> | 0.93 | -44.8<small>%</small> | -15.0<small>%</small> |
+| MSTY | <span style="color: tomato">69.3<small>%</small></span> | 72.5<small>%</small> | 0.96 | -43.9<small>%</small> | -15.0<small>%</small> |
 | MSTR | <span style="color: tomato">102.3<small>%</small></span> | 96.6<small>%</small> | 1.06 | -49.9<small>%</small> | -23.0<small>%</small> |
-| MSTR<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">84.9<small>%</small></span> | 72.6<small>%</small> | 1.17 | -38.6<small>%</small> | -16.0<small>%</small> |
-| MSTR<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">96.2<small>%</small></span> | 86.7<small>%</small> | 1.11 | -45.1<small>%</small> | -19.9<small>%</small> |
+| MSTR<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">84.8<small>%</small></span> | 72.5<small>%</small> | 1.17 | -38.5<small>%</small> | -15.9<small>%</small> |
+| MSTR<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">95.0<small>%</small></span> | 84.9<small>%</small> | 1.12 | -44.2<small>%</small> | -19.3<small>%</small> |
 
 
 
 각각의 경우를 MSTY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 84.9%로 MSTY의 67.7%보다 17.2% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 84.8%로 MSTY의 69.3%보다 15.5% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 90% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 96.2%로 MSTY의 67.7%보다 28.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 88% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 95.0%로 MSTY의 69.3%보다 25.6% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ MSTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MST
 
 지난 1년 8개월간 거치식으로 투자했다고 가정합니다.
 
-MSTR의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 90.5%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 MSTY의 67.7%보다 22.8% 높았습니다.
+MSTR의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 89.9%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 MSTY의 69.3%보다 20.5% 높았습니다.
 
 ### MSTY &lt; MSTR
 {: .text-center}
