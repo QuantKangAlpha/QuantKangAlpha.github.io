@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [키움 INDXX 미국테크탑10 ETN](/760005-vs-381170/) | <span style="color: tomato">56.9<small>%</small></span> | 24.7<small>%</small> | 2.30 | -31.5<small>%</small> | -4.4<small>%</small> |
-| TIGER 미국테크TOP10 INDXX | <span style="color: tomato">56.4<small>%</small></span> | 25.0<small>%</small> | 2.25 | -31.4<small>%</small> | -4.2<small>%</small> |
+| [키움 INDXX 미국테크탑10 ETN](/760005-vs-381170/) | <span style="color: tomato">57.0<small>%</small></span> | 24.7<small>%</small> | 2.31 | -31.5<small>%</small> | -4.4<small>%</small> |
+| TIGER 미국테크TOP10 INDXX | <span style="color: tomato">56.5<small>%</small></span> | 25.0<small>%</small> | 2.26 | -31.4<small>%</small> | -4.2<small>%</small> |
