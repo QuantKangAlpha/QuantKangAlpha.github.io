@@ -5,7 +5,7 @@ excerpt: KOSDAQ 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-11-11
+last_modified_at: 2025-11-12
 ---
 
 
@@ -22,9 +22,9 @@ last_modified_at: 2025-11-11
 | 스피어파워 | - | 2.5 | - | 3.6<small>%</small> |
 | 대림제지 | 4.6 | 0.2 | 1.4<small>%</small> | 3.2<small>%</small> |
 | 삼륭물산 | - | 1.7 | 1.2<small>%</small> | 2.7<small>%</small> |
-| 한국팩키지 | 44.0 | 0.5 | 2.2<small>%</small> | 2.6<small>%</small> |
+| 한국팩키지 | 45.5 | 0.5 | 2.1<small>%</small> | 2.6<small>%</small> |
 | 리더스코스메틱 | - | 1.1 | - | 2.6<small>%</small> |
 | 이건홀딩스 | - | 0.5 | 1.1<small>%</small> | 2.3<small>%</small> |
-| 무림SP | 9.7 | 0.2 | 0.7<small>%</small> | 1.7<small>%</small> |
+| 무림SP | 9.9 | 0.2 | 0.7<small>%</small> | 1.7<small>%</small> |
 
 {% include commons/footnotes.md %}
