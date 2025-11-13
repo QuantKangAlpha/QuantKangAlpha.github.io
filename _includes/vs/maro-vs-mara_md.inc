@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [MARO](/maro-vs-mara/) | <span style="color: cornflowerblue">-38.6<small>%</small></span> | 63.6<small>%</small> | -0.61 | -54.1<small>%</small> | -31.4<small>%</small> |
-| MARA | <span style="color: cornflowerblue">-38.3<small>%</small></span> | 80.2<small>%</small> | -0.48 | -57.2<small>%</small> | -33.0<small>%</small> |
+| [MARO](/maro-vs-mara/) | <span style="color: cornflowerblue">-39.7<small>%</small></span> | 63.5<small>%</small> | -0.63 | -54.1<small>%</small> | -31.5<small>%</small> |
+| MARA | <span style="color: cornflowerblue">-39.2<small>%</small></span> | 80.0<small>%</small> | -0.49 | -57.2<small>%</small> | -33.0<small>%</small> |
