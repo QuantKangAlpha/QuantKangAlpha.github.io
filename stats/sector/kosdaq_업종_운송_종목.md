@@ -5,7 +5,7 @@ excerpt: KOSDAQ 운송 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-11-12
+last_modified_at: 2025-11-13
 ---
 
 
@@ -16,10 +16,10 @@ last_modified_at: 2025-11-12
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 태웅로직스 | 3.5 | 0.5 | 3.5<small>%</small> | 32.2<small>%</small> |
+| 태웅로직스 | 3.5 | 0.5 | 3.4<small>%</small> | 32.2<small>%</small> |
 | 선광 | 3.9 | 0.3 | 2.4<small>%</small> | 28.6<small>%</small> |
 | 유성티엔에스 | 1.4 | 0.2 | - | 19.0<small>%</small> |
 | SG&G | 3.8 | 0.2 | - | 13.6<small>%</small> |
-| 삼일 | 18.0 | 0.3 | - | 6.6<small>%</small> |
+| 삼일 | 17.9 | 0.3 | - | 6.6<small>%</small> |
 
 {% include commons/footnotes.md %}

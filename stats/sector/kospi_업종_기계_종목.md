@@ -5,7 +5,7 @@ excerpt: KOSPI 기계 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-11-12
+last_modified_at: 2025-11-13
 ---
 
 
@@ -16,41 +16,41 @@ last_modified_at: 2025-11-12
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [두산에너빌리티](/034020/) | 450.6 | 6.7 | - | 22.8<small>%</small> |
-| [한미반도체](/042700/) | 82.5 | 23.0 | 0.6<small>%</small> | 22.3<small>%</small> |
-| [LIG넥스원](/079550/) | 39.7 | 7.3 | 0.6<small>%</small> | 8.9<small>%</small> |
-| [두산로보틱스](/454910/) | - | 12.7 | - | 8.6<small>%</small> |
+| [두산에너빌리티](/034020/) | 477.6 | 7.1 | - | 22.8<small>%</small> |
+| [한미반도체](/042700/) | 84.0 | 23.4 | 0.5<small>%</small> | 22.3<small>%</small> |
+| [LIG넥스원](/079550/) | 40.2 | 7.3 | 0.6<small>%</small> | 8.9<small>%</small> |
+| [두산로보틱스](/454910/) | - | 13.1 | - | 8.6<small>%</small> |
 | [두산밥캣](/241560/) | 10.4 | 0.8 | 2.7<small>%</small> | 7.7<small>%</small> |
 | [한온시스템](/018880/) | - | 1.1 | - | 4.6<small>%</small> |
-| [씨에스윈드](/112610/) | 12.9 | 1.6 | 2.3<small>%</small> | 4.3<small>%</small> |
-| [현대엘리베이](/017800/) | 15.1 | 2.2 | 7.2<small>%</small> | 3.5<small>%</small> |
-| [HD현대인프라코어](/042670/) | 25.2 | 1.5 | 0.5<small>%</small> | 3.0<small>%</small> |
-| 한화엔진 | 43.6 | 9.0 | - | 2.2<small>%</small> |
-| HD현대건설기계 | 16.6 | 1.0 | 0.5<small>%</small> | 2.2<small>%</small> |
-| STX중공업 | 33.6 | 9.1 | - | 1.3<small>%</small> |
-| 한국카본 | 76.6 | 3.3 | 0.4<small>%</small> | 1.2<small>%</small> |
-| 에이프로젠 | - | 1.2 | - | 0.8<small>%</small> |
-| STX엔진 | 51.6 | 3.2 | - | 0.7<small>%</small> |
-| SNT에너지 | 23.8 | 2.7 | 1.2<small>%</small> | 0.5<small>%</small> |
+| [씨에스윈드](/112610/) | 13.1 | 1.6 | 2.2<small>%</small> | 4.3<small>%</small> |
+| [현대엘리베이](/017800/) | 16.0 | 2.3 | 6.8<small>%</small> | 3.5<small>%</small> |
+| [HD현대인프라코어](/042670/) | 25.3 | 1.5 | 0.5<small>%</small> | 3.0<small>%</small> |
+| 한화엔진 | 44.2 | 9.1 | - | 2.2<small>%</small> |
+| HD현대건설기계 | 16.8 | 1.0 | 0.5<small>%</small> | 2.2<small>%</small> |
+| STX중공업 | 34.2 | 9.2 | - | 1.3<small>%</small> |
+| 한국카본 | 77.6 | 3.3 | 0.4<small>%</small> | 1.2<small>%</small> |
+| 에이프로젠 | - | 1.4 | - | 0.8<small>%</small> |
+| STX엔진 | 51.9 | 3.2 | - | 0.7<small>%</small> |
+| SNT에너지 | 24.1 | 2.7 | 1.2<small>%</small> | 0.5<small>%</small> |
 | 대동 | - | 0.5 | 1.1<small>%</small> | 0.5<small>%</small> |
 | 삼익THK | 134.6 | 1.0 | 1.0<small>%</small> | 0.4<small>%</small> |
-| 퍼스텍 | 17.9 | 3.1 | - | 0.3<small>%</small> |
-| 디와이파워 | 6.2 | 0.5 | 2.8<small>%</small> | 0.3<small>%</small> |
-| TYM | 15.3 | 0.7 | 1.7<small>%</small> | 0.3<small>%</small> |
+| 퍼스텍 | 18.0 | 3.1 | - | 0.3<small>%</small> |
+| 디와이파워 | 6.4 | 0.5 | 2.8<small>%</small> | 0.3<small>%</small> |
+| TYM | 15.4 | 0.7 | 1.7<small>%</small> | 0.3<small>%</small> |
 | 이엔플러스 | - | 3.8 | - | 0.3<small>%</small> |
 | KIB플러그에너지 | 51.5 | 1.0 | - | 0.3<small>%</small> |
 | 청호ICT | - | - | - | 0.3<small>%</small> |
-| 조선선재 | 5.9 | 0.6 | 0.5<small>%</small> | 0.3<small>%</small> |
+| 조선선재 | 6.0 | 0.6 | 0.5<small>%</small> | 0.3<small>%</small> |
 | 수산중공업 | 11.6 | 0.6 | 0.6<small>%</small> | 0.3<small>%</small> |
 | 우신시스템 | 2.9 | 0.8 | 0.8<small>%</small> | 0.2<small>%</small> |
 | 한신기계 | - | 1.1 | 0.5<small>%</small> | 0.2<small>%</small> |
 | 다이나믹디자인 | - | 0.6 | - | 0.2<small>%</small> |
-| 기신정기 | 21.8 | 0.3 | 4.3<small>%</small> | 0.2<small>%</small> |
+| 기신정기 | 22.4 | 0.3 | 4.2<small>%</small> | 0.2<small>%</small> |
 | 엔케이 | - | 0.6 | 0.8<small>%</small> | 0.1<small>%</small> |
 | 삼화왕관 | 7.5 | 0.5 | 3.6<small>%</small> | 0.1<small>%</small> |
 | 다스코 | - | 0.3 | - | 0.1<small>%</small> |
-| 화천기공 | 7.8 | 0.2 | 3.4<small>%</small> | 0.1<small>%</small> |
-| 화천기계 | 18.2 | 0.8 | 0.8<small>%</small> | 0.1<small>%</small> |
+| 화천기공 | 7.9 | 0.2 | 3.4<small>%</small> | 0.1<small>%</small> |
+| 화천기계 | 18.1 | 0.8 | 0.8<small>%</small> | 0.1<small>%</small> |
 | 세원이앤씨 | - | - | - | 0.1<small>%</small> |
 | KC코트렐 | - | 0.3 | - | 0.1<small>%</small> |
 | 우진플라임 | 16.7 | 0.4 | 2.5<small>%</small> | 0.1<small>%</small> |
