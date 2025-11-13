@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 주주환원가치주액티브](/447430-vs-069500/) | <span style="color: tomato">18.1<small>%</small></span> | 15.1<small>%</small> | 1.20 | -14.1<small>%</small> | -3.2<small>%</small> |
-| KODEX 200 | <span style="color: tomato">24.9<small>%</small></span> | 19.2<small>%</small> | 1.30 | -21.6<small>%</small> | -5.6<small>%</small> |
+| [ACE 주주환원가치주액티브](/447430-vs-069500/) | <span style="color: tomato">18.2<small>%</small></span> | 15.1<small>%</small> | 1.21 | -14.1<small>%</small> | -3.2<small>%</small> |
+| KODEX 200 | <span style="color: tomato">25.1<small>%</small></span> | 19.1<small>%</small> | 1.31 | -21.6<small>%</small> | -5.6<small>%</small> |
