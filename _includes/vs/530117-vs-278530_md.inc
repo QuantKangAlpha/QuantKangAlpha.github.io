@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [삼성 코스피 200 TR ETN](/530117-vs-278530/) | <span style="color: tomato">32.9<small>%</small></span> | 21.5<small>%</small> | 1.53 | -22.1<small>%</small> | -7.1<small>%</small> |
-| KODEX 200TR | <span style="color: tomato">32.7<small>%</small></span> | 20.9<small>%</small> | 1.57 | -21.4<small>%</small> | -6.9<small>%</small> |
+| [삼성 코스피 200 TR ETN](/530117-vs-278530/) | <span style="color: tomato">34.3<small>%</small></span> | 21.5<small>%</small> | 1.59 | -22.1<small>%</small> | -7.1<small>%</small> |
+| KODEX 200TR | <span style="color: tomato">34.0<small>%</small></span> | 20.9<small>%</small> | 1.63 | -21.4<small>%</small> | -6.8<small>%</small> |

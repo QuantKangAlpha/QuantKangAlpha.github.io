@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [0008S0](/0008s0-vs-458750/) | <span style="color: cornflowerblue">-0.6<small>%</small></span> | 17.8<small>%</small> | -0.03 | -13.3<small>%</small> | -6.8<small>%</small> |
-| TIGER 미국배당다우존스타겟커버드콜1호 | <span style="color: cornflowerblue">-1.4<small>%</small></span> | 17.8<small>%</small> | -0.08 | -13.7<small>%</small> | -7.4<small>%</small> |
+| [0008S0](/0008s0-vs-458750/) | <span style="color: tomato">0.1<small>%</small></span> | 17.8<small>%</small> | 0.01 | -13.3<small>%</small> | -6.8<small>%</small> |
+| TIGER 미국배당다우존스타겟커버드콜1호 | <span style="color: cornflowerblue">-1.1<small>%</small></span> | 17.7<small>%</small> | -0.06 | -13.7<small>%</small> | -7.3<small>%</small> |
