@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [BALI](/bali-vs-gpix/) | <span style="color: tomato">24.1<small>%</small></span> | 13.4<small>%</small> | 1.80 | -16.6<small>%</small> | -1.8<small>%</small> |
-| GPIX | <span style="color: tomato">25.1<small>%</small></span> | 14.3<small>%</small> | 1.75 | -17.5<small>%</small> | -1.6<small>%</small> |
+| [BALI](/bali-vs-gpix/) | <span style="color: tomato">23.6<small>%</small></span> | 13.4<small>%</small> | 1.76 | -16.6<small>%</small> | -1.8<small>%</small> |
+| GPIX | <span style="color: tomato">24.5<small>%</small></span> | 14.3<small>%</small> | 1.71 | -17.5<small>%</small> | -1.6<small>%</small> |
