@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [GOF](/gof-vs-shy/) | <span style="color: tomato">9.4<small>%</small></span> | 21.6<small>%</small> | 0.43 | -54.7<small>%</small> | -6.8<small>%</small> |
+| [GOF](/gof-vs-shy/) | <span style="color: tomato">9.2<small>%</small></span> | 21.7<small>%</small> | 0.42 | -54.7<small>%</small> | -6.8<small>%</small> |
 | SHY | <span style="color: tomato">1.8<small>%</small></span> | 1.5<small>%</small> | 1.17 | -5.7<small>%</small> | -0.6<small>%</small> |

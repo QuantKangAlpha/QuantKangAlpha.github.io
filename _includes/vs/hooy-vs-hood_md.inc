@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [HOOY](/hooy-vs-hood/) | <span style="color: tomato">178.9<small>%</small></span> | 47.2<small>%</small> | 3.79 | -22.3<small>%</small> | -3.6<small>%</small> |
-| HOOD | <span style="color: tomato">323.8<small>%</small></span> | 62.0<small>%</small> | 5.22 | -23.9<small>%</small> | -4.3<small>%</small> |
+| [HOOY](/hooy-vs-hood/) | <span style="color: tomato">171.8<small>%</small></span> | 47.1<small>%</small> | 3.65 | -23.2<small>%</small> | -3.8<small>%</small> |
+| HOOD | <span style="color: tomato">309.3<small>%</small></span> | 61.9<small>%</small> | 5.00 | -25.0<small>%</small> | -4.5<small>%</small> |

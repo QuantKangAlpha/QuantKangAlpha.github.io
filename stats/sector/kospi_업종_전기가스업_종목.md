@@ -5,7 +5,7 @@ excerpt: KOSPI 전기가스업 업종 종목별 시가총액 비중입니다. �
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-11-17
+last_modified_at: 2025-11-18
 ---
 
 
@@ -17,14 +17,14 @@ last_modified_at: 2025-11-17
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
 | [한국전력](/015760/) | 9.1 | 0.8 | 0.4<small>%</small> | 67.8<small>%</small> |
-| [한국가스공사](/036460/) | 3.2 | 0.3 | 3.5<small>%</small> | 20.1<small>%</small> |
+| [한국가스공사](/036460/) | 3.1 | 0.3 | 3.6<small>%</small> | 20.1<small>%</small> |
 | 지역난방공사 | 6.2 | 0.5 | 3.7<small>%</small> | 2.9<small>%</small> |
 | SGC에너지 | 5.1 | 0.4 | 7.4<small>%</small> | 2.0<small>%</small> |
-| 삼천리 | 4.5 | 0.3 | 2.3<small>%</small> | 2.0<small>%</small> |
-| 대성에너지 | 13.0 | 0.7 | 3.0<small>%</small> | 1.8<small>%</small> |
-| 서울가스 | 7.6 | 0.2 | 3.8<small>%</small> | 1.5<small>%</small> |
+| 삼천리 | 4.4 | 0.3 | 2.3<small>%</small> | 2.0<small>%</small> |
+| 대성에너지 | 12.7 | 0.7 | 3.1<small>%</small> | 1.8<small>%</small> |
+| 서울가스 | 7.5 | 0.2 | 3.8<small>%</small> | 1.5<small>%</small> |
 | 인천도시가스 | 5.6 | 0.5 | 4.8<small>%</small> | 0.6<small>%</small> |
-| 경동도시가스 | 4.4 | 0.3 | 4.1<small>%</small> | 0.6<small>%</small> |
-| 한진중공업홀딩스 | 2.2 | 0.3 | 2.5<small>%</small> | 0.6<small>%</small> |
+| 경동도시가스 | 4.3 | 0.3 | 4.2<small>%</small> | 0.6<small>%</small> |
+| 한진중공업홀딩스 | 2.2 | 0.3 | 2.6<small>%</small> | 0.6<small>%</small> |
 
 {% include commons/footnotes.md %}
