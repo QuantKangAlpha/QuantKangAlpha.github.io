@@ -1,7 +1,7 @@
 ---
 layout: single
 title: AAPW vs Apple Inc (AAPL)
-excerpt: AAPW의 최근 8개월 CAGR은 7.9%로 Apple Inc (AAPL)의 12.6%보다 -4.7% 낮았습니다.
+excerpt: AAPW의 최근 8개월 CAGR은 8.7%로 Apple Inc (AAPL)의 12.6%보다 -3.9% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ AAPW의 수익률이 AAPL보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AAPW | <span style="color: tomato">7.9<small>%</small></span> | 39.3<small>%</small> | 0.20 | -36.3<small>%</small> | -13.8<small>%</small> |
+| AAPW | <span style="color: tomato">8.7<small>%</small></span> | 39.2<small>%</small> | 0.22 | -36.3<small>%</small> | -13.8<small>%</small> |
 | AAPL | <span style="color: tomato">12.6<small>%</small></span> | 35.1<small>%</small> | 0.36 | -30.2<small>%</small> | -10.4<small>%</small> |
 
 <!-- more -->
@@ -41,9 +41,9 @@ AAPW의 수익률이 AAPL보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** AAPW의 CAGR은 7.9%로 AAPL의 12.6%보다 -4.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** AAPW의 CAGR은 8.7%로 AAPL의 12.6%보다 -3.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** AAPW의 표준편차는 39.3%로 AAPL의 35.1%보다 4.2% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** AAPW의 표준편차는 39.2%로 AAPL의 35.1%보다 4.1% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** AAPW의 36.3%의 MDD는 AAPL의 30.2%보다 6.1% 높았습니다. (높은 위험도)
 
@@ -54,7 +54,7 @@ AAPW의 수익률이 AAPL보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 AAPL의 투자 비중[^fn_vs_weight]을 조절하여 AAPW의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 35.1% / 39.3% = 112% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 35.1% / 39.2% = 112% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 30.2% / 36.3% = 120% 비중으로 투자하면 됩니다.
 
@@ -76,18 +76,18 @@ AAPL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AAP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AAPW | <span style="color: tomato">7.9<small>%</small></span> | 39.3<small>%</small> | 0.20 | -36.3<small>%</small> | -13.8<small>%</small> |
+| AAPW | <span style="color: tomato">8.7<small>%</small></span> | 39.2<small>%</small> | 0.22 | -36.3<small>%</small> | -13.8<small>%</small> |
 | AAPL | <span style="color: tomato">12.6<small>%</small></span> | 35.1<small>%</small> | 0.36 | -30.2<small>%</small> | -10.4<small>%</small> |
-| AAPL<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">13.3<small>%</small></span> | 39.3<small>%</small> | 0.34 | -33.3<small>%</small> | -11.7<small>%</small> |
+| AAPL<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">13.3<small>%</small></span> | 39.2<small>%</small> | 0.34 | -33.3<small>%</small> | -11.7<small>%</small> |
 | AAPL<sub>MDD</sub> <small>(120%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 42.1<small>%</small> | 0.32 | -35.3<small>%</small> | -12.7<small>%</small> |
 
 
 
 각각의 경우를 AAPW의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 112% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.3%로 AAPW의 7.9%보다 5.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 112% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.3%로 AAPW의 8.7%보다 4.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 120% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.7%로 AAPW의 7.9%보다 5.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 120% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.7%로 AAPW의 8.7%보다 4.9% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ AAPL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AAP
 지난 8개월간 거치식으로 투자했다고 가정합니다.
 
 AAPL의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.5%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 AAPW의 7.9%보다 5.6% 높았습니다.
+이 포트폴리오는 AAPW의 8.7%보다 4.7% 높았습니다.
 
 ### AAPW &lt; AAPL
 {: .text-center}

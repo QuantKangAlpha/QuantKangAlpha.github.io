@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLUS 미국S&P500(H)](/269540-vs-448290/) | <span style="color: tomato">17.9<small>%</small></span> | 16.4<small>%</small> | 1.09 | -20.8<small>%</small> | -2.3<small>%</small> |
-| TIGER 미국S&P500TR(H) | <span style="color: tomato">17.2<small>%</small></span> | 16.7<small>%</small> | 1.03 | -20.9<small>%</small> | -2.3<small>%</small> |
+| [PLUS 미국S&P500(H)](/269540-vs-448290/) | <span style="color: tomato">17.2<small>%</small></span> | 16.4<small>%</small> | 1.05 | -20.8<small>%</small> | -2.3<small>%</small> |
+| TIGER 미국S&P500TR(H) | <span style="color: tomato">16.5<small>%</small></span> | 16.7<small>%</small> | 0.99 | -20.9<small>%</small> | -2.3<small>%</small> |

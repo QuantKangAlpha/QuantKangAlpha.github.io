@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XOMO vs Exxon Mobil Corp (XOM)
-excerpt: XOMO의 최근 2년 2개월 CAGR은 0.8%로 Exxon Mobil Corp (XOM)의 6.3%보다 -5.6% 낮았습니다.
+excerpt: XOMO의 최근 2년 2개월 CAGR은 0.8%로 Exxon Mobil Corp (XOM)의 6.3%보다 -5.5% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ XOMO의 수익률이 XOM보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XOMO의 CAGR은 0.8%로 XOM의 6.3%보다 -5.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XOMO의 CAGR은 0.8%로 XOM의 6.3%보다 -5.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XOMO의 표준편차는 17.8%로 XOM의 21.8%보다 -4.0% 낮았습니다. (낮은 위험도)
 
