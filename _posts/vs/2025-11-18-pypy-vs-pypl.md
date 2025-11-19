@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PYPY vs PayPal Holdings Inc (PYPL)
-excerpt: PYPY의 최근 2년 1개월 CAGR은 4.6%로 PayPal Holdings Inc (PYPL)의 1.4%보다 3.3% 높았습니다.
+excerpt: PYPY의 최근 2년 1개월 CAGR은 4.6%로 PayPal Holdings Inc (PYPL)의 1.4%보다 3.2% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ PYPY의 수익률이 PYPL보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PYPY의 CAGR은 4.6%로 PYPL의 1.4%보다 3.3% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PYPY의 CAGR은 4.6%로 PYPL의 1.4%보다 3.2% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PYPY의 표준편차는 29.1%로 PYPL의 36.1%보다 -6.9% 낮았습니다. (낮은 위험도)
 
