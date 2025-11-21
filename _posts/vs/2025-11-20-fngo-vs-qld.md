@@ -1,7 +1,7 @@
 ---
 layout: single
 title: FNGO vs QLD
-excerpt: FNGO의 최근 7년 2개월 CAGR은 40.2%로 QLD의 14.9%보다 25.2% 높았습니다.
+excerpt: FNGO의 최근 7년 2개월 CAGR은 40.2%로 QLD의 26.5%보다 13.7% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,16 +34,16 @@ FNGO의 수익률이 QLD보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FNGO | <span style="color: tomato">40.2<small>%</small></span> | 62.6<small>%</small> | 0.64 | -78.4<small>%</small> | -24.2<small>%</small> |
-| QLD | <span style="color: tomato">14.9<small>%</small></span> | 52.7<small>%</small> | 0.28 | -63.7<small>%</small> | -17.9<small>%</small> |
+| QLD | <span style="color: tomato">26.5<small>%</small></span> | 49.0<small>%</small> | 0.54 | -63.7<small>%</small> | -17.9<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** FNGO의 CAGR은 40.2%로 QLD의 14.9%보다 25.2% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** FNGO의 CAGR은 40.2%로 QLD의 26.5%보다 13.7% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** FNGO의 표준편차는 62.6%로 QLD의 52.7%보다 10.0% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** FNGO의 표준편차는 62.6%로 QLD의 49.0%보다 13.7% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** FNGO의 78.4%의 MDD는 QLD의 63.7%보다 14.7% 높았습니다. (높은 위험도)
 
@@ -54,7 +54,7 @@ FNGO의 수익률이 QLD보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 QLD의 투자 비중[^fn_vs_weight]을 조절하여 FNGO의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 52.7% / 62.6% = 119% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 49.0% / 62.6% = 128% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 63.7% / 78.4% = 123% 비중으로 투자하면 됩니다.
 
@@ -77,17 +77,17 @@ QLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QLD<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FNGO | <span style="color: tomato">40.2<small>%</small></span> | 62.6<small>%</small> | 0.64 | -78.4<small>%</small> | -24.2<small>%</small> |
-| QLD | <span style="color: tomato">14.9<small>%</small></span> | 52.7<small>%</small> | 0.28 | -63.7<small>%</small> | -17.9<small>%</small> |
-| QLD<sub>STD</sub> <small>(119%)</small> | <span style="color: tomato">13.3<small>%</small></span> | 62.6<small>%</small> | 0.21 | -71.5<small>%</small> | -21.8<small>%</small> |
-| QLD<sub>MDD</sub> <small>(123%)</small> | <span style="color: tomato">12.7<small>%</small></span> | 64.8<small>%</small> | 0.20 | -73.0<small>%</small> | -22.7<small>%</small> |
+| QLD | <span style="color: tomato">26.5<small>%</small></span> | 49.0<small>%</small> | 0.54 | -63.7<small>%</small> | -17.9<small>%</small> |
+| QLD<sub>STD</sub> <small>(128%)</small> | <span style="color: tomato">29.2<small>%</small></span> | 62.6<small>%</small> | 0.47 | -74.7<small>%</small> | -23.6<small>%</small> |
+| QLD<sub>MDD</sub> <small>(123%)</small> | <span style="color: tomato">28.9<small>%</small></span> | 60.3<small>%</small> | 0.48 | -73.0<small>%</small> | -22.6<small>%</small> |
 
 
 
 각각의 경우를 FNGO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 119% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.3%로 FNGO의 40.2%보다 -26.9% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 128% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 29.2%로 FNGO의 40.2%보다 -10.9% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 123% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 12.7%로 FNGO의 40.2%보다 -27.5% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 123% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 28.9%로 FNGO의 40.2%보다 -11.2% 낮았습니다. (낮은 수익률)
 
 
 
@@ -99,8 +99,8 @@ QLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QLD<
 
 지난 7년 2개월간 거치식으로 투자했다고 가정합니다.
 
-QLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 FNGO의 40.2%보다 -27.2% 낮았습니다.
+QLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 29.1%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 FNGO의 40.2%보다 -11.1% 낮았습니다.
 
 ### FNGO &gt; QLD
 {: .text-center}

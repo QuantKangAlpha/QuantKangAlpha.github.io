@@ -79,7 +79,7 @@ TSLA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSL
 | TSLW | <span style="color: tomato">4.5<small>%</small></span> | 80.5<small>%</small> | 0.06 | -45.2<small>%</small> | -16.8<small>%</small> |
 | TSLA | <span style="color: tomato">13.0<small>%</small></span> | 67.1<small>%</small> | 0.19 | -38.5<small>%</small> | -12.9<small>%</small> |
 | TSLA<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">9.7<small>%</small></span> | 80.5<small>%</small> | 0.12 | -44.9<small>%</small> | -16.2<small>%</small> |
-| TSLA<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">10.2<small>%</small></span> | 78.9<small>%</small> | 0.13 | -44.1<small>%</small> | -15.8<small>%</small> |
+| TSLA<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">10.2<small>%</small></span> | 78.8<small>%</small> | 0.13 | -44.1<small>%</small> | -15.8<small>%</small> |
 
 
 
