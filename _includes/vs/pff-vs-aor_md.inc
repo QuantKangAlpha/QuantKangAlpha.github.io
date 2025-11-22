@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PFF](/pff-vs-aor/) | <span style="color: tomato">8.0<small>%</small></span> | 16.1<small>%</small> | 0.50 | -52.5<small>%</small> | -4.0<small>%</small> |
-| AOR | <span style="color: tomato">8.6<small>%</small></span> | 12.6<small>%</small> | 0.69 | -24.4<small>%</small> | -3.5<small>%</small> |
+| [PFF](/pff-vs-aor/) | <span style="color: tomato">8.1<small>%</small></span> | 16.1<small>%</small> | 0.50 | -52.5<small>%</small> | -4.0<small>%</small> |
+| AOR | <span style="color: tomato">8.7<small>%</small></span> | 12.6<small>%</small> | 0.69 | -24.4<small>%</small> | -3.5<small>%</small> |
