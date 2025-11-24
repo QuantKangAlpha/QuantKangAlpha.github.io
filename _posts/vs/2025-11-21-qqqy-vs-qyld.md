@@ -114,6 +114,7 @@ QYLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [초고배당 커버드콜 ETF는 기초 자산보다 현금 흐름 창출에 유리할까? (TSLY, NVDY, JEPY, QQQY 등 22종의 커버드콜 ETF 분석)](https://kongdori.tistory.com/286)
 - [데일리 커버드콜은 효과적일까? (Defiance의 JEPY, QQQY, IWMY - 분배율 높은 인컴 ETF)](https://kongdori.tistory.com/235)
 - [원금 찾는데 세금을 내라고? (해외 상장 고배당 인컴 ETF)](https://kongdori.tistory.com/206)
+- [[동영상] [현금흐름 6] TIGER 미국나스닥100커버드콜(합성) (1억원으로 현금 흐름을 만든다면, vs TIGER 미국나스닥100, 세금 고려, QYLD)](https://youtu.be/gJspaqkxD4E)
 - [[동영상] QYLD (나스닥 100 월만기 커버드콜 = TIGER 미국나스닥100커버드콜(합성)) + QQQ [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/QPbmZsOUoaI)
 - [QYLD(나스닥 100 월만기 커버드콜 ETF) + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223927553247)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}

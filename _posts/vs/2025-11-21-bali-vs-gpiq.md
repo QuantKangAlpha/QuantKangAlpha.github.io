@@ -112,6 +112,7 @@ GPIQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [커버드콜 ETF 대신 기초 자산으로 현금 흐름을 만들면? (시장 대표 지수편)](https://kongdori.tistory.com/285)
 - [ISPY - ProShares의 초단기 콜옵션 전략 기반 인컴 ETF (넌 누굴 닮았니?)](https://kongdori.tistory.com/267)
 - [BALI - 블랙록의 커버드콜 기반 인컴 ETF (발리섬에서 은퇴 생활을 즐길 수 있을까? JEPQ의 S&P500 버전)](https://kongdori.tistory.com/261)
+- [[동영상] [현금흐름 U4] GPIQ vs QQQ - 세금 고려 커버드콜 현금 흐름 (1만 달러 기준)](https://youtu.be/oaEKYmeW5nI)
 - [[동영상] GPIQ (골드만삭스 나스닥 100 기반 커버드콜) + QQQ [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/jSvRkINPP9s)
 - [GPIQ (골드만삭스의 나스닥 100 기반 커버드콜 ETF) + QQQ + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223938449509)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}

@@ -108,6 +108,7 @@ DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
+- [[동영상] [현금흐름 U1] JEPI vs SPY - 세금 고려 커버드콜 현금 흐름 (1만 달러 기준)](https://youtu.be/TtIhflRzjjA)
 - [[동영상] JEPI/JEPIX (가장 성공한 액티브 커버드콜) + SPY/VIG, DIVO [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/PRgY9SvTbCM)
 - [JEPI (가장 성공한 액티브 커버드콜) + SPY/VIG + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223932048484)
 - [SPY로 JEPI처럼 분배금을 만들면 얼마나 남을까? (기초 자산에서 커버드콜 ETF의 분배금만큼 꺼내 써 보자!)](https://kongdori.tistory.com/284)
@@ -119,6 +120,7 @@ DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [JEPI는 SPY보다 더 좋은 ETF인가? (현금 흐름 창출과 배당 재투자 시)](https://kongdori.tistory.com/183)
 - [커버드 콜 전략은 유용한가? (커버드 콜 전략을 쓰는 주요 ETF의 지금까지 수익률과 분석)](https://kongdori.tistory.com/155)
 - [JEPI는 매달 현금 흐름이 필요한 경우 현명한 선택이었을까? (SCHD와 비교)](https://kongdori.tistory.com/49)
+- [[동영상] [현금흐름 12] KODEX 미국배당커버드콜액티브 (1억원으로 현금 흐름을 만든다면, vs KODEX 미국S&P500, 세금 고려, DIVO의 국내 상장 버전)](https://youtu.be/FThETrRky0c)
 - [[동영상] QDVO (합리적인 배당률의 액티브 커버드콜) + QQQ - QQQ 대체를 노리는 커버드콜 [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/ddAMAzsr91M)
 - [[동영상] DIVO (대형 배당 우량주 기반 액티브 커버드콜 ≒ KODEX 미국배당커버드콜액티브) + SPY/VIG [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/tHisWt7IVhA)
 - [DIVO (선별한 우량 대형주 + 액티브 커버드콜) + SPY/VIG + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223931263706)

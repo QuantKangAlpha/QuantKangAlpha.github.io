@@ -109,6 +109,7 @@ DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 ## 관련 정보
 
 - [[동영상] 어떤 배당 성장 ETF가 좋을까? DGRO, DGRW, VIG 비교 분석과 분산 투자 [환율을 고려한 정량적 분석]](https://youtu.be/l8JDXd0hOM4)
+- [[동영상] [현금흐름 12] KODEX 미국배당커버드콜액티브 (1억원으로 현금 흐름을 만든다면, vs KODEX 미국S&P500, 세금 고려, DIVO의 국내 상장 버전)](https://youtu.be/FThETrRky0c)
 - [[동영상] QDVO (합리적인 배당률의 액티브 커버드콜) + QQQ - QQQ 대체를 노리는 커버드콜 [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/ddAMAzsr91M)
 - [[동영상] DIVO (대형 배당 우량주 기반 액티브 커버드콜 ≒ KODEX 미국배당커버드콜액티브) + SPY/VIG [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/tHisWt7IVhA)
 - [DIVO (선별한 우량 대형주 + 액티브 커버드콜) + SPY/VIG + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223931263706)

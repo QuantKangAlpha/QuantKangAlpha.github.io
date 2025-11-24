@@ -117,6 +117,7 @@ JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [JEPI/JEPQ는 특별한가? (SCHD/QQQ + 현금과의 비교)](https://kongdori.tistory.com/211)
 - [커버드 콜 전략은 유용한가? (커버드 콜 전략을 쓰는 주요 ETF의 지금까지 수익률과 분석)](https://kongdori.tistory.com/155)
 - [JEPQ는 기대하는 수준의 성과를 보였나? (QQQ 대비)](https://kongdori.tistory.com/150)
+- [[동영상] [현금흐름 U1] JEPI vs SPY - 세금 고려 커버드콜 현금 흐름 (1만 달러 기준)](https://youtu.be/TtIhflRzjjA)
 - [[동영상] JEPI/JEPIX (가장 성공한 액티브 커버드콜) + SPY/VIG, DIVO [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/PRgY9SvTbCM)
 - [JEPI (가장 성공한 액티브 커버드콜) + SPY/VIG + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223932048484)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
