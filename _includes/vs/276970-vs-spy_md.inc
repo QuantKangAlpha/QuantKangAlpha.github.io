@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국S&P500배당귀족커버드콜(합성 H)](/276970-vs-spy/) | <span style="color: tomato">2.5<small>%</small></span> | 14.2<small>%</small> | 0.17 | -32.5<small>%</small> | -5.8<small>%</small> |
-| SPY | <span style="color: tomato">14.6<small>%</small></span> | 19.5<small>%</small> | 0.75 | -33.7<small>%</small> | -5.0<small>%</small> |
+| [KODEX 미국S&P500배당귀족커버드콜(합성 H)](/276970-vs-spy/) | <span style="color: tomato">2.5<small>%</small></span> | 14.2<small>%</small> | 0.18 | -32.5<small>%</small> | -5.8<small>%</small> |
+| SPY | <span style="color: tomato">14.8<small>%</small></span> | 19.5<small>%</small> | 0.76 | -33.7<small>%</small> | -5.0<small>%</small> |
