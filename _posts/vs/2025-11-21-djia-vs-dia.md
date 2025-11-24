@@ -77,7 +77,7 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 | DJIA | <span style="color: tomato">7.3<small>%</small></span> | 11.5<small>%</small> | 0.64 | -16.9<small>%</small> | -3.8<small>%</small> |
 | DIA | <span style="color: tomato">11.2<small>%</small></span> | 15.3<small>%</small> | 0.73 | -17.8<small>%</small> | -3.6<small>%</small> |
 | DIA<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">8.5<small>%</small></span> | 11.5<small>%</small> | 0.74 | -13.5<small>%</small> | -2.6<small>%</small> |
-| DIA<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">10.7<small>%</small></span> | 14.5<small>%</small> | 0.73 | -16.9<small>%</small> | -3.4<small>%</small> |
+| DIA<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">10.7<small>%</small></span> | 14.5<small>%</small> | 0.74 | -16.9<small>%</small> | -3.4<small>%</small> |
 
 
 

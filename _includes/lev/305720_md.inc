@@ -1,4 +1,4 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX 2차전지산업 | | <span style="color: tomato">4.2<small>%</small></span> | - | - | - |
-| [KODEX 2차전지산업레버리지](/462330/) | 2<small>x</small> | <span style="color: cornflowerblue">-11.7<small>%</small></span> | 14.4<small>%</small> | 5.0<small>%</small> | 18.6<small>%</small> |
+| KODEX 2차전지산업 | | <span style="color: cornflowerblue">-2.3<small>%</small></span> | - | - | - |
+| [KODEX 2차전지산업레버리지](/462330/) | 2<small>x</small> | <span style="color: cornflowerblue">-23.0<small>%</small></span> | 14.4<small>%</small> | 5.7<small>%</small> | 19.3<small>%</small> |

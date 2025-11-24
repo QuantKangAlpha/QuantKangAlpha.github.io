@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIMEFOLIO Korea플러스배당액티브](/441800-vs-161510/) | <span style="color: tomato">31.5<small>%</small></span> | 19.9<small>%</small> | 1.59 | -17.4<small>%</small> | -3.5<small>%</small> |
-| PLUS 고배당주 | <span style="color: tomato">30.4<small>%</small></span> | 17.2<small>%</small> | 1.76 | -13.4<small>%</small> | -4.0<small>%</small> |
+| [TIMEFOLIO Korea플러스배당액티브](/441800-vs-161510/) | <span style="color: tomato">31.4<small>%</small></span> | 19.9<small>%</small> | 1.58 | -17.4<small>%</small> | -3.5<small>%</small> |
+| PLUS 고배당주 | <span style="color: tomato">30.2<small>%</small></span> | 17.2<small>%</small> | 1.76 | -13.4<small>%</small> | -4.0<small>%</small> |
