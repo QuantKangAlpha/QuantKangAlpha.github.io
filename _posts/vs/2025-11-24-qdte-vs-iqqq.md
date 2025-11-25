@@ -79,7 +79,7 @@ IQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IQQ
 | QDTE | <span style="color: tomato">19.8<small>%</small></span> | 19.2<small>%</small> | 1.03 | -22.9<small>%</small> | -3.5<small>%</small> |
 | IQQQ | <span style="color: tomato">17.1<small>%</small></span> | 19.2<small>%</small> | 0.89 | -20.4<small>%</small> | -3.8<small>%</small> |
 | IQQQ<sub>STD</sub> <small>(100%)</small> | <span style="color: tomato">17.2<small>%</small></span> | 19.2<small>%</small> | 0.89 | -20.5<small>%</small> | -3.8<small>%</small> |
-| IQQQ<sub>MDD</sub> <small>(112%)</small> | <span style="color: tomato">19.0<small>%</small></span> | 21.5<small>%</small> | 0.89 | -22.7<small>%</small> | -4.3<small>%</small> |
+| IQQQ<sub>MDD</sub> <small>(112%)</small> | <span style="color: tomato">19.1<small>%</small></span> | 21.5<small>%</small> | 0.89 | -22.7<small>%</small> | -4.3<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ IQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IQQ
 
 **위험도 지표 (표준편차):** 100% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.2%로 QDTE의 19.8%보다 -2.6% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 112% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.0%로 QDTE의 19.8%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 112% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.1%로 QDTE의 19.8%와 비슷했습니다. (비슷한 수익률)
 
 
 
