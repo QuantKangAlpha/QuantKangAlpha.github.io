@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [EWJV](/ewjv-vs-idvo/) | <span style="color: tomato">22.0<small>%</small></span> | 18.2<small>%</small> | 1.21 | -14.6<small>%</small> | -2.7<small>%</small> |
-| IDVO | <span style="color: tomato">19.8<small>%</small></span> | 16.0<small>%</small> | 1.24 | -15.5<small>%</small> | -2.3<small>%</small> |
+| [EWJV](/ewjv-vs-idvo/) | <span style="color: tomato">22.1<small>%</small></span> | 18.2<small>%</small> | 1.21 | -14.6<small>%</small> | -2.7<small>%</small> |
+| IDVO | <span style="color: tomato">20.1<small>%</small></span> | 16.0<small>%</small> | 1.26 | -15.5<small>%</small> | -2.3<small>%</small> |
