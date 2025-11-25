@@ -19,19 +19,19 @@
 | [삼성카드](/029780/) | P:기타금융 | 8.7 | 0.7 | **5.2**<small>%</small> |
 | [하나투어](/039130/) | P:서비스업 | 8.9 | 4.2 | **4.9**<small>%</small> |
 | [KG이니시스](/035600/) | Q:출판매체복제 | 6.8 | 0.6 | **4.8**<small>%</small> |
-| [KG스틸](/016380/) | P:철강금속 | <span style="color:tomato">3.9</span> | <span style="color:tomato">0.3</span> | **4.8**<small>%</small> |
 | [한전KPS](/051600/) | P:건설업 | 13.5 | 1.8 | **4.8**<small>%</small> |
+| [KG스틸](/016380/) | P:철강금속 | <span style="color:tomato">3.9</span> | <span style="color:tomato">0.3</span> | **4.8**<small>%</small> |
 | [GS](/078930/) | P:기타금융 | 9.6 | <span style="color:tomato">0.4</span> | **4.7**<small>%</small> |
-| [우리금융지주](/316140/) | P:기타금융 | <span style="color:tomato">6.5</span> | 0.6 | **4.7**<small>%</small> |
 | [현대차](/005380/) | P:운수장비 | <span style="color:tomato">5.4</span> | 0.6 | **4.7**<small>%</small> |
+| [우리금융지주](/316140/) | P:기타금융 | <span style="color:tomato">6.5</span> | 0.6 | **4.7**<small>%</small> |
 | [NH투자증권](/005940/) | P:증권 | 10.4 | 0.9 | **4.6**<small>%</small> |
 | [삼성증권](/016360/) | P:증권 | 7.7 | 0.9 | **4.5**<small>%</small> |
 | [효성티앤씨](/298020/) | P:화학 | 7.1 | 0.7 | **4.5**<small>%</small> |
 | [세아베스틸지주](/001430/) | P:철강금속 | 47.7 | 0.5 | **4.5**<small>%</small> |
 | [파트론](/091700/) | Q:일반전기전자 | 6.6 | 0.7 | **4.4**<small>%</small> |
 | [BNK금융지주](/138930/) | P:기타금융 | 6.8 | <span style="color:tomato">0.4</span> | **4.4**<small>%</small> |
-| [LG유플러스](/032640/) | P:통신업 | 17.4 | 0.8 | **4.3**<small>%</small> |
 | [컴투스](/078340/) | Q:출판매체복제 | - | <span style="color:tomato">0.4</span> | **4.3**<small>%</small> |
+| [LG유플러스](/032640/) | P:통신업 | 17.4 | 0.8 | **4.3**<small>%</small> |
 | [JB금융지주](/175330/) | P:기타금융 | 6.9 | 0.8 | **4.2**<small>%</small> |
 | [오리온홀딩스](/001800/) | P:기타금융 | 7.2 | 0.5 | **4.1**<small>%</small> |
 | [대상](/001680/) | P:음식료품 | 7.8 | 0.5 | **4.1**<small>%</small> |
