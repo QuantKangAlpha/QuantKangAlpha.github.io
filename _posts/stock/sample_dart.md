@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [하이브](/352820/#dart) | | [주식매수선택권부여에관한신고](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251125000705){:target="_blank"} |
-| [SOOP](/067160/#dart) | | [[기재정정]분기보고서 (2025.03)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251125000693){:target="_blank"} |
-| [금양](/001570/#dart) | | [기타안내사항(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251125800498){:target="_blank"} |
-| [메리츠금융지주](/138040/#dart) | | [[기재정정]유상증자결정(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251125800494){:target="_blank"} |
-| [농심](/004370/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251125800497){:target="_blank"} |
+| [현대자동차](/005380/#dart) | | [특수관계인으로부터기타유가증권매수](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251126000574){:target="_blank"} |
+| [파크시스템스](/140860/#dart) | | [기업설명회(IR)개최              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251126900606){:target="_blank"} |
+| [율촌화학](/008730/#dart) | | [대규모기업집단현황공시[분기별공시(개별회사용)]](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251126000559){:target="_blank"} |
+| [HS효성첨단소재](/298050/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251126800590){:target="_blank"} |
+| [다원시스](/068240/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251126000547){:target="_blank"} |
