@@ -1,7 +1,7 @@
 ---
 layout: single
 title: YMAG vs JEPQ
-excerpt: YMAG의 최근 1년 9개월 CAGR은 29.4%로 JEPQ의 18.5%보다 10.9% 높았습니다.
+excerpt: YMAG의 최근 1년 9개월 CAGR은 30.0%로 JEPQ의 18.5%보다 11.5% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ YMAG의 수익률이 JEPQ보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAG | <span style="color: tomato">29.4<small>%</small></span> | 22.0<small>%</small> | 1.34 | -26.0<small>%</small> | -4.6<small>%</small> |
+| YMAG | <span style="color: tomato">30.0<small>%</small></span> | 22.0<small>%</small> | 1.36 | -26.0<small>%</small> | -4.6<small>%</small> |
 | JEPQ | <span style="color: tomato">18.5<small>%</small></span> | 16.6<small>%</small> | 1.11 | -20.1<small>%</small> | -2.7<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ YMAG의 수익률이 JEPQ보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** YMAG의 CAGR은 29.4%로 JEPQ의 18.5%보다 10.9% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** YMAG의 CAGR은 30.0%로 JEPQ의 18.5%보다 11.5% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** YMAG의 표준편차는 22.0%로 JEPQ의 16.6%보다 5.3% 높았습니다. (높은 위험도)
 
@@ -76,7 +76,7 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAG | <span style="color: tomato">29.4<small>%</small></span> | 22.0<small>%</small> | 1.34 | -26.0<small>%</small> | -4.6<small>%</small> |
+| YMAG | <span style="color: tomato">30.0<small>%</small></span> | 22.0<small>%</small> | 1.36 | -26.0<small>%</small> | -4.6<small>%</small> |
 | JEPQ | <span style="color: tomato">18.5<small>%</small></span> | 16.6<small>%</small> | 1.11 | -20.1<small>%</small> | -2.7<small>%</small> |
 | JEPQ<sub>STD</sub> <small>(132%)</small> | <span style="color: tomato">24.4<small>%</small></span> | 22.0<small>%</small> | 1.11 | -25.8<small>%</small> | -3.6<small>%</small> |
 | JEPQ<sub>MDD</sub> <small>(129%)</small> | <span style="color: tomato">23.9<small>%</small></span> | 21.5<small>%</small> | 1.11 | -25.3<small>%</small> | -3.5<small>%</small> |
@@ -85,9 +85,9 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 각각의 경우를 YMAG의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 132% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 24.4%로 YMAG의 29.4%보다 -5.0% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 132% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 24.4%로 YMAG의 30.0%보다 -5.6% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 129% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 23.9%로 YMAG의 29.4%보다 -5.5% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 129% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 23.9%로 YMAG의 30.0%보다 -6.1% 낮았습니다. (낮은 수익률)
 
 
 
@@ -100,7 +100,7 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 지난 1년 9개월간 거치식으로 투자했다고 가정합니다.
 
 JEPQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 24.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 YMAG의 29.4%보다 -5.2% 낮았습니다.
+이 포트폴리오는 YMAG의 30.0%보다 -5.8% 낮았습니다.
 
 ### YMAG &gt; JEPQ
 {: .text-center}
