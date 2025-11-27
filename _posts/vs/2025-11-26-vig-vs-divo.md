@@ -1,7 +1,7 @@
 ---
 layout: single
 title: VIG vs DIVO
-excerpt: VIG의 최근 8년 11개월 CAGR은 13.2%로 DIVO의 12.5%와 비슷했습니다.
+excerpt: VIG의 최근 8년 11개월 CAGR은 13.2%로 DIVO의 12.6%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ VIG의 수익률이 DIVO보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | VIG | <span style="color: tomato">13.2<small>%</small></span> | 16.5<small>%</small> | 0.80 | -31.7<small>%</small> | -3.8<small>%</small> |
-| DIVO | <span style="color: tomato">12.5<small>%</small></span> | 15.0<small>%</small> | 0.84 | -30.0<small>%</small> | -2.7<small>%</small> |
+| DIVO | <span style="color: tomato">12.6<small>%</small></span> | 15.0<small>%</small> | 0.84 | -30.0<small>%</small> | -2.7<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** VIG의 CAGR은 13.2%로 DIVO의 12.5%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** VIG의 CAGR은 13.2%로 DIVO의 12.6%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** VIG의 표준편차는 16.5%로 DIVO의 15.0%보다 1.5% 높았습니다. (높은 위험도)
 
@@ -77,17 +77,17 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | VIG | <span style="color: tomato">13.2<small>%</small></span> | 16.5<small>%</small> | 0.80 | -31.7<small>%</small> | -3.8<small>%</small> |
-| DIVO | <span style="color: tomato">12.5<small>%</small></span> | 15.0<small>%</small> | 0.84 | -30.0<small>%</small> | -2.7<small>%</small> |
-| DIVO<sub>STD</sub> <small>(110%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 16.5<small>%</small> | 0.83 | -32.7<small>%</small> | -3.0<small>%</small> |
-| DIVO<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">13.2<small>%</small></span> | 15.9<small>%</small> | 0.83 | -31.5<small>%</small> | -2.8<small>%</small> |
+| DIVO | <span style="color: tomato">12.6<small>%</small></span> | 15.0<small>%</small> | 0.84 | -30.0<small>%</small> | -2.7<small>%</small> |
+| DIVO<sub>STD</sub> <small>(110%)</small> | <span style="color: tomato">13.8<small>%</small></span> | 16.5<small>%</small> | 0.84 | -32.7<small>%</small> | -3.0<small>%</small> |
+| DIVO<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">13.3<small>%</small></span> | 15.9<small>%</small> | 0.84 | -31.5<small>%</small> | -2.8<small>%</small> |
 
 
 
 각각의 경우를 VIG의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 110% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.7%로 VIG의 13.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 110% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.8%로 VIG의 13.2%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.2%로 VIG의 13.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.3%로 VIG의 13.2%와 비슷했습니다. (비슷한 수익률)
 
 
 
