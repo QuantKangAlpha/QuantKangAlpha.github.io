@@ -1,7 +1,7 @@
 ---
 layout: single
 title: JEPI vs JEPIX
-excerpt: JEPI의 최근 5년 6개월 CAGR은 11.7%로 JEPIX의 11.7%와 비슷했습니다.
+excerpt: JEPI의 최근 5년 6개월 CAGR은 11.7%로 JEPIX의 11.6%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -32,14 +32,14 @@ JEPI의 수익률이 JEPIX보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">11.7<small>%</small></span> | 10.9<small>%</small> | 1.07 | -13.7<small>%</small> | -2.1<small>%</small> |
-| JEPIX | <span style="color: tomato">11.7<small>%</small></span> | 11.4<small>%</small> | 1.03 | -13.7<small>%</small> | -2.2<small>%</small> |
+| JEPIX | <span style="color: tomato">11.6<small>%</small></span> | 11.4<small>%</small> | 1.02 | -13.7<small>%</small> | -2.2<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** JEPI의 CAGR은 11.7%로 JEPIX의 11.7%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** JEPI의 CAGR은 11.7%로 JEPIX의 11.6%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** JEPI의 표준편차는 10.9%로 JEPIX의 11.4%와 비슷했습니다. (비슷한 위험도)
 
@@ -75,17 +75,17 @@ JEPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JE
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">11.7<small>%</small></span> | 10.9<small>%</small> | 1.07 | -13.7<small>%</small> | -2.1<small>%</small> |
-| JEPIX | <span style="color: tomato">11.7<small>%</small></span> | 11.4<small>%</small> | 1.03 | -13.7<small>%</small> | -2.2<small>%</small> |
-| JEPIX<sub>STD</sub> <small>(96%)</small> | <span style="color: tomato">11.3<small>%</small></span> | 10.9<small>%</small> | 1.03 | -13.2<small>%</small> | -2.2<small>%</small> |
-| JEPIX<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">11.8<small>%</small></span> | 11.4<small>%</small> | 1.03 | -13.7<small>%</small> | -2.3<small>%</small> |
+| JEPIX | <span style="color: tomato">11.6<small>%</small></span> | 11.4<small>%</small> | 1.02 | -13.7<small>%</small> | -2.2<small>%</small> |
+| JEPIX<sub>STD</sub> <small>(96%)</small> | <span style="color: tomato">11.2<small>%</small></span> | 10.9<small>%</small> | 1.02 | -13.2<small>%</small> | -2.2<small>%</small> |
+| JEPIX<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">11.6<small>%</small></span> | 11.4<small>%</small> | 1.02 | -13.7<small>%</small> | -2.3<small>%</small> |
 
 
 
 각각의 경우를 JEPI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 96% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.3%로 JEPI의 11.7%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 96% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.2%로 JEPI의 11.7%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.8%로 JEPI의 11.7%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.6%로 JEPI의 11.7%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -97,7 +97,7 @@ JEPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JE
 
 지난 5년 6개월간 거치식으로 투자했다고 가정합니다.
 
-JEPIX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 11.5%인 포트폴리오를 만들 수 있습니다.
+JEPIX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 11.4%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 JEPI의 11.7%와 비슷했습니다.
 
 ### JEPI ≒ JEPIX
