@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XSLV vs IJR
-excerpt: XSLV의 최근 12년 9개월 CAGR은 7.2%로 IJR의 10.1%보다 -2.9% 낮았습니다.
+excerpt: XSLV의 최근 12년 9개월 CAGR은 7.2%로 IJR의 10.1%보다 -2.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -39,7 +39,7 @@ XSLV의 수익률이 IJR보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XSLV의 CAGR은 7.2%로 IJR의 10.1%보다 -2.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XSLV의 CAGR은 7.2%로 IJR의 10.1%보다 -2.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XSLV의 표준편차는 18.6%로 IJR의 21.4%보다 -2.8% 낮았습니다. (낮은 위험도)
 

@@ -79,15 +79,15 @@ AOK<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOK<
 | PFFD | <span style="color: tomato">2.4<small>%</small></span> | 13.0<small>%</small> | 0.18 | -30.9<small>%</small> | -6.7<small>%</small> |
 | AOK | <span style="color: tomato">4.7<small>%</small></span> | 7.0<small>%</small> | 0.67 | -18.9<small>%</small> | -3.7<small>%</small> |
 | AOK<sub>STD</sub> <small>(184%)</small> | <span style="color: tomato">8.4<small>%</small></span> | 13.0<small>%</small> | 0.65 | -32.5<small>%</small> | -6.9<small>%</small> |
-| AOK<sub>MDD</sub> <small>(163%)</small> | <span style="color: tomato">7.5<small>%</small></span> | 11.5<small>%</small> | 0.65 | -29.3<small>%</small> | -6.1<small>%</small> |
+| AOK<sub>MDD</sub> <small>(163%)</small> | <span style="color: tomato">7.5<small>%</small></span> | 11.5<small>%</small> | 0.66 | -29.3<small>%</small> | -6.1<small>%</small> |
 
 
 
 각각의 경우를 PFFD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 184% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.4%로 PFFD의 2.4%보다 6.0% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 184% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.4%로 PFFD의 2.4%보다 6.1% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 163% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 7.5%로 PFFD의 2.4%보다 5.1% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 163% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 7.5%로 PFFD의 2.4%보다 5.2% 높았습니다. (높은 수익률)
 
 
 
@@ -99,7 +99,7 @@ AOK<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOK<
 
 지난 8년 2개월간 거치식으로 투자했다고 가정합니다.
 
-AOK의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 7.9%인 포트폴리오를 만들 수 있습니다.
+AOK의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 8.0%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 PFFD의 2.4%보다 5.6% 높았습니다.
 
 ### PFFD &lt; AOK
