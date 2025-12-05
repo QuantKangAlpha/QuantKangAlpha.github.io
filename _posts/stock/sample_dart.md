@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [한전KPS](/051600/#dart) | | [풍문또는보도에대한해명(미확정)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251204800392){:target="_blank"} |
-| [두산에너빌리티](/034020/#dart) | | [풍문또는보도에대한해명(미확정)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251204800389){:target="_blank"} |
-| [고영](/098460/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251204000367){:target="_blank"} |
-| [삼성바이오로직스](/207940/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251204800370){:target="_blank"} |
-| [키움증권](/039490/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251204000356){:target="_blank"} |
+| [NH투자증권](/005940/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251205000378){:target="_blank"} |
+| [미래에셋증권](/006800/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251205000377){:target="_blank"} |
+| [크래프톤](/259960/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251205000375){:target="_blank"} |
+| [삼성증권](/016360/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251205000368){:target="_blank"} |
+| [HD현대미포](/010620/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251205000367){:target="_blank"} |
