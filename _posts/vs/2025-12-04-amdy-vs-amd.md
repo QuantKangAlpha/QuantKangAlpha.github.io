@@ -1,7 +1,7 @@
 ---
 layout: single
 title: AMDY vs Advanced Micro Devices Inc (AMD)
-excerpt: AMDY의 최근 2년 2개월 CAGR은 22.5%로 Advanced Micro Devices Inc (AMD)의 40.7%보다 -18.1% 낮았습니다.
+excerpt: AMDY의 최근 2년 2개월 CAGR은 23.6%로 Advanced Micro Devices Inc (AMD)의 40.7%보다 -17.1% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ AMDY의 수익률이 AMD보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMDY | <span style="color: tomato">22.5<small>%</small></span> | 42.8<small>%</small> | 0.53 | -53.9<small>%</small> | -19.1<small>%</small> |
+| AMDY | <span style="color: tomato">23.6<small>%</small></span> | 42.8<small>%</small> | 0.55 | -53.9<small>%</small> | -19.1<small>%</small> |
 | AMD | <span style="color: tomato">40.7<small>%</small></span> | 53.5<small>%</small> | 0.76 | -63.0<small>%</small> | -24.4<small>%</small> |
 
 <!-- more -->
@@ -41,9 +41,9 @@ AMDY의 수익률이 AMD보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** AMDY의 CAGR은 22.5%로 AMD의 40.7%보다 -18.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** AMDY의 CAGR은 23.6%로 AMD의 40.7%보다 -17.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** AMDY의 표준편차는 42.8%로 AMD의 53.5%보다 -10.6% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** AMDY의 표준편차는 42.8%로 AMD의 53.5%보다 -10.7% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** AMDY의 53.9%의 MDD는 AMD의 63.0%보다 -9.1% 낮았습니다. (낮은 위험도)
 
@@ -76,18 +76,18 @@ AMD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AMD<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMDY | <span style="color: tomato">22.5<small>%</small></span> | 42.8<small>%</small> | 0.53 | -53.9<small>%</small> | -19.1<small>%</small> |
+| AMDY | <span style="color: tomato">23.6<small>%</small></span> | 42.8<small>%</small> | 0.55 | -53.9<small>%</small> | -19.1<small>%</small> |
 | AMD | <span style="color: tomato">40.7<small>%</small></span> | 53.5<small>%</small> | 0.76 | -63.0<small>%</small> | -24.4<small>%</small> |
-| AMD<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">34.4<small>%</small></span> | 42.8<small>%</small> | 0.80 | -54.0<small>%</small> | -19.7<small>%</small> |
+| AMD<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">34.3<small>%</small></span> | 42.8<small>%</small> | 0.80 | -54.0<small>%</small> | -19.7<small>%</small> |
 | AMD<sub>MDD</sub> <small>(86%)</small> | <span style="color: tomato">36.2<small>%</small></span> | 45.8<small>%</small> | 0.79 | -56.7<small>%</small> | -21.0<small>%</small> |
 
 
 
 각각의 경우를 AMDY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 80% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 34.4%로 AMDY의 22.5%보다 11.8% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 80% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 34.3%로 AMDY의 23.6%보다 10.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 86% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 36.2%로 AMDY의 22.5%보다 13.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 86% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 36.2%로 AMDY의 23.6%보다 12.6% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ AMD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AMD<
 지난 2년 2개월간 거치식으로 투자했다고 가정합니다.
 
 AMD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 35.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 AMDY의 22.5%보다 12.8% 높았습니다.
+이 포트폴리오는 AMDY의 23.6%보다 11.7% 높았습니다.
 
 ### AMDY &lt; AMD
 {: .text-center}

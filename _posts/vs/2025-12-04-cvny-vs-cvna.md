@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CVNY vs Carvana Co (CVNA)
-excerpt: CVNY의 최근 10개월 CAGR은 50.0%로 Carvana Co (CVNA)의 76.4%보다 -26.5% 낮았습니다.
+excerpt: CVNY의 최근 10개월 CAGR은 54.3%로 Carvana Co (CVNA)의 76.4%보다 -22.1% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ CVNY의 수익률이 CVNA보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| CVNY | <span style="color: tomato">50.0<small>%</small></span> | 61.5<small>%</small> | 0.81 | -43.3<small>%</small> | -10.8<small>%</small> |
+| CVNY | <span style="color: tomato">54.3<small>%</small></span> | 61.5<small>%</small> | 0.88 | -43.3<small>%</small> | -10.8<small>%</small> |
 | CVNA | <span style="color: tomato">76.4<small>%</small></span> | 74.4<small>%</small> | 1.03 | -43.0<small>%</small> | -11.9<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ CVNY의 수익률이 CVNA보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** CVNY의 CAGR은 50.0%로 CVNA의 76.4%보다 -26.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** CVNY의 CAGR은 54.3%로 CVNA의 76.4%보다 -22.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** CVNY의 표준편차는 61.5%로 CVNA의 74.4%보다 -12.9% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ CVNA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, CVN
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| CVNY | <span style="color: tomato">50.0<small>%</small></span> | 61.5<small>%</small> | 0.81 | -43.3<small>%</small> | -10.8<small>%</small> |
+| CVNY | <span style="color: tomato">54.3<small>%</small></span> | 61.5<small>%</small> | 0.88 | -43.3<small>%</small> | -10.8<small>%</small> |
 | CVNA | <span style="color: tomato">76.4<small>%</small></span> | 74.4<small>%</small> | 1.03 | -43.0<small>%</small> | -11.9<small>%</small> |
 | CVNA<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">66.5<small>%</small></span> | 61.5<small>%</small> | 1.08 | -36.3<small>%</small> | -9.7<small>%</small> |
 | CVNA<sub>MDD</sub> <small>(101%)</small> | <span style="color: tomato">76.7<small>%</small></span> | 74.8<small>%</small> | 1.03 | -43.2<small>%</small> | -11.9<small>%</small> |
@@ -85,9 +85,9 @@ CVNA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, CVN
 
 각각의 경우를 CVNY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 66.5%로 CVNY의 50.0%보다 16.5% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 66.5%로 CVNY의 54.3%보다 12.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 101% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 76.7%로 CVNY의 50.0%보다 26.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 101% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 76.7%로 CVNY의 54.3%보다 22.4% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ CVNA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, CVN
 지난 10개월간 거치식으로 투자했다고 가정합니다.
 
 CVNA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 71.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 CVNY의 50.0%보다 21.7% 높았습니다.
+이 포트폴리오는 CVNY의 54.3%보다 17.3% 높았습니다.
 
 ### CVNY &lt; CVNA
 {: .text-center}

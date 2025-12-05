@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SMCY vs Super Micro Computer Inc (SMCI)
-excerpt: SMCY의 최근 1년 2개월 CAGR은 -32.2%로 Super Micro Computer Inc (SMCI)의 -18.8%보다 -13.4% 낮았습니다.
+excerpt: SMCY의 최근 1년 2개월 CAGR은 -31.0%로 Super Micro Computer Inc (SMCI)의 -18.8%보다 -12.1% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ SMCY의 수익률이 SMCI보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SMCY | <span style="color: cornflowerblue">-32.2<small>%</small></span> | 78.3<small>%</small> | -0.41 | -59.7<small>%</small> | -31.5<small>%</small> |
+| SMCY | <span style="color: cornflowerblue">-31.0<small>%</small></span> | 78.3<small>%</small> | -0.40 | -59.7<small>%</small> | -31.5<small>%</small> |
 | SMCI | <span style="color: cornflowerblue">-18.8<small>%</small></span> | 103.1<small>%</small> | -0.18 | -63.3<small>%</small> | -26.9<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ SMCY의 수익률이 SMCI보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SMCY의 CAGR은 -32.2%로 SMCI의 -18.8%보다 -13.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SMCY의 CAGR은 -31.0%로 SMCI의 -18.8%보다 -12.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SMCY의 표준편차는 78.3%로 SMCI의 103.1%보다 -24.8% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ SMCI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SMC
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SMCY | <span style="color: cornflowerblue">-32.2<small>%</small></span> | 78.3<small>%</small> | -0.41 | -59.7<small>%</small> | -31.5<small>%</small> |
+| SMCY | <span style="color: cornflowerblue">-31.0<small>%</small></span> | 78.3<small>%</small> | -0.40 | -59.7<small>%</small> | -31.5<small>%</small> |
 | SMCI | <span style="color: cornflowerblue">-18.8<small>%</small></span> | 103.1<small>%</small> | -0.18 | -63.3<small>%</small> | -26.9<small>%</small> |
 | SMCI<sub>STD</sub> <small>(76%)</small> | <span style="color: cornflowerblue">-5.8<small>%</small></span> | 78.3<small>%</small> | -0.07 | -52.1<small>%</small> | -19.8<small>%</small> |
 | SMCI<sub>MDD</sub> <small>(94%)</small> | <span style="color: cornflowerblue">-15.4<small>%</small></span> | 97.2<small>%</small> | -0.16 | -60.9<small>%</small> | -25.2<small>%</small> |
@@ -85,9 +85,9 @@ SMCI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SMC
 
 각각의 경우를 SMCY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 76% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -5.8%로 SMCY의 -32.2%보다 26.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 76% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -5.8%로 SMCY의 -31.0%보다 25.1% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -15.4%로 SMCY의 -32.2%보다 16.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -15.4%로 SMCY의 -31.0%보다 15.5% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ SMCI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SMC
 지난 1년 2개월간 거치식으로 투자했다고 가정합니다.
 
 SMCI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 -10.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SMCY의 -32.2%보다 21.6% 높았습니다.
+이 포트폴리오는 SMCY의 -31.0%보다 20.3% 높았습니다.
 
 ### SMCY &lt; SMCI
 {: .text-center}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: GDXY vs GDX
-excerpt: GDXY의 최근 1년 6개월 CAGR은 34.2%로 GDX의 68.4%보다 -34.2% 낮았습니다.
+excerpt: GDXY의 최근 1년 6개월 CAGR은 36.0%로 GDX의 68.4%보다 -32.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ GDXY의 수익률이 GDX보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GDXY | <span style="color: tomato">34.2<small>%</small></span> | 26.9<small>%</small> | 1.27 | -17.8<small>%</small> | -4.7<small>%</small> |
+| GDXY | <span style="color: tomato">36.0<small>%</small></span> | 26.9<small>%</small> | 1.34 | -17.8<small>%</small> | -4.7<small>%</small> |
 | GDX | <span style="color: tomato">68.4<small>%</small></span> | 35.5<small>%</small> | 1.93 | -22.5<small>%</small> | -6.2<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ GDXY의 수익률이 GDX보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** GDXY의 CAGR은 34.2%로 GDX의 68.4%보다 -34.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** GDXY의 CAGR은 36.0%로 GDX의 68.4%보다 -32.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** GDXY의 표준편차는 26.9%로 GDX의 35.5%보다 -8.6% 낮았습니다. (낮은 위험도)
 
@@ -76,18 +76,18 @@ GDX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GDX<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GDXY | <span style="color: tomato">34.2<small>%</small></span> | 26.9<small>%</small> | 1.27 | -17.8<small>%</small> | -4.7<small>%</small> |
+| GDXY | <span style="color: tomato">36.0<small>%</small></span> | 26.9<small>%</small> | 1.34 | -17.8<small>%</small> | -4.7<small>%</small> |
 | GDX | <span style="color: tomato">68.4<small>%</small></span> | 35.5<small>%</small> | 1.93 | -22.5<small>%</small> | -6.2<small>%</small> |
-| GDX<sub>STD</sub> <small>(76%)</small> | <span style="color: tomato">50.2<small>%</small></span> | 26.9<small>%</small> | 1.87 | -17.4<small>%</small> | -4.7<small>%</small> |
+| GDX<sub>STD</sub> <small>(76%)</small> | <span style="color: tomato">50.1<small>%</small></span> | 26.9<small>%</small> | 1.87 | -17.4<small>%</small> | -4.7<small>%</small> |
 | GDX<sub>MDD</sub> <small>(79%)</small> | <span style="color: tomato">52.7<small>%</small></span> | 28.1<small>%</small> | 1.88 | -18.2<small>%</small> | -4.9<small>%</small> |
 
 
 
 각각의 경우를 GDXY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 76% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 50.2%로 GDXY의 34.2%보다 16.0% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 76% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 50.1%로 GDXY의 36.0%보다 14.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 79% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 52.7%로 GDXY의 34.2%보다 18.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 79% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 52.7%로 GDXY의 36.0%보다 16.8% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ GDX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GDX<
 
 지난 1년 6개월간 거치식으로 투자했다고 가정합니다.
 
-GDX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 51.5%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 GDXY의 34.2%보다 17.2% 높았습니다.
+GDX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 51.4%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 GDXY의 36.0%보다 15.5% 높았습니다.
 
 ### GDXY &lt; GDX
 {: .text-center}

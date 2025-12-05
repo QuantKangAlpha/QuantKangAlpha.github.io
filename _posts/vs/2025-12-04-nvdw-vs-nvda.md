@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NVDW vs NVIDIA Corp (NVDA)
-excerpt: NVDW의 최근 9개월 CAGR은 41.3%로 NVIDIA Corp (NVDA)의 41.8%와 비슷했습니다.
+excerpt: NVDW의 최근 9개월 CAGR은 41.3%로 NVIDIA Corp (NVDA)의 41.9%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ NVDW의 수익률이 NVDA보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NVDW | <span style="color: tomato">41.3<small>%</small></span> | 56.2<small>%</small> | 0.73 | -38.6<small>%</small> | -9.8<small>%</small> |
-| NVDA | <span style="color: tomato">41.8<small>%</small></span> | 46.8<small>%</small> | 0.89 | -32.7<small>%</small> | -7.8<small>%</small> |
+| NVDA | <span style="color: tomato">41.9<small>%</small></span> | 46.8<small>%</small> | 0.89 | -32.7<small>%</small> | -7.8<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** NVDW의 CAGR은 41.3%로 NVDA의 41.8%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** NVDW의 CAGR은 41.3%로 NVDA의 41.9%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** NVDW의 표준편차는 56.2%로 NVDA의 46.8%보다 9.5% 높았습니다. (높은 위험도)
 
@@ -77,7 +77,7 @@ NVDA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NVD
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NVDW | <span style="color: tomato">41.3<small>%</small></span> | 56.2<small>%</small> | 0.73 | -38.6<small>%</small> | -9.8<small>%</small> |
-| NVDA | <span style="color: tomato">41.8<small>%</small></span> | 46.8<small>%</small> | 0.89 | -32.7<small>%</small> | -7.8<small>%</small> |
+| NVDA | <span style="color: tomato">41.9<small>%</small></span> | 46.8<small>%</small> | 0.89 | -32.7<small>%</small> | -7.8<small>%</small> |
 | NVDA<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">48.3<small>%</small></span> | 56.2<small>%</small> | 0.86 | -38.3<small>%</small> | -9.5<small>%</small> |
 | NVDA<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">47.7<small>%</small></span> | 55.2<small>%</small> | 0.86 | -37.7<small>%</small> | -9.3<small>%</small> |
 
@@ -87,7 +87,7 @@ NVDA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NVD
 
 **위험도 지표 (표준편차):** 120% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 48.3%로 NVDW의 41.3%보다 7.0% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 118% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 47.7%로 NVDW의 41.3%보다 6.3% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 118% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 47.7%로 NVDW의 41.3%보다 6.4% 높았습니다. (높은 수익률)
 
 
 
