@@ -1,7 +1,7 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| XLK | | <span style="color: tomato">23.3<small>%</small></span> | - | - | - |
-| [ROM](/rom/) | 2<small>x</small> | <span style="color: tomato">32.7<small>%</small></span> | 7.2<small>%</small> | 5.9<small>%</small> | 12.6<small>%</small> |
-| [TECL](/tecl/) | 3<small>x</small> | <span style="color: tomato">33.5<small>%</small></span> | 19.9<small>%</small> | 10.9<small>%</small> | 28.7<small>%</small> |
-| [REW](/rew/) | -2<small>x</small> | <span style="color: cornflowerblue">-41.9<small>%</small></span> | 20.8<small>%</small> | -11.5<small>%</small> | 11.7<small>%</small> |
-| [TECS](/tecs/) | -3<small>x</small> | <span style="color: cornflowerblue">-61.2<small>%</small></span> | 38.1<small>%</small> | -17.4<small>%</small> | 27.4<small>%</small> |
+| XLK | | <span style="color: tomato">21.5<small>%</small></span> | - | - | - |
+| [ROM](/rom/) | 2<small>x</small> | <span style="color: tomato">28.9<small>%</small></span> | 7.1<small>%</small> | 6.0<small>%</small> | 12.7<small>%</small> |
+| [TECL](/tecl/) | 3<small>x</small> | <span style="color: tomato">27.8<small>%</small></span> | 19.9<small>%</small> | 11.0<small>%</small> | 28.7<small>%</small> |
+| [REW](/rew/) | -2<small>x</small> | <span style="color: cornflowerblue">-40.0<small>%</small></span> | 20.7<small>%</small> | -11.8<small>%</small> | 11.4<small>%</small> |
+| [TECS](/tecs/) | -3<small>x</small> | <span style="color: cornflowerblue">-59.3<small>%</small></span> | 38.0<small>%</small> | -17.7<small>%</small> | 27.1<small>%</small> |
