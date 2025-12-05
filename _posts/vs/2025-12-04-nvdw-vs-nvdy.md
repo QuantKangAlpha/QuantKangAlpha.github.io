@@ -110,6 +110,7 @@ NVDY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 - [[동영상] 라운드힐 위클리페이 ETF 4종(NVDW, PLTW, TSLW, AAPW)의 레버리지를 활용한 배당금 마련 전략은 유용했을까? [정량적 비교 분석]](https://youtu.be/zoVCr4Jp8z4)
 - [[동영상] NVDW (엔비디아에 1.2배 레버리지로 투자하고 초과 수익을 배당하는 ETF) + 엔비디아(NVDA) 비교 분석과 분산 투자 [환율을 고려한 정량적 분석]](https://youtu.be/IjR9ra06TV0)
+- [[동영상] [현금흐름 U8] NVDY vs NVDA(엔비디아) – 세금 고려 커버드콜 현금 흐름 (1만 달러 기준, 일드맥스 초고배당)](https://youtu.be/0z1XBqJpLmA)
 - [[동영상] NVDY (엔비디아 기반 일드맥스 초고배당 커버드콜) + NVDA(엔비디아) [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/LimQ1aza0E8)
 - [NVDY (일드맥스 고배당 커버드콜) + 엔비디아 (NVDA) + 환율 + 예금 분산 투자 (평균-분산 그래프 분석) [자산 배분 시즌 2]](https://m.blog.naver.com/onuri2005/223937183650)
 - [NVDY 배당금과 동일한 현금 흐름을 NVDA(기초자산) 매도로 만들때의 실수익률을 구해 보자 (XIRR() 함수를 이용한 내부 수익률) [데이터 분석 부록 C6]](https://kongdori.tistory.com/689)

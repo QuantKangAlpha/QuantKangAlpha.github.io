@@ -106,6 +106,7 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [[동영상] [현금흐름 U9] SPYI vs SPY – 세금 고려 커버드콜 현금 흐름 (1만 달러 기준, NEOS(네오스) 커버드콜)](https://youtu.be/usoPEpiJWUc)
 - [[동영상] SPYI (NEOS의 S&P 500 기반 커버드콜) + SPY - 세금 효율적 커버드콜? [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/3_TVcLQnSXk)
 - [커버드콜 ETF 대신 기초 자산으로 현금 흐름을 만들면? (시장 대표 지수편)](https://kongdori.tistory.com/285)
 - [BALI - 블랙록의 커버드콜 기반 인컴 ETF (발리섬에서 은퇴 생활을 즐길 수 있을까? JEPQ의 S&P500 버전)](https://kongdori.tistory.com/261)

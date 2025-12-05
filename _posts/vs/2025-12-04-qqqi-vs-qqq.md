@@ -108,6 +108,7 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [[동영상] [현금흐름 U10] QQQI vs QQQ – 세금 고려 커버드콜 현금 흐름 (1만 달러 기준, NEOS(네오스) 커버드콜)](https://youtu.be/4YjhqwvRH2A)
 - [[동영상] QQQI (NEOS의 나드삭 100 기반 커버드콜) + QQQ- QQQ 수익률을 꽤 잘 따라간 효율적 커버드콜? [환율을 고려한 정량적 자산 비교와 분산 투자 효과 분석]](https://youtu.be/rK3w8e_Qem4)
 - [커버드콜 ETF 대신 기초 자산으로 현금 흐름을 만들면? (시장 대표 지수편)](https://kongdori.tistory.com/285)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}

@@ -110,6 +110,7 @@ TSLA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 - [[동영상] 라운드힐 위클리페이 ETF 4종(NVDW, PLTW, TSLW, AAPW)의 레버리지를 활용한 배당금 마련 전략은 유용했을까? [정량적 비교 분석]](https://youtu.be/zoVCr4Jp8z4)
 - [[동영상] 배당률 216%? TSLW (테슬라 1.2배 레버리지 + 초과 수익 매주 배당 ETF) + 테슬라(NVDA) 비교 분석과 분산 투자 [환율을 고려한 정량적 분석]](https://youtu.be/8H9Gd-VmZCQ)
+- [[동영상] [현금흐름 U7] TSLY vs TSLA(테슬라) – 세금 고려 커버드콜 현금 흐름 (1만 달러 기준, 일드맥스 초고배당)](https://youtu.be/_2px2OssX9s)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 
