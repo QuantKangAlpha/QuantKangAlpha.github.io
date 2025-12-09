@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [FBY](/fby-vs-meta/) | <span style="color: tomato">26.0<small>%</small></span> | 27.7<small>%</small> | 0.94 | -31.5<small>%</small> | -5.9<small>%</small> |
-| META | <span style="color: tomato">36.5<small>%</small></span> | 35.9<small>%</small> | 1.02 | -34.2<small>%</small> | -6.8<small>%</small> |
+| [FBY](/fby-vs-meta/) | <span style="color: tomato">25.6<small>%</small></span> | 27.7<small>%</small> | 0.93 | -31.5<small>%</small> | -5.9<small>%</small> |
+| META | <span style="color: tomato">35.8<small>%</small></span> | 35.9<small>%</small> | 1.00 | -34.2<small>%</small> | -6.8<small>%</small> |

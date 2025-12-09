@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [0104N0](/0104n0-vs-102110/) | - | 29.4<small>%</small> | nan | -9.4<small>%</small> | -2.8<small>%</small> |
-| TIGER 200 | - | 30.6<small>%</small> | nan | -9.5<small>%</small> | -2.9<small>%</small> |
+| [0104N0](/0104n0-vs-102110/) | - | 29.1<small>%</small> | nan | -9.4<small>%</small> | -2.8<small>%</small> |
+| TIGER 200 | - | 30.3<small>%</small> | nan | -9.5<small>%</small> | -2.8<small>%</small> |
