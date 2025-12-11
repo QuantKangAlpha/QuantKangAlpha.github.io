@@ -5,7 +5,7 @@ excerpt: KOSPI 기타제조업 업종 종목별 시가총액 비중입니다. �
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2025-12-10
+last_modified_at: 2025-12-11
 ---
 
 
@@ -17,19 +17,19 @@ last_modified_at: 2025-12-10
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
 | [KT&G](/033780/) | 12.5 | 1.6 | 3.8<small>%</small> | 81.0<small>%</small> |
-| 퍼시스 | 8.8 | 0.7 | 2.6<small>%</small> | 3.3<small>%</small> |
-| 화승엔터프라이즈 | 8.8 | 0.6 | 0.9<small>%</small> | 3.1<small>%</small> |
-| 조광피혁 | 19.2 | 0.5 | - | 2.4<small>%</small> |
+| 퍼시스 | 8.7 | 0.7 | 2.6<small>%</small> | 3.3<small>%</small> |
+| 화승엔터프라이즈 | 9.0 | 0.6 | 0.9<small>%</small> | 3.1<small>%</small> |
+| 조광피혁 | 19.6 | 0.5 | - | 2.4<small>%</small> |
 | 지누스 | - | 0.4 | 0.8<small>%</small> | 1.8<small>%</small> |
 | 이월드 | - | 0.8 | - | 1.6<small>%</small> |
-| 제이에스코퍼레이션 | 3.5 | 0.7 | 3.9<small>%</small> | 1.3<small>%</small> |
-| 현대리바트 | 8.2 | 0.3 | 2.1<small>%</small> | 1.2<small>%</small> |
+| 제이에스코퍼레이션 | 3.6 | 0.8 | 3.8<small>%</small> | 1.3<small>%</small> |
+| 현대리바트 | 8.4 | 0.3 | 2.1<small>%</small> | 1.2<small>%</small> |
 | 유니켐 | - | 1.0 | - | 1.0<small>%</small> |
-| 삼양통상 | 13.4 | 0.3 | 2.8<small>%</small> | 0.9<small>%</small> |
-| 동인기연 | 4.8 | 0.6 | 4.5<small>%</small> | 0.8<small>%</small> |
-| 삼익악기 | 29.3 | 0.3 | 4.2<small>%</small> | 0.6<small>%</small> |
-| 시디즈 | 40.6 | 0.6 | 2.3<small>%</small> | 0.4<small>%</small> |
-| 에넥스 | 8.5 | 0.8 | - | 0.3<small>%</small> |
-| 코아스 | - | 6.5 | - | 0.2<small>%</small> |
+| 삼양통상 | 13.5 | 0.3 | 2.8<small>%</small> | 0.9<small>%</small> |
+| 동인기연 | 4.9 | 0.6 | 4.4<small>%</small> | 0.8<small>%</small> |
+| 삼익악기 | 29.6 | 0.3 | 4.1<small>%</small> | 0.6<small>%</small> |
+| 시디즈 | 40.3 | 0.6 | 2.3<small>%</small> | 0.4<small>%</small> |
+| 에넥스 | 9.4 | 0.8 | - | 0.3<small>%</small> |
+| 코아스 | - | 6.6 | - | 0.2<small>%</small> |
 
 {% include commons/footnotes.md %}
