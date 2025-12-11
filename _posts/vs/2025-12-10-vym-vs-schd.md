@@ -1,7 +1,7 @@
 ---
 layout: single
 title: VYM vs SCHD
-excerpt: VYM의 최근 14년 1개월 CAGR은 12.5%로 SCHD의 12.3%와 비슷했습니다.
+excerpt: VYM의 최근 14년 1개월 CAGR은 12.5%로 SCHD의 12.4%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ VYM의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | VYM | <span style="color: tomato">12.5<small>%</small></span> | 15.3<small>%</small> | 0.82 | -35.2<small>%</small> | -3.0<small>%</small> |
-| SCHD | <span style="color: tomato">12.3<small>%</small></span> | 15.5<small>%</small> | 0.79 | -33.4<small>%</small> | -3.4<small>%</small> |
+| SCHD | <span style="color: tomato">12.4<small>%</small></span> | 15.5<small>%</small> | 0.80 | -33.4<small>%</small> | -3.4<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** VYM의 CAGR은 12.5%로 SCHD의 12.3%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** VYM의 CAGR은 12.5%로 SCHD의 12.4%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** VYM의 표준편차는 15.3%로 SCHD의 15.5%와 비슷했습니다. (비슷한 위험도)
 
@@ -77,17 +77,17 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | VYM | <span style="color: tomato">12.5<small>%</small></span> | 15.3<small>%</small> | 0.82 | -35.2<small>%</small> | -3.0<small>%</small> |
-| SCHD | <span style="color: tomato">12.3<small>%</small></span> | 15.5<small>%</small> | 0.79 | -33.4<small>%</small> | -3.4<small>%</small> |
-| SCHD<sub>STD</sub> <small>(99%)</small> | <span style="color: tomato">12.1<small>%</small></span> | 15.3<small>%</small> | 0.79 | -33.0<small>%</small> | -3.3<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">12.9<small>%</small></span> | 16.3<small>%</small> | 0.79 | -35.0<small>%</small> | -3.6<small>%</small> |
+| SCHD | <span style="color: tomato">12.4<small>%</small></span> | 15.5<small>%</small> | 0.80 | -33.4<small>%</small> | -3.4<small>%</small> |
+| SCHD<sub>STD</sub> <small>(99%)</small> | <span style="color: tomato">12.2<small>%</small></span> | 15.3<small>%</small> | 0.80 | -33.0<small>%</small> | -3.3<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">13.0<small>%</small></span> | 16.3<small>%</small> | 0.80 | -35.0<small>%</small> | -3.6<small>%</small> |
 
 
 
 각각의 경우를 VYM의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 99% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.1%로 VYM의 12.5%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 99% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.2%로 VYM의 12.5%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 12.9%로 VYM의 12.5%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.0%로 VYM의 12.5%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -99,7 +99,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 지난 14년 1개월간 거치식으로 투자했다고 가정합니다.
 
-SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 12.5%인 포트폴리오를 만들 수 있습니다.
+SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 12.6%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 VYM의 12.5%와 비슷했습니다.
 
 ### VYM ≒ SCHD
