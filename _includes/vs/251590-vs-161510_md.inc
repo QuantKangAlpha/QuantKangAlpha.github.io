@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLUS 고배당저변동50](/251590-vs-161510/) | <span style="color: tomato">9.2<small>%</small></span> | 14.1<small>%</small> | 0.66 | -48.8<small>%</small> | -7.7<small>%</small> |
-| PLUS 고배당주 | <span style="color: tomato">12.1<small>%</small></span> | 17.8<small>%</small> | 0.68 | -51.6<small>%</small> | -8.9<small>%</small> |
+| [PLUS 고배당저변동50](/251590-vs-161510/) | <span style="color: tomato">9.4<small>%</small></span> | 14.1<small>%</small> | 0.67 | -48.8<small>%</small> | -7.6<small>%</small> |
+| PLUS 고배당주 | <span style="color: tomato">12.3<small>%</small></span> | 17.8<small>%</small> | 0.69 | -51.6<small>%</small> | -8.9<small>%</small> |
