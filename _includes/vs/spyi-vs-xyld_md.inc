@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SPYI](/spyi-vs-xyld/) | <span style="color: tomato">15.1<small>%</small></span> | 13.2<small>%</small> | 1.15 | -16.5<small>%</small> | -1.9<small>%</small> |
+| [SPYI](/spyi-vs-xyld/) | <span style="color: tomato">14.8<small>%</small></span> | 13.2<small>%</small> | 1.13 | -16.5<small>%</small> | -1.9<small>%</small> |
 | XYLD | <span style="color: tomato">10.7<small>%</small></span> | 11.0<small>%</small> | 0.97 | -15.5<small>%</small> | -2.1<small>%</small> |

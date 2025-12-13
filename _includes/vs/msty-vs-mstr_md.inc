@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [MSTY](/msty-vs-mstr/) | <span style="color: tomato">47.0<small>%</small></span> | 71.9<small>%</small> | 0.65 | -58.3<small>%</small> | -17.0<small>%</small> |
-| MSTR | <span style="color: tomato">68.9<small>%</small></span> | 95.3<small>%</small> | 0.72 | -64.0<small>%</small> | -24.9<small>%</small> |
+| [MSTY](/msty-vs-mstr/) | <span style="color: tomato">44.2<small>%</small></span> | 71.9<small>%</small> | 0.61 | -58.3<small>%</small> | -17.1<small>%</small> |
+| MSTR | <span style="color: tomato">65.2<small>%</small></span> | 95.2<small>%</small> | 0.68 | -64.0<small>%</small> | -25.0<small>%</small> |
