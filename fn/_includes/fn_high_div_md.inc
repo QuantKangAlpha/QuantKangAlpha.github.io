@@ -36,4 +36,4 @@
 | [동원시스템즈](/014820/) | P:화학 | 11.7 | 0.7 | **4.2**<small>%</small> |
 | [JB금융지주](/175330/) | P:기타금융 | 7.5 | 0.9 | **4.2**<small>%</small> |
 | [롯데쇼핑](/023530/) | P:유통 | 52.7 | <span style="color:tomato">0.2</span> | **4.2**<small>%</small> |
-| [컴투스](/078340/) | Q:IT서비스 | 9.9 | <span style="color:tomato">0.4</span> | **4.1**<small>%</small> |
+| [iM금융지주](/139130/) | P:기타금융 | <span style="color:tomato">6.8</span> | <span style="color:tomato">0.4</span> | **4.1**<small>%</small> |

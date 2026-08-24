@@ -31,7 +31,7 @@
 | [영원무역](/111770/) | P:유통 | **6.6** | 0.8 | 2.8<small>%</small> |
 | [이녹스첨단소재](/272290/) | Q:전기전자 | **6.6** | 1.0 | 1.7<small>%</small> |
 | [기아](/000270/) | P:운송장비부품 | **6.8** | 0.8 | <span style="color:tomato">5.2<small>%</small></span> |
-| [iM금융지주](/139130/) | P:기타금융 | **6.8** | <span style="color:tomato">0.4</span> | 4.1<small>%</small> |
+| [iM금융지주](/139130/) | P:기타금융 | **6.8** | <span style="color:tomato">0.4</span> | <span style="color:tomato">4.1<small>%</small></span> |
 | [인카금융서비스](/211050/) | Q:금융 | **7.1** | 2.4 | 3.5<small>%</small> |
 | [네오위즈](/095660/) | Q:IT서비스 | **7.2** | 0.7 | 1.7<small>%</small> |
 | [브이티](/018290/) | Q:화학 | **7.2** | 1.8 | - |
