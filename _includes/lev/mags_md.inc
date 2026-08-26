@@ -1,5 +1,5 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| MAGS | | <span style="color: tomato">13.5<small>%</small></span> | - | - | - |
-| [MAGX](/magx/) | 2<small>x</small> | <span style="color: tomato">13.3<small>%</small></span> | 4.8<small>%</small> | 7.7<small>%</small> | 12.0<small>%</small> |
+| MAGS | | <span style="color: tomato">14.2<small>%</small></span> | - | - | - |
+| [MAGX](/magx/) | 2<small>x</small> | <span style="color: tomato">15.1<small>%</small></span> | 4.8<small>%</small> | 7.3<small>%</small> | 11.7<small>%</small> |
 | [MAGQ](/magq/) | -1<small>x</small> | <span style="color: cornflowerblue">-30.0<small>%</small></span><sup><small>8개월</small></sup> | 4.9<small>%</small> | -7.6<small>%</small> | -2.3<small>%</small> |

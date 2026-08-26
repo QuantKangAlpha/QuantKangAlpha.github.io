@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [XDTE](/xdte-vs-ispy/) | <span style="color: tomato">16.4<small>%</small></span> | 13.7<small>%</small> | 1.20 | -19.1<small>%</small> | -2.2<small>%</small> |
-| ISPY | <span style="color: tomato">15.6<small>%</small></span> | 13.9<small>%</small> | 1.12 | -16.9<small>%</small> | -2.2<small>%</small> |
+| [XDTE](/xdte-vs-ispy/) | <span style="color: tomato">16.6<small>%</small></span> | 13.7<small>%</small> | 1.21 | -19.1<small>%</small> | -2.2<small>%</small> |
+| ISPY | <span style="color: tomato">15.7<small>%</small></span> | 13.9<small>%</small> | 1.13 | -16.9<small>%</small> | -2.2<small>%</small> |
