@@ -5,7 +5,7 @@ excerpt: KOSPI 전기전자 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-08-25
+last_modified_at: 2026-08-26
 ---
 
 
@@ -16,79 +16,79 @@ last_modified_at: 2026-08-25
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [삼성전자](/005930/) | 38.9 | 4.0 | 0.7<small>%</small> | 46.5<small>%</small> |
-| [SK하이닉스](/000660/) | 27.1 | 9.8 | 0.2<small>%</small> | 35.7<small>%</small> |
-| 삼성전자우 | - | - | 0.9<small>%</small> | 4.7<small>%</small> |
-| [삼성전기](/009150/) | 145.8 | 10.8 | 0.2<small>%</small> | 2.8<small>%</small> |
-| [LG에너지솔루션](/373220/) | - | 4.0 | - | 2.3<small>%</small> |
+| [삼성전자](/005930/) | 39.6 | 4.1 | 0.6<small>%</small> | 46.5<small>%</small> |
+| [SK하이닉스](/000660/) | 27.2 | 9.8 | 0.2<small>%</small> | 35.7<small>%</small> |
+| 삼성전자우 | - | - | 0.8<small>%</small> | 4.7<small>%</small> |
+| [삼성전기](/009150/) | 142.3 | 10.5 | 0.2<small>%</small> | 2.8<small>%</small> |
+| [LG에너지솔루션](/373220/) | - | 4.1 | - | 2.3<small>%</small> |
 | [삼성SDI](/006400/) | - | 1.9 | - | 1.1<small>%</small> |
 | [LG전자](/066570/) | 37.6 | 1.5 | 0.7<small>%</small> | 0.9<small>%</small> |
-| [LS ELECTRIC](/010120/) | 101.3 | 14.0 | 0.3<small>%</small> | 0.8<small>%</small> |
-| [HD현대일렉트릭](/267260/) | 35.3 | 12.8 | 1.0<small>%</small> | 0.7<small>%</small> |
-| [효성중공업](/298040/) | 49.3 | 10.9 | 0.3<small>%</small> | 0.7<small>%</small> |
-| [두산](/000150/) | 260.3 | 12.6 | 0.4<small>%</small> | 0.5<small>%</small> |
-| [포스코퓨처엠](/003670/) | 3290.2 | 3.7 | 0.1<small>%</small> | 0.4<small>%</small> |
-| [한화시스템](/272210/) | 56.4 | 2.8 | 0.7<small>%</small> | 0.4<small>%</small> |
-| [LG이노텍](/011070/) | 41.7 | 2.5 | 0.3<small>%</small> | 0.4<small>%</small> |
-| [이수페타시스](/007660/) | 46.9 | 10.4 | 0.2<small>%</small> | 0.2<small>%</small> |
-| [대한전선](/001440/) | 60.7 | 3.2 | - | 0.1<small>%</small> |
-| 대덕전자 | 119.9 | 6.4 | 0.5<small>%</small> | 0.1<small>%</small> |
-| [산일전기](/062040/) | 34.5 | 8.8 | 0.7<small>%</small> | 0.1<small>%</small> |
-| [LG디스플레이](/034220/) | 21.1 | 0.7 | - | 0.1<small>%</small> |
-| 가온전선 | 93.5 | 9.9 | 0.1<small>%</small> | 0.1<small>%</small> |
-| [엘앤에프](/066970/) | - | 6.9 | - | 0.1<small>%</small> |
-| [DB하이텍](/000990/) | 14.8 | 1.8 | 0.9<small>%</small> | 0.1<small>%</small> |
-| 일진전기 | 30.4 | 5.4 | 0.8<small>%</small> | 0.1<small>%</small> |
-| [DN오토모티브](/007340/) | 8.9 | 1.2 | 2.1<small>%</small> | 0.1<small>%</small> |
+| [LS ELECTRIC](/010120/) | 104.5 | 14.5 | 0.3<small>%</small> | 0.8<small>%</small> |
+| [HD현대일렉트릭](/267260/) | 36.0 | 13.0 | 1.0<small>%</small> | 0.7<small>%</small> |
+| [효성중공업](/298040/) | 50.1 | 11.1 | 0.3<small>%</small> | 0.7<small>%</small> |
+| [두산](/000150/) | 279.0 | 13.5 | 0.3<small>%</small> | 0.5<small>%</small> |
+| [포스코퓨처엠](/003670/) | 3307.8 | 3.7 | 0.1<small>%</small> | 0.4<small>%</small> |
+| [한화시스템](/272210/) | 56.9 | 2.8 | 0.7<small>%</small> | 0.4<small>%</small> |
+| [LG이노텍](/011070/) | 40.4 | 2.4 | 0.3<small>%</small> | 0.4<small>%</small> |
+| [이수페타시스](/007660/) | 48.6 | 10.8 | 0.2<small>%</small> | 0.2<small>%</small> |
+| [대한전선](/001440/) | 62.2 | 3.3 | - | 0.1<small>%</small> |
+| 대덕전자 | 115.8 | 6.1 | 0.5<small>%</small> | 0.1<small>%</small> |
+| [산일전기](/062040/) | 36.1 | 9.2 | 0.7<small>%</small> | 0.1<small>%</small> |
+| [LG디스플레이](/034220/) | 20.9 | 0.7 | - | 0.1<small>%</small> |
+| 가온전선 | 98.0 | 10.4 | 0.1<small>%</small> | 0.1<small>%</small> |
+| [엘앤에프](/066970/) | - | 7.0 | - | 0.1<small>%</small> |
+| [DB하이텍](/000990/) | 14.6 | 1.8 | 0.9<small>%</small> | 0.1<small>%</small> |
+| 일진전기 | 31.8 | 5.6 | 0.7<small>%</small> | 0.1<small>%</small> |
+| [DN오토모티브](/007340/) | 8.7 | 1.2 | 2.1<small>%</small> | 0.1<small>%</small> |
 | 한화비전 | 58.1 | 3.0 | - | 0.1<small>%</small> |
-| [에코프로머티](/450080/) | 104.5 | 2.4 | - | 0.1<small>%</small> |
-| 두산퓨얼셀 | - | 9.4 | - | 0.1<small>%</small> |
-| 두산우 | - | - | 1.0<small>%</small> | 0.0<small>%</small> |
+| [에코프로머티](/450080/) | 107.8 | 2.5 | - | 0.1<small>%</small> |
+| 두산퓨얼셀 | - | 10.1 | - | 0.1<small>%</small> |
+| 두산우 | - | - | 0.9<small>%</small> | 0.0<small>%</small> |
 | 롯데에너지머티리얼즈 | - | 1.0 | - | 0.0<small>%</small> |
-| HD현대에너지솔루션 | 36.3 | 3.6 | - | 0.0<small>%</small> |
+| HD현대에너지솔루션 | 38.1 | 3.8 | - | 0.0<small>%</small> |
 | 삼성전기우 | - | - | 0.5<small>%</small> | 0.0<small>%</small> |
-| 코리아써키트 | 33.4 | 3.6 | 0.2<small>%</small> | 0.0<small>%</small> |
-| LG전자우 | - | - | 2.0<small>%</small> | 0.0<small>%</small> |
-| [SK아이이테크놀로지](/361610/) | - | 0.5 | - | 0.0<small>%</small> |
-| 대원전선 | 118.0 | 8.7 | - | 0.0<small>%</small> |
-| 삼화콘덴서 | 85.9 | 3.9 | 0.5<small>%</small> | 0.0<small>%</small> |
+| 코리아써키트 | 33.8 | 3.6 | 0.2<small>%</small> | 0.0<small>%</small> |
+| LG전자우 | - | - | 1.9<small>%</small> | 0.0<small>%</small> |
+| [SK아이이테크놀로지](/361610/) | - | 0.6 | - | 0.0<small>%</small> |
+| 대원전선 | 120.6 | 8.9 | - | 0.0<small>%</small> |
+| 삼화콘덴서 | 88.3 | 4.0 | 0.5<small>%</small> | 0.0<small>%</small> |
 | 경동나비엔 | 10.4 | 1.2 | 1.2<small>%</small> | 0.0<small>%</small> |
 | 해성디에스 | 38.5 | 1.6 | 1.7<small>%</small> | 0.0<small>%</small> |
-| 세방전지 | 5.4 | 0.5 | 4.6<small>%</small> | 0.0<small>%</small> |
-| 파미셀 | 16.1 | 5.2 | 0.5<small>%</small> | 0.0<small>%</small> |
-| 자화전자 | 13.5 | 1.4 | - | 0.0<small>%</small> |
-| 솔루엠 | 47.0 | 1.3 | 0.6<small>%</small> | 0.0<small>%</small> |
-| LX세미콘 | 7.3 | 0.5 | 4.0<small>%</small> | 0.0<small>%</small> |
+| 세방전지 | 5.6 | 0.5 | 4.4<small>%</small> | 0.0<small>%</small> |
+| 파미셀 | 16.2 | 5.3 | 0.5<small>%</small> | 0.0<small>%</small> |
+| 자화전자 | 13.2 | 1.4 | - | 0.0<small>%</small> |
+| 솔루엠 | 47.1 | 1.3 | 0.6<small>%</small> | 0.0<small>%</small> |
+| LX세미콘 | 7.4 | 0.5 | 4.0<small>%</small> | 0.0<small>%</small> |
 | 한국단자 | 5.4 | 0.5 | 5.7<small>%</small> | 0.0<small>%</small> |
-| 비에이치 | 16.6 | 0.7 | 1.5<small>%</small> | 0.0<small>%</small> |
+| 비에이치 | 17.2 | 0.7 | 1.5<small>%</small> | 0.0<small>%</small> |
 | 솔루스첨단소재 | - | 1.0 | 0.1<small>%</small> | 0.0<small>%</small> |
-| 광전자 | 89.9 | 1.6 | 0.7<small>%</small> | 0.0<small>%</small> |
-| 신도리코 | 17.5 | 0.3 | 2.5<small>%</small> | 0.0<small>%</small> |
+| 광전자 | 89.5 | 1.6 | 0.7<small>%</small> | 0.0<small>%</small> |
+| 신도리코 | 17.8 | 0.3 | 2.4<small>%</small> | 0.0<small>%</small> |
 | 한솔테크닉스 | - | 0.8 | 1.4<small>%</small> | 0.0<small>%</small> |
-| 엠씨넥스 | 6.3 | 0.8 | 5.0<small>%</small> | 0.0<small>%</small> |
+| 엠씨넥스 | 6.4 | 0.8 | 4.9<small>%</small> | 0.0<small>%</small> |
 | 삼성SDI우 | - | - | - | 0.0<small>%</small> |
 | 신성이엔지 | - | 1.4 | - | 0.0<small>%</small> |
-| 드림텍 | 5060.0 | 0.9 | 4.5<small>%</small> | 0.0<small>%</small> |
-| 두산2우B | - | - | 1.3<small>%</small> | 0.0<small>%</small> |
+| 드림텍 | 5250.0 | 0.9 | 4.3<small>%</small> | 0.0<small>%</small> |
+| 두산2우B | - | - | 1.2<small>%</small> | 0.0<small>%</small> |
 | 티엠씨 | - | 2.5 | 0.4<small>%</small> | 0.0<small>%</small> |
-| 삼영전자 | 45.9 | 0.4 | 2.4<small>%</small> | 0.0<small>%</small> |
-| 삼화전기 | 16.2 | 1.6 | 2.6<small>%</small> | 0.0<small>%</small> |
+| 삼영전자 | 45.8 | 0.4 | 2.4<small>%</small> | 0.0<small>%</small> |
+| 삼화전기 | 16.3 | 1.6 | 2.6<small>%</small> | 0.0<small>%</small> |
 | 와이투솔루션 | - | 1.2 | - | 0.0<small>%</small> |
-| 금호전기 | - | 4.3 | - | 0.0<small>%</small> |
+| 금호전기 | - | 4.2 | - | 0.0<small>%</small> |
 | KEC | - | 0.3 | - | 0.0<small>%</small> |
 | 티에이치엔 | 1.4 | 0.4 | 2.2<small>%</small> | 0.0<small>%</small> |
-| 아남전자 | 17.3 | 0.7 | - | 0.0<small>%</small> |
+| 아남전자 | 17.6 | 0.7 | - | 0.0<small>%</small> |
 | 주성코퍼레이션 | 40.9 | 2.9 | - | 0.0<small>%</small> |
-| 선도전기 | 12.9 | 1.9 | - | 0.0<small>%</small> |
+| 선도전기 | 12.8 | 1.9 | - | 0.0<small>%</small> |
 | 두산퓨얼셀1우 | - | - | - | 0.0<small>%</small> |
 | 휴니드 | - | 0.4 | - | 0.0<small>%</small> |
-| 써니전자 | 17.7 | 0.8 | 2.0<small>%</small> | 0.0<small>%</small> |
+| 써니전자 | 17.5 | 0.7 | 2.0<small>%</small> | 0.0<small>%</small> |
 | 일진디스플 | - | 1.6 | - | 0.0<small>%</small> |
 | 삼화전자 | - | 2.5 | - | 0.0<small>%</small> |
 | 코리아써우 | - | - | 0.6<small>%</small> | 0.0<small>%</small> |
 | 씨아이테크 | 3.2 | 0.7 | - | 0.0<small>%</small> |
 | 대덕전자1우 | - | - | 2.2<small>%</small> | 0.0<small>%</small> |
-| 성문전자 | 20.2 | 0.9 | 0.3<small>%</small> | 0.0<small>%</small> |
+| 성문전자 | 20.1 | 0.9 | 0.3<small>%</small> | 0.0<small>%</small> |
 | 엑시큐어하이트론 | - | 3.3 | - | 0.0<small>%</small> |
 | 광명전기 | - | 6.5 | - | 0.0<small>%</small> |
 | 경인전자 | 7.6 | 0.4 | 2.2<small>%</small> | 0.0<small>%</small> |
