@@ -5,7 +5,7 @@ excerpt: KOSDAQ 비금속 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-08-26
+last_modified_at: 2026-08-27
 ---
 
 
@@ -16,20 +16,20 @@ last_modified_at: 2026-08-26
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [티씨케이](/064760/) | 38.9 | 5.1 | 0.6<small>%</small> | 51.5<small>%</small> |
-| [삼표시멘트](/038500/) | 20.3 | 1.1 | 1.6<small>%</small> | 15.8<small>%</small> |
+| [티씨케이](/064760/) | 39.5 | 5.2 | 0.6<small>%</small> | 51.5<small>%</small> |
+| [삼표시멘트](/038500/) | 20.7 | 1.1 | 1.5<small>%</small> | 15.8<small>%</small> |
 | [원익QnC](/074600/) | 31.2 | 1.4 | 0.5<small>%</small> | 14.1<small>%</small> |
-| 유진기업 | - | 0.3 | 5.4<small>%</small> | 5.1<small>%</small> |
+| 유진기업 | - | 0.2 | 5.5<small>%</small> | 5.1<small>%</small> |
 | SG | - | 1.2 | - | 2.7<small>%</small> |
-| 서산 | - | 1.3 | - | 2.0<small>%</small> |
-| 강동씨앤엘 | 117.6 | 0.6 | - | 1.6<small>%</small> |
+| 서산 | - | 1.4 | - | 2.0<small>%</small> |
+| 강동씨앤엘 | 119.7 | 0.6 | - | 1.6<small>%</small> |
 | HC보광산업 | - | 0.8 | 2.5<small>%</small> | 1.5<small>%</small> |
 | 동양파일 | - | 0.5 | - | 1.2<small>%</small> |
-| 에스엠씨지 | 38.8 | 1.3 | - | 1.1<small>%</small> |
-| 쎄노텍 | 28.9 | 1.1 | - | 0.9<small>%</small> |
+| 에스엠씨지 | 39.2 | 1.3 | - | 1.1<small>%</small> |
+| 쎄노텍 | 28.8 | 1.1 | - | 0.9<small>%</small> |
 | 자연과환경 | - | 0.5 | - | 0.8<small>%</small> |
 | 모헨즈 | - | 1.2 | - | 0.7<small>%</small> |
-| 동국알앤에스 | 51.6 | 0.4 | 5.0<small>%</small> | 0.6<small>%</small> |
+| 동국알앤에스 | 51.3 | 0.4 | 5.0<small>%</small> | 0.6<small>%</small> |
 | 국영지앤엠 | 9.8 | 0.3 | - | 0.3<small>%</small> |
 
 {% include commons/footnotes.md %}
