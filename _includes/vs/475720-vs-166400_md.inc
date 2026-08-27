@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 200위클리커버드콜](/475720-vs-166400/) | <span style="color: tomato">30.0<small>%</small></span> | 29.6<small>%</small> | 1.02 | -31.6<small>%</small> | -6.8<small>%</small> |
-| TIGER 200커버드콜OTM | <span style="color: tomato">32.7<small>%</small></span> | 30.8<small>%</small> | 1.06 | -22.5<small>%</small> | -5.3<small>%</small> |
+| [RISE 200위클리커버드콜](/475720-vs-166400/) | <span style="color: tomato">30.8<small>%</small></span> | 29.5<small>%</small> | 1.04 | -31.6<small>%</small> | -6.8<small>%</small> |
+| TIGER 200커버드콜OTM | <span style="color: tomato">33.2<small>%</small></span> | 30.8<small>%</small> | 1.08 | -22.5<small>%</small> | -5.3<small>%</small> |

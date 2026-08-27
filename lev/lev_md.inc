@@ -172,24 +172,18 @@
 
 
 
-### Magnificent Seven (M7)<a id="MAGS"></a>
-
-{% include lev/mags_md.inc %}
-
-
-
 ### 애플<a id="AAPL"></a>
 
 {% include lev/aapl_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
 ### 테슬라<a id="TSLA"></a>
 
 {% include lev/tsla_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 

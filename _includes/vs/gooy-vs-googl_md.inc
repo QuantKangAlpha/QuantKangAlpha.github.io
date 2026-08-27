@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [GOOY](/gooy-vs-googl/) | <span style="color: tomato">21.7<small>%</small></span> | 23.8<small>%</small> | 0.91 | -24.4<small>%</small> | -6.6<small>%</small> |
-| GOOGL | <span style="color: tomato">37.1<small>%</small></span> | 30.2<small>%</small> | 1.23 | -29.8<small>%</small> | -7.5<small>%</small> |
+| [GOOY](/gooy-vs-googl/) | <span style="color: tomato">21.3<small>%</small></span> | 23.8<small>%</small> | 0.89 | -24.4<small>%</small> | -6.6<small>%</small> |
+| GOOGL | <span style="color: tomato">36.4<small>%</small></span> | 30.2<small>%</small> | 1.20 | -29.8<small>%</small> | -7.5<small>%</small> |
