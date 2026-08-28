@@ -5,7 +5,7 @@ excerpt: KOSPI 기계장비 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-08-27
+last_modified_at: 2026-08-28
 ---
 
 
@@ -16,35 +16,35 @@ last_modified_at: 2026-08-27
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [두산에너빌리티](/034020/) | 650.8 | 7.1 | - | 47.5<small>%</small> |
-| [한미반도체](/042700/) | 98.4 | 30.5 | 0.4<small>%</small> | 20.6<small>%</small> |
-| [두산밥캣](/241560/) | 14.8 | 0.8 | 2.8<small>%</small> | 5.6<small>%</small> |
-| [HD건설기계](/267270/) | 24.7 | 1.4 | 0.4<small>%</small> | 5.6<small>%</small> |
-| [두산로보틱스](/454910/) | - | 13.6 | - | 4.7<small>%</small> |
+| [두산에너빌리티](/034020/) | 668.2 | 7.3 | - | 47.5<small>%</small> |
+| [한미반도체](/042700/) | 97.3 | 30.2 | 0.4<small>%</small> | 20.6<small>%</small> |
+| [두산밥캣](/241560/) | 15.0 | 0.8 | 2.7<small>%</small> | 5.6<small>%</small> |
+| [HD건설기계](/267270/) | 24.0 | 1.3 | 0.4<small>%</small> | 5.6<small>%</small> |
+| [두산로보틱스](/454910/) | - | 13.3 | - | 4.7<small>%</small> |
 | [한화엔진](/082740/) | 23.3 | 7.2 | - | 3.7<small>%</small> |
 | [한온시스템](/018880/) | - | 0.9 | - | 3.5<small>%</small> |
-| [현대엘리베이터](/017800/) | 10.4 | 2.0 | 18.6<small>%</small> | 2.9<small>%</small> |
-| [HD현대마린엔진](/071970/) | 11.0 | 3.7 | - | 1.7<small>%</small> |
-| STX엔진 | 14.6 | 3.1 | - | 1.0<small>%</small> |
+| [현대엘리베이터](/017800/) | 10.4 | 2.0 | 18.5<small>%</small> | 2.9<small>%</small> |
+| [HD현대마린엔진](/071970/) | 10.9 | 3.7 | - | 1.7<small>%</small> |
+| STX엔진 | 14.1 | 3.0 | - | 1.0<small>%</small> |
 | SNT에너지 | 7.6 | 1.8 | 3.5<small>%</small> | 0.5<small>%</small> |
-| 전진건설로봇 | 18.5 | 3.8 | 3.5<small>%</small> | 0.5<small>%</small> |
+| 전진건설로봇 | 19.0 | 3.9 | 3.4<small>%</small> | 0.5<small>%</small> |
 | 엠앤씨솔루션 | 9.1 | 2.1 | 16.5<small>%</small> | 0.4<small>%</small> |
 | TYM | 7.0 | 0.7 | 4.2<small>%</small> | 0.3<small>%</small> |
 | 대동 | - | 0.4 | 1.3<small>%</small> | 0.2<small>%</small> |
 | 삼익THK | - | 1.1 | 0.6<small>%</small> | 0.2<small>%</small> |
 | 디와이파워 | 5.1 | 0.4 | 4.3<small>%</small> | 0.1<small>%</small> |
-| 수산세보틱스 | 7.8 | 0.6 | 0.5<small>%</small> | 0.1<small>%</small> |
-| 계양전기 | - | 5.5 | - | 0.1<small>%</small> |
+| 수산세보틱스 | 7.6 | 0.6 | 0.5<small>%</small> | 0.1<small>%</small> |
+| 계양전기 | - | 5.4 | - | 0.1<small>%</small> |
 | KC코트렐 | - | 2.0 | - | 0.1<small>%</small> |
 | DKME | - | 0.6 | - | 0.1<small>%</small> |
-| 화천기공 | 6.9 | 0.2 | 3.6<small>%</small> | 0.1<small>%</small> |
+| 화천기공 | 7.0 | 0.2 | 3.6<small>%</small> | 0.1<small>%</small> |
 | 한신기계 | - | 0.9 | 0.8<small>%</small> | 0.1<small>%</small> |
-| 우신시스템 | 3.9 | 0.3 | 0.8<small>%</small> | 0.1<small>%</small> |
-| 화천기계 | 23.2 | 0.5 | 0.7<small>%</small> | 0.1<small>%</small> |
-| 기신정기 | 18.6 | 0.2 | 5.0<small>%</small> | 0.1<small>%</small> |
+| 우신시스템 | 3.8 | 0.3 | 0.8<small>%</small> | 0.1<small>%</small> |
+| 화천기계 | 22.9 | 0.5 | 0.7<small>%</small> | 0.1<small>%</small> |
+| 기신정기 | 18.9 | 0.2 | 4.9<small>%</small> | 0.1<small>%</small> |
 | 이엔플러스 | 46.0 | 2.6 | - | 0.0<small>%</small> |
 | 씨케이솔루션 | - | 0.6 | - | 0.0<small>%</small> |
-| 우진플라임 | 15.6 | 0.3 | 2.8<small>%</small> | 0.0<small>%</small> |
+| 우진플라임 | 15.5 | 0.3 | 2.8<small>%</small> | 0.0<small>%</small> |
 | 한국주강 | - | 0.8 | - | 0.0<small>%</small> |
 | 참엔지니어링 | - | 0.3 | - | 0.0<small>%</small> |
 | 다이나믹디자인 | - | 0.2 | - | 0.0<small>%</small> |
