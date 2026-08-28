@@ -1,7 +1,7 @@
 ---
 layout: single
 title: MSFO vs Microsoft Corp (MSFT)
-excerpt: MSFO의 최근 3년 CAGR은 15.8%로 Microsoft Corp (MSFT)의 16.9%보다 -1.1% 낮았습니다.
+excerpt: MSFO의 최근 3년 CAGR은 16.3%로 Microsoft Corp (MSFT)의 16.9%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ MSFO의 수익률이 MSFT보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MSFO | <span style="color: tomato">15.8<small>%</small></span> | 22.0<small>%</small> | 0.72 | -29.6<small>%</small> | -7.4<small>%</small> |
+| MSFO | <span style="color: tomato">16.3<small>%</small></span> | 22.0<small>%</small> | 0.74 | -29.6<small>%</small> | -7.4<small>%</small> |
 | MSFT | <span style="color: tomato">16.9<small>%</small></span> | 26.0<small>%</small> | 0.65 | -34.5<small>%</small> | -9.4<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ MSFO의 수익률이 MSFT보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** MSFO의 CAGR은 15.8%로 MSFT의 16.9%보다 -1.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** MSFO의 CAGR은 16.3%로 MSFT의 16.9%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** MSFO의 표준편차는 22.0%로 MSFT의 26.0%보다 -4.1% 낮았습니다. (낮은 위험도)
 
@@ -76,18 +76,18 @@ MSFT<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MSF
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MSFO | <span style="color: tomato">15.8<small>%</small></span> | 22.0<small>%</small> | 0.72 | -29.6<small>%</small> | -7.4<small>%</small> |
+| MSFO | <span style="color: tomato">16.3<small>%</small></span> | 22.0<small>%</small> | 0.74 | -29.6<small>%</small> | -7.4<small>%</small> |
 | MSFT | <span style="color: tomato">16.9<small>%</small></span> | 26.0<small>%</small> | 0.65 | -34.5<small>%</small> | -9.4<small>%</small> |
-| MSFT<sub>STD</sub> <small>(84%)</small> | <span style="color: tomato">14.6<small>%</small></span> | 22.0<small>%</small> | 0.66 | -29.7<small>%</small> | -7.9<small>%</small> |
+| MSFT<sub>STD</sub> <small>(84%)</small> | <span style="color: tomato">14.6<small>%</small></span> | 22.0<small>%</small> | 0.66 | -29.8<small>%</small> | -7.9<small>%</small> |
 | MSFT<sub>MDD</sub> <small>(86%)</small> | <span style="color: tomato">14.9<small>%</small></span> | 22.4<small>%</small> | 0.66 | -30.2<small>%</small> | -8.1<small>%</small> |
 
 
 
 각각의 경우를 MSFO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 84% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.6%로 MSFO의 15.8%보다 -1.2% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 84% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.6%로 MSFO의 16.3%보다 -1.7% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 86% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.9%로 MSFO의 15.8%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 86% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.9%로 MSFO의 16.3%보다 -1.4% 낮았습니다. (낮은 수익률)
 
 
 
@@ -100,7 +100,7 @@ MSFT<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MSF
 지난 3년간 거치식으로 투자했다고 가정합니다.
 
 MSFT의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 14.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 MSFO의 15.8%보다 -1.1% 낮았습니다.
+이 포트폴리오는 MSFO의 16.3%보다 -1.5% 낮았습니다.
 
 ### MSFO &gt; MSFT
 {: .text-center}

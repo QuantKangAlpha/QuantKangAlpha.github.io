@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PYPY vs PayPal Holdings Inc (PYPL)
-excerpt: PYPY의 최근 2년 11개월 CAGR은 3.2%로 PayPal Holdings Inc (PYPL)의 1.8%보다 1.4% 높았습니다.
+excerpt: PYPY의 최근 2년 11개월 CAGR은 3.5%로 PayPal Holdings Inc (PYPL)의 1.8%보다 1.7% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ PYPY의 수익률이 PYPL보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PYPY | <span style="color: tomato">3.2<small>%</small></span> | 31.6<small>%</small> | 0.10 | -53.6<small>%</small> | -18.1<small>%</small> |
+| PYPY | <span style="color: tomato">3.5<small>%</small></span> | 31.6<small>%</small> | 0.11 | -53.6<small>%</small> | -18.1<small>%</small> |
 | PYPL | <span style="color: tomato">1.8<small>%</small></span> | 37.9<small>%</small> | 0.05 | -57.3<small>%</small> | -20.4<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ PYPY의 수익률이 PYPL보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PYPY의 CAGR은 3.2%로 PYPL의 1.8%보다 1.4% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PYPY의 CAGR은 3.5%로 PYPL의 1.8%보다 1.7% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PYPY의 표준편차는 31.6%로 PYPL의 37.9%보다 -6.3% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ PYPL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PYP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PYPY | <span style="color: tomato">3.2<small>%</small></span> | 31.6<small>%</small> | 0.10 | -53.6<small>%</small> | -18.1<small>%</small> |
+| PYPY | <span style="color: tomato">3.5<small>%</small></span> | 31.6<small>%</small> | 0.11 | -53.6<small>%</small> | -18.1<small>%</small> |
 | PYPL | <span style="color: tomato">1.8<small>%</small></span> | 37.9<small>%</small> | 0.05 | -57.3<small>%</small> | -20.4<small>%</small> |
 | PYPL<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">2.5<small>%</small></span> | 31.6<small>%</small> | 0.08 | -50.2<small>%</small> | -17.2<small>%</small> |
 | PYPL<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">2.1<small>%</small></span> | 35.5<small>%</small> | 0.06 | -54.6<small>%</small> | -19.2<small>%</small> |
@@ -85,9 +85,9 @@ PYPL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PYP
 
 각각의 경우를 PYPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 2.5%로 PYPY의 3.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 2.5%로 PYPY의 3.5%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 2.1%로 PYPY의 3.2%보다 -1.1% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 2.1%로 PYPY의 3.5%보다 -1.4% 낮았습니다. (낮은 수익률)
 
 
 
@@ -100,12 +100,10 @@ PYPL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PYP
 지난 2년 11개월간 거치식으로 투자했다고 가정합니다.
 
 PYPL의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 2.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 PYPY의 3.2%와 비슷했습니다.
+이 포트폴리오는 PYPY의 3.5%보다 -1.2% 낮았습니다.
 
-### PYPY ≒ PYPL
+### PYPY &gt; PYPL
 {: .text-center}
-**참고** 위험 대비 수익률이 비슷한 경우라면, 적은 비중으로 동일한 투자 효과를 낼 수 있는 상품을 선택하는 것이, 투자 전략 유연성 측면에서는 보다 유리할 수 있습니다.
-{: .notice--info}
 
 
 ## 관련 정보

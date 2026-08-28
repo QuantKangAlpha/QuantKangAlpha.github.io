@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [WON 미국S&P500](/444490-vs-360750/) | <span style="color: tomato">20.4<small>%</small></span> | 16.4<small>%</small> | 1.24 | -19.4<small>%</small> | -2.7<small>%</small> |
-| TIGER 미국S&P500 | <span style="color: tomato">20.6<small>%</small></span> | 15.6<small>%</small> | 1.33 | -19.2<small>%</small> | -2.8<small>%</small> |
+| [WON 미국S&P500](/444490-vs-360750/) | <span style="color: tomato">20.4<small>%</small></span> | 16.4<small>%</small> | 1.24 | -19.4<small>%</small> | -2.8<small>%</small> |
+| TIGER 미국S&P500 | <span style="color: tomato">20.5<small>%</small></span> | 15.6<small>%</small> | 1.32 | -19.2<small>%</small> | -2.8<small>%</small> |

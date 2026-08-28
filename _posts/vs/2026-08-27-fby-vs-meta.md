@@ -1,7 +1,7 @@
 ---
 layout: single
 title: FBY vs Meta Platforms Inc (META)
-excerpt: FBY의 최근 3년 CAGR은 12.7%로 Meta Platforms Inc (META)의 20.3%보다 -7.6% 낮았습니다.
+excerpt: FBY의 최근 3년 CAGR은 12.9%로 Meta Platforms Inc (META)의 20.3%보다 -7.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ FBY의 수익률이 META보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FBY | <span style="color: tomato">12.7<small>%</small></span> | 29.4<small>%</small> | 0.43 | -31.5<small>%</small> | -9.0<small>%</small> |
+| FBY | <span style="color: tomato">12.9<small>%</small></span> | 29.4<small>%</small> | 0.44 | -31.5<small>%</small> | -9.0<small>%</small> |
 | META | <span style="color: tomato">20.3<small>%</small></span> | 37.1<small>%</small> | 0.55 | -34.2<small>%</small> | -10.1<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ FBY의 수익률이 META보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** FBY의 CAGR은 12.7%로 META의 20.3%보다 -7.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** FBY의 CAGR은 12.9%로 META의 20.3%보다 -7.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** FBY의 표준편차는 29.4%로 META의 37.1%보다 -7.7% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ META<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MET
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FBY | <span style="color: tomato">12.7<small>%</small></span> | 29.4<small>%</small> | 0.43 | -31.5<small>%</small> | -9.0<small>%</small> |
+| FBY | <span style="color: tomato">12.9<small>%</small></span> | 29.4<small>%</small> | 0.44 | -31.5<small>%</small> | -9.0<small>%</small> |
 | META | <span style="color: tomato">20.3<small>%</small></span> | 37.1<small>%</small> | 0.55 | -34.2<small>%</small> | -10.1<small>%</small> |
 | META<sub>STD</sub> <small>(79%)</small> | <span style="color: tomato">17.1<small>%</small></span> | 29.4<small>%</small> | 0.58 | -27.8<small>%</small> | -7.9<small>%</small> |
 | META<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">19.2<small>%</small></span> | 34.3<small>%</small> | 0.56 | -31.9<small>%</small> | -9.3<small>%</small> |
@@ -85,9 +85,9 @@ META<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MET
 
 각각의 경우를 FBY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.1%로 FBY의 12.7%보다 4.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.1%로 FBY의 12.9%보다 4.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.2%로 FBY의 12.7%보다 6.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.2%로 FBY의 12.9%보다 6.3% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ META<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MET
 지난 3년간 거치식으로 투자했다고 가정합니다.
 
 META의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 18.2%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 FBY의 12.7%보다 5.4% 높았습니다.
+이 포트폴리오는 FBY의 12.9%보다 5.2% 높았습니다.
 
 ### FBY &lt; META
 {: .text-center}
