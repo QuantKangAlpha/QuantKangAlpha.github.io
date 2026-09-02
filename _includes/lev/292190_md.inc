@@ -1,4 +1,4 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX KRX300 | | <span style="color: tomato">142.4<small>%</small></span> | - | - | - |
-| [KODEX KRX300레버리지](/306950/) | 2<small>x</small> | <span style="color: tomato">305.6<small>%</small></span> | 28.2<small>%</small> | 3.8<small>%</small> | 30.9<small>%</small> |
+| KODEX KRX300 | | <span style="color: tomato">130.6<small>%</small></span> | - | - | - |
+| [KODEX KRX300레버리지](/306950/) | 2<small>x</small> | <span style="color: tomato">280.7<small>%</small></span> | 28.3<small>%</small> | 0.1<small>%</small> | 28.4<small>%</small> |

@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 코스피중형주](/277650-vs-226490/) | <span style="color: tomato">6.7<small>%</small></span> | 21.4<small>%</small> | 0.31 | -53.1<small>%</small> | -14.7<small>%</small> |
-| KODEX 코스피 | <span style="color: tomato">14.8<small>%</small></span> | 24.5<small>%</small> | 0.60 | -41.3<small>%</small> | -12.8<small>%</small> |
+| [TIGER 코스피중형주](/277650-vs-226490/) | <span style="color: tomato">6.3<small>%</small></span> | 21.4<small>%</small> | 0.29 | -53.1<small>%</small> | -14.7<small>%</small> |
+| KODEX 코스피 | <span style="color: tomato">14.2<small>%</small></span> | 24.6<small>%</small> | 0.58 | -41.3<small>%</small> | -12.8<small>%</small> |
