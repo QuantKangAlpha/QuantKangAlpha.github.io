@@ -13,7 +13,7 @@ categories:
 ## 최근 글 50건
 [거치식 투자 포트폴리오 구성 종목과 비중 사례 \[26-08\]](https://m.blog.naver.com/onuri2005/224416910091)
 
-[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 | 2026년 9월 2주차 (+4주간)](https://m.blog.naver.com/onuri2005/224416214904)
+[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 9월 2주차 (+4주간)](https://m.blog.naver.com/onuri2005/224416214904)
 
 [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 9월 2주차)](https://m.blog.naver.com/onuri2005/224415797993)
 
@@ -31,7 +31,7 @@ categories:
 
 [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 9월 1주차)](https://m.blog.naver.com/onuri2005/224408579428)
 
-[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 | 2026년 9월 1주차 (+4주간)](https://m.blog.naver.com/onuri2005/224408599663)
+[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 9월 1주차 (+4주간)](https://m.blog.naver.com/onuri2005/224408599663)
 
 [BALI, JEPI, QQQI vs 기초자산 \[거치식·적립식·인출식 기회비용, 26-08\]](https://m.blog.naver.com/onuri2005/224399906625)
 
@@ -55,7 +55,7 @@ categories:
 
 [ETF 거치·적립·인출식 투자 시뮬레이터 \[26-08\]](https://m.blog.naver.com/onuri2005/224401832649)
 
-[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 | 2026년 8월 5주차 (+4주간)](https://m.blog.naver.com/onuri2005/224401113131)
+[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 8월 5주차 (+4주간)](https://m.blog.naver.com/onuri2005/224401113131)
 
 [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 8월 5주차)](https://m.blog.naver.com/onuri2005/224400994917)
 
@@ -69,7 +69,7 @@ categories:
 
 [국내 상장 ETF 현황 - 종류, 규모와 순위 (2026년 8월 4주차)](https://m.blog.naver.com/onuri2005/224393478408)
 
-[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 | 2026년 8월 4주차 (+4주간)](https://m.blog.naver.com/onuri2005/224393352623)
+[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 8월 4주차 (+4주간)](https://m.blog.naver.com/onuri2005/224393352623)
 
 [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 8월 4주차)](https://m.blog.naver.com/onuri2005/224392908315)
 
@@ -85,7 +85,7 @@ categories:
 
 [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 8월 3주차)](https://m.blog.naver.com/onuri2005/224385351064)
 
-[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 | 2026년 8월 3주차 (+4주간)](https://m.blog.naver.com/onuri2005/224385790807)
+[개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 8월 3주차 (+4주간)](https://m.blog.naver.com/onuri2005/224385790807)
 
 [커버드콜, 특히 적립식으로 투자하면 불리한 이유](https://m.blog.naver.com/onuri2005/224384647390)
 
