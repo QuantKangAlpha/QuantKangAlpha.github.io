@@ -319,11 +319,6 @@ collections:
     output: true
     permalink: /:collection/:title/
 
-collections:
-  blogs:
-    output: true
-    permalink: /:collection/:title/
-
 # Defaults
 defaults:
   # _posts
