@@ -1,5 +1,6 @@
 ---
 title: 오렌시자사과일일의 네이버 블로그 최근 글 목록
+excerpt: 장기 투자, 분산 투자, 통계적 분석, 커버드콜, 오렌지사과
 header:
   overlay_image: "/assets/images/report.jpg"
 last_modified_at: 2026-09-22
@@ -8,6 +9,10 @@ toc_sticky: false
 categories:
 - 글목록
 ---
+
+## 블로그 페이지
+- [오렌시자사과일일의 네이버 블로그 (PC)](https://blog.naver.com/orangeapplebooks)
+- [오렌시자사과일일의 네이버 블로그 (모바일)](https://m.blog.naver.com/orangeapplebooks)
 
 ## 최근 글 50건
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-21, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224418832548)
