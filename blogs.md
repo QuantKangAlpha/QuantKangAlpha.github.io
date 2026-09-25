@@ -16,8 +16,7 @@ permalink: /blogs/
 
 ## 블로그 목록
 
-{% for blog in site.blogs %}
-- [{{ blog.title }}]({{ blog.url }})
+{% for blog in site.blogs %}- [{{ blog.title }}]({{ blog.url }})
 {% endfor %}
 
 {% include commons/footnotes.md %}
