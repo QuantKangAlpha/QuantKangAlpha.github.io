@@ -182,7 +182,5 @@ ETF의 과거 데이터를 기반으로 거치식, 적립식, 인출식 등 다�
 
 ## [구글 검색 등록을 도와주는 백링크의 원리와 서비스 신청 안내](/blogs/)
 
-{% include /commons/ads/adsense.html %}
-
 {% include commons/footnotes.md %}
 
