@@ -20,6 +20,4 @@ permalink: /blogs/
   <a href="{{ blog.url }}">{{ blog.title }}</a>
 {% endfor %}
 
-{% include /commons/ads/adsense.html %}
-
 {% include commons/footnotes.md %}
