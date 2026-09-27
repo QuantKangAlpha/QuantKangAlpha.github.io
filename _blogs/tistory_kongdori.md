@@ -1,4 +1,3 @@
-kongdori
 ---
 title: 오렌시자사과의 티스토리 최근 글 목록
 header:
